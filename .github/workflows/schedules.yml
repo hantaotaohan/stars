@@ -7,13 +7,12 @@ jobs:
     name: update awesome-stars
     runs-on: ubuntu-latest
     steps:
-    - name: checkout actions
     - uses: actions/checkout@v1
-    - name: Set up Python 3.7
+    - name: checkout actions
       uses: actions/setup-python@v1
       with:
         python-version: 3.7
-    - name: Install dependencies
+    - name: Set up Python 3.7
       run: |
         python3 -m pip install --upgrade pip
         pip3 install starred
