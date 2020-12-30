@@ -1,7 +1,7 @@
 name: update awesome-stars
 on:
   push:
-  pull_request:
+  gollum: 
   schedule:
     - cron: 30 0 * * *
   #push:
@@ -14,8 +14,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-        with:
-          ref: master
       - name: 'Set up Python'
         uses: actions/setup-python@v1
         with:
