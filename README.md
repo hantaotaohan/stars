@@ -210,6 +210,7 @@
 
 ## Others 
 
+- [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
@@ -233,6 +234,7 @@
 
 ## Python 
 
+- [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [vimade](https://github.com/TaDaa/vimade) - An eye friendly plugin that fades your inactive buffers and preserves your syntax highlighting!
 - [Blog-With-GitHub-Boilerplate](https://github.com/AlanDecode/Blog-With-GitHub-Boilerplate) - 这是博客文章《完全用 GitHub 写博客》所提出流程的示例仓库。
 - [Maverick](https://github.com/AlanDecode/Maverick) - 🏄‍ A static blog generator built with Python.
@@ -285,7 +287,6 @@
 - [ultisnips](https://github.com/SirVer/ultisnips) - UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
 - [Vim-EPUB](https://github.com/vim-scripts/Vim-EPUB) - Plugin for EPUB ebooks' edition
 - [django-treenode](https://github.com/fabiocaccamo/django-treenode) - probably the best abstract model / admin for your tree based stuff. :deciduous_tree:
-- [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [Cactus](https://github.com/eudicots/Cactus) - Static site generator for designers. Uses Python and Django templates.
 - [wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) - wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
 - [LeaderF](https://github.com/Yggdroot/LeaderF) - An efficient fuzzy finder that helps to locate files, buffers, mrus, gtags, etc. on the fly for both vim and neovim.
