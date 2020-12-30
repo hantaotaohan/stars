@@ -1,6 +1,7 @@
 name: update awesome-stars
 on:
   push:
+  pull_request:
   schedule:
     - cron: 30 0 * * *
   #push:
