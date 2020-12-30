@@ -1,6 +1,7 @@
 name: update awesome-stars
 on:
-  check_run:
+  watch:
+    types: started
   schedule:
     - cron: '30 0 * * *'
 jobs:
