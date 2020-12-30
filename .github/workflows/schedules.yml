@@ -2,7 +2,7 @@ name: update awesome-stars
 on:
   push:
   schedule:
-    - cron: '*/1 * * * *'
+    - cron: '30 0 * * *'
 jobs:
     awesome-stars:
       name: update awesome-stars
