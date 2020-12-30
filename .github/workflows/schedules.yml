@@ -3,19 +3,19 @@ on:
   schedule:
   - cron: 1 * * * *
 jobs:
-  build:
+  awesome-stars:
     name: update awesome-stars
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1
-    - name: checkout actions
+    - name: Set up Python
       uses: actions/setup-python@v1
       with:
         python-version: 3.7
-    - name: Set up Python 3.7
+    - name: Install dependencies
       run: |
-        python3 -m pip install --upgrade pip
-        pip3 install starred
+        python -m pip install --upgrade pip
+        pip install starred
     - name: update repo
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
