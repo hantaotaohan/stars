@@ -20,4 +20,5 @@ jobs:
     - name: update repo
       env:
         PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
-      run: starred --username hantaotaohan --repository stars --sort --token ${PERSONAL_TOKEN} --message 'stars update by github actions cron'
+      run: |
+        starred --username hantaotaohan --repository stars --sort --token ${PERSONAL_TOKEN} --message 'stars update by github actions cron'
