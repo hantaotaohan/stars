@@ -9,7 +9,6 @@ on:
   #  - master
 jobs:
   awesome-stars:
-    name: update awesome-stars
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
