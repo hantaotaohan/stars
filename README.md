@@ -7,7 +7,7 @@
 
 ## Contents
 
-  - [AutoHotkey](#autohotkey)
+  - [AutoHotkey1](#autohotkey)
   - [Awk](#awk)
   - [Batchfile](#batchfile)
   - [C](#c)
