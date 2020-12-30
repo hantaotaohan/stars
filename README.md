@@ -209,6 +209,7 @@
 
 ## Others 
 
+- [stars](https://github.com/hantaotaohan/stars) - 
 - [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -233,6 +234,7 @@
 
 ## Python 
 
+- [bash-complete-partial-path](https://github.com/sio/bash-complete-partial-path) - Enhanced file path completion in bash (like in zsh)
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [vimade](https://github.com/TaDaa/vimade) - An eye friendly plugin that fades your inactive buffers and preserves your syntax highlighting!
 - [Blog-With-GitHub-Boilerplate](https://github.com/AlanDecode/Blog-With-GitHub-Boilerplate) - 这是博客文章《完全用 GitHub 写博客》所提出流程的示例仓库。
