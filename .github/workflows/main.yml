@@ -8,7 +8,7 @@ jobs:
     name: update awesome-stars
     runs-on: ubuntu-18.04
     steps:
-    - uses: actions/checkout@v1
+    - uses: actions/checkout@v2
     - name: Set up Python
       uses: actions/setup-python@v1
       with:
@@ -19,6 +19,6 @@ jobs:
         pip install starred
     - name: update repo
       env:
-        PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+        STARS_TOKEN: ${{ secrets.STARS_TOKEN }}
       run: |
-        starred --username hantaotaohan --repository stars --sort --token ${PERSONAL_TOKEN} --message 'stars update by github actions cron'
+        starred --username hantaotaohan --repository stars --sort --token ${STARS_TOKEN} --message 'stars update by github actions cron'
