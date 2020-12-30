@@ -4,9 +4,8 @@ on:
   - cron: 1 * * * *
 jobs:
   build:
-
+    name: update awesome-stars
     runs-on: ubuntu-latest
-
     steps:
     - name: checkout actions
     - uses: actions/checkout@v1
