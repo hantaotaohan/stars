@@ -1,10 +1,10 @@
 name: update awesome-stars
 on:
   schedule:
-  - cron: 30 0 * * *
-  push:
-    branches: 
-    - master
+    - cron:  '1 * * * *'
+  #push:
+  #  branches: 
+  #  - master
 jobs:
   awesome-stars:
     name: update awesome-stars
