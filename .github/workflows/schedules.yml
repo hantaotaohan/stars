@@ -1,6 +1,6 @@
 name: update awesome-stars
 on:
-  push:
+  check_run:
   schedule:
     - cron: '30 0 * * *'
 jobs:
