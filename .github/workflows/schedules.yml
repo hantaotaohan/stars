@@ -8,20 +8,20 @@ on:
 jobs:
   awesome-stars:
     name: update awesome-stars
-     runs-on: ubuntu-latest
-  steps:
-    - name: Checkout
-      uses: actions/checkout@v2
-    - name: 'Set up Python'
-      uses: actions/setup-python@v1
-      with:
-        python-version: 3.7
-    # - name: 'Install dependencies'
-    #   run: python -m pip install --upgrade pip
-    - name: 'Install requirements'
-      run: |
-        pip install starred
-    - name: update repo
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: starred --username hantaotaohan --repository stars --sort --token ${GITHUB_TOKEN} --message 'stars update by github actions cron'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: 'Set up Python'
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.7
+      # - name: 'Install dependencies'
+      #   run: python -m pip install --upgrade pip
+      - name: 'Install requirements'
+        run: |
+          pip install starred
+      - name: update repo
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: starred --username hantaotaohan --repository stars --sort --token ${GITHUB_TOKEN} --message 'stars update by github actions cron'
