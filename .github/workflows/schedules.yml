@@ -4,7 +4,7 @@ on:
     branches: 
       - master
   schedule:
-  - cron: 30 0 * * *
+  - cron: 1 * * * *
 jobs:
   awesome-stars:
     name: update awesome-stars
@@ -23,5 +23,5 @@ jobs:
           pip install starred
       - name: update repo
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: starred --username hantaotaohan --repository stars --sort --token ${GITHUB_TOKEN} --message 'stars update by github actions cron'
+          STARS_TOKEN: ${{ secrets.STARS_TOKEN }}
+        run: starred --username hantaotaohan --repository stars --sort --token ${STARS_TOKEN} --message 'stars update by github actions cron'
