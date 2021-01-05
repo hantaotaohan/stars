@@ -395,6 +395,8 @@
 
 ## Vim script 
 
+- [vim-cool](https://github.com/romainl/vim-cool) - A very simple plugin that makes hlsearch more useful.
+- [vim-pink-moon](https://github.com/sts10/vim-pink-moon) - A vim/neovim colorscheme
 - [clever-f.vim](https://github.com/rhysd/clever-f.vim) - Extended f, F, t and T key mappings for Vim.
 - [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [vim-diminactive](https://github.com/blueyed/vim-diminactive) - Vim plugin to dim inactive windows
