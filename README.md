@@ -234,6 +234,8 @@
 
 ## Python 
 
+- [vimspector](https://github.com/puremourning/vimspector) - vimspector - A multi-language debugging system for Vim
+- [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [bash-complete-partial-path](https://github.com/sio/bash-complete-partial-path) - Enhanced file path completion in bash (like in zsh)
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [vimade](https://github.com/TaDaa/vimade) - An eye friendly plugin that fades your inactive buffers and preserves your syntax highlighting!
@@ -338,6 +340,8 @@
 
 ## Shell 
 
+- [rofi-spotlight](https://github.com/manilarome/rofi-spotlight) - Spotlight-like Rofi
+- [fzf-plugins](https://github.com/4z3/fzf-plugins) - 
 - [hugoThemes](https://github.com/gohugoio/hugoThemes) - A curated directory of Hugo themes
 - [i3blocks-contrib](https://github.com/vivien/i3blocks-contrib) - Official repository for community contributed blocklets
 - [ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor -- a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
@@ -395,6 +399,7 @@
 
 ## Vim script 
 
+- [vim-alt-mappings](https://github.com/vim-utils/vim-alt-mappings) - (experimental!) Enables ALT key mappings in terminal vim
 - [vim-cool](https://github.com/romainl/vim-cool) - A very simple plugin that makes hlsearch more useful.
 - [vim-pink-moon](https://github.com/sts10/vim-pink-moon) - A vim/neovim colorscheme
 - [clever-f.vim](https://github.com/rhysd/clever-f.vim) - Extended f, F, t and T key mappings for Vim.
