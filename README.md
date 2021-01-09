@@ -58,6 +58,7 @@
 
 ## C 
 
+- [xcape](https://github.com/alols/xcape) - Linux utility to configure modifier keys to act as other keys when pressed and released on their own.
 - [gtk-layer-shell](https://github.com/wmww/gtk-layer-shell) - A library to create panels and other desktop components for Wayland using the Layer Shell protocol
 - [rdrview](https://github.com/eafer/rdrview) - Firefox Reader View as a command line tool
 - [w3m](https://github.com/tats/w3m) - Debian's w3m: WWW browsable pager
@@ -408,7 +409,7 @@
 - [vim-cool](https://github.com/romainl/vim-cool) - A very simple plugin that makes hlsearch more useful.
 - [vim-pink-moon](https://github.com/sts10/vim-pink-moon) - A vim/neovim colorscheme
 - [clever-f.vim](https://github.com/rhysd/clever-f.vim) - Extended f, F, t and T key mappings for Vim.
-- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
+- [coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [vim-diminactive](https://github.com/blueyed/vim-diminactive) - Vim plugin to dim inactive windows
 - [vim-bbye](https://github.com/moll/vim-bbye) - Delete buffers and close files in Vim without closing your windows or messing up your layout. Like Bclose.vim, but rewritten and well maintained.
 - [vim-deep-space](https://github.com/tyrannicaltoucan/vim-deep-space) - An intergalactically friendly color scheme for Vim.
