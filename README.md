@@ -405,6 +405,7 @@
 
 ## Vim script 
 
+- [atlas.vim](https://github.com/huyvohcmc/atlas.vim) - Colorful theme for colorful souls
 - [vim-numbertoggle](https://github.com/jeffkreeftmeijer/vim-numbertoggle) - Toggles between hybrid and absolute line numbers automatically
 - [vim-alt-mappings](https://github.com/vim-utils/vim-alt-mappings) - (experimental!) Enables ALT key mappings in terminal vim
 - [vim-cool](https://github.com/romainl/vim-cool) - A very simple plugin that makes hlsearch more useful.
