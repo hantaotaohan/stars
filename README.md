@@ -137,6 +137,7 @@
 
 ## Go 
 
+- [tldr](https://github.com/isacikgoz/tldr) - fast and interactive tldr client written with  go
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [i3-vim-nav](https://github.com/termhn/i3-vim-nav) - Seamlessly navigate i3 windows and vim splits
 - [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
@@ -216,7 +217,7 @@
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-- [Learn-Vim](https://github.com/iggredible/Learn-Vim) - A book for learning the Vim editor the smart way.
+- [Learn-Vim](https://github.com/iggredible/Learn-Vim) - A guide for learning the Vim editor and Vimscript the smart way.
 - [awesome-shell](https://github.com/uhub/awesome-shell) - A curated list of awesome Shell frameworks, libraries and software.
 - [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
@@ -405,6 +406,7 @@
 
 ## Vim script 
 
+- [vim-toml](https://github.com/cespare/vim-toml) - Vim syntax for TOML
 - [atlas.vim](https://github.com/huyvohcmc/atlas.vim) - Colorful theme for colorful souls
 - [vim-numbertoggle](https://github.com/jeffkreeftmeijer/vim-numbertoggle) - Toggles between hybrid and absolute line numbers automatically
 - [vim-alt-mappings](https://github.com/vim-utils/vim-alt-mappings) - (experimental!) Enables ALT key mappings in terminal vim
@@ -444,7 +446,7 @@
 - [vim-bookmarks](https://github.com/MattesGroeger/vim-bookmarks) - Vim bookmark plugin
 - [vim-slime](https://github.com/jpalardy/vim-slime) - A vim plugin to give you some slime. (Emacs)
 - [nuake](https://github.com/Lenovsky/nuake) - A Quake-style terminal panel for Neovim and Vim
-- [vim-floaterm](https://github.com/voldikss/vim-floaterm) - :star2: Use nvim/vim's builtin terminal in the floating/popup window
+- [vim-floaterm](https://github.com/voldikss/vim-floaterm) - :star2: Terminal manager for (neo)vim
 - [vim-zettel](https://github.com/michal-h21/vim-zettel) - VimWiki addon for managing notes according to Zettelkasten method
 - [vimwiki-sync](https://github.com/michal-h21/vimwiki-sync) - Automaticaly synchronize vimwiki at startup and exit using git
 - [neuims](https://github.com/Neur1n/neuims) - An input method switcher.
