@@ -406,6 +406,7 @@
 
 ## Vim script 
 
+- [vim-rsi](https://github.com/tpope/vim-rsi) - rsi.vim: Readline style insertion
 - [vim-toml](https://github.com/cespare/vim-toml) - Vim syntax for TOML
 - [atlas.vim](https://github.com/huyvohcmc/atlas.vim) - Colorful theme for colorful souls
 - [vim-numbertoggle](https://github.com/jeffkreeftmeijer/vim-numbertoggle) - Toggles between hybrid and absolute line numbers automatically
