@@ -406,6 +406,7 @@
 
 ## Vim script 
 
+- [vim-pencil](https://github.com/reedes/vim-pencil) - Rethinking Vim as a tool for writing
 - [vim-rsi](https://github.com/tpope/vim-rsi) - rsi.vim: Readline style insertion
 - [vim-toml](https://github.com/cespare/vim-toml) - Vim syntax for TOML
 - [atlas.vim](https://github.com/huyvohcmc/atlas.vim) - Colorful theme for colorful souls
