@@ -406,6 +406,9 @@
 
 ## Vim script 
 
+- [vem-tabline](https://github.com/pacha/vem-tabline) - A lightweight Vim/Neovim plugin to display buffers and tabs in the tabline
+- [vim-monotone](https://github.com/Lokaltog/vim-monotone) - A dark, monochrome colorscheme for vim
+- [quick-scope](https://github.com/unblevable/quick-scope) - Lightning fast left-right movement in Vim
 - [vim-pencil](https://github.com/reedes/vim-pencil) - Rethinking Vim as a tool for writing
 - [vim-rsi](https://github.com/tpope/vim-rsi) - rsi.vim: Readline style insertion
 - [vim-toml](https://github.com/cespare/vim-toml) - Vim syntax for TOML
