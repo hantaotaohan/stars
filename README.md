@@ -366,7 +366,7 @@
 - [prettyi3](https://github.com/aeghn/prettyi3) - 
 - [i3ass](https://github.com/budlabs/i3ass) - A collection of shell scripts to ease the use of i3wm
 - [i3buntu](https://github.com/efazati/i3buntu) - I3wm + Ubuntu 20.04 server without any less usefull packages
-- [bspwm-dotfiles](https://github.com/MiraculousMoon/bspwm-dotfiles) - My Arch+Bspwm dotfiles
+- [bspwm-dotfiles](https://github.com/ayamir/bspwm-dotfiles) - My Arch+Bspwm dotfiles
 - [vmware-tools-patches](https://github.com/rasa/vmware-tools-patches) - Patch and build VMware tools automatically
 - [dotfiles](https://github.com/hantaotaohan/dotfiles) - My Workspace dotfiles config .
 - [Ascii_Signature](https://github.com/pedroqin/Ascii_Signature) - 
