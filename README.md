@@ -15,6 +15,7 @@
   - [Clojure](#clojure)
   - [D](#d)
   - [Dart](#dart)
+  - [Dockerfile](#dockerfile)
   - [Emacs Lisp](#emacs-lisp)
   - [Go](#go)
   - [HTML](#html)
@@ -131,6 +132,10 @@
 
 - [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
 
+## Dockerfile 
+
+- [docker-kindle](https://github.com/igjit/docker-kindle) - Kindle in Docker
+
 ## Emacs Lisp 
 
 - [spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
@@ -212,6 +217,7 @@
 
 ## Others 
 
+- [vim-no-color-collections](https://github.com/mcchrish/vim-no-color-collections) - Collection of Vim themes with barely any colors
 - [stars](https://github.com/hantaotaohan/stars) - 
 - [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
@@ -406,6 +412,8 @@
 
 ## Vim script 
 
+- [q-quit](https://github.com/HustLion/q-quit) - q to smart quit.
+- [vim-quit-if-transient-buffers](https://github.com/at-cf/vim-quit-if-transient-buffers) - Close tab if the only remaining buffers are transient, like qf, NERDTree, etc.
 - [vem-tabline](https://github.com/pacha/vem-tabline) - A lightweight Vim/Neovim plugin to display buffers and tabs in the tabline
 - [vim-monotone](https://github.com/Lokaltog/vim-monotone) - A dark, monochrome colorscheme for vim
 - [quick-scope](https://github.com/unblevable/quick-scope) - Lightning fast left-right movement in Vim
