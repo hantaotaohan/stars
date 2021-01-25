@@ -176,6 +176,7 @@
 
 ## JavaScript 
 
+- [estilo](https://github.com/jacoborus/estilo) - Create color schemes for Vim, Airline and Lightline
 - [LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
 - [screensaver](https://github.com/gillstrom/screensaver) - Start the screensaver.
 - [RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
@@ -412,6 +413,8 @@
 
 ## Vim script 
 
+- [kuroi.vim](https://github.com/aonemd/kuroi.vim) - A dark Vim colorscheme
+- [vim-esearch](https://github.com/eugen0329/vim-esearch) - Perform search in files easily
 - [q-quit](https://github.com/HustLion/q-quit) - q to smart quit.
 - [vim-quit-if-transient-buffers](https://github.com/at-cf/vim-quit-if-transient-buffers) - Close tab if the only remaining buffers are transient, like qf, NERDTree, etc.
 - [vem-tabline](https://github.com/pacha/vem-tabline) - A lightweight Vim/Neovim plugin to display buffers and tabs in the tabline
