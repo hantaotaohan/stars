@@ -83,6 +83,7 @@
 
 ## C# # 
 
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [PicView](https://github.com/Ruben2776/PicView) - Fast Picture Viewer with compact UI, that can be hidden. Features image effects, galleries, image info and more. The app can automatically adjusts itself to your screen.
 - [Caplos](https://github.com/pluveto/Caplos) - A tool to squeeze the power of your CapsLock key 一个充分利用你的大小写键的工具
 - [hunt-and-peck](https://github.com/zsims/hunt-and-peck) - Simple vimium/vimperator style navigation for Windows applications based on the UI Automation framework.
@@ -93,7 +94,6 @@
 
 - [ni-translate](https://github.com/yasirtug/ni-translate) - A translator for Linux, running at the background which wakes up with the translation of the last selected text on command.
 - [crow-translate](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator that allows to translate and speak text using Google, Yandex and Bing.
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
 - [gImageReader](https://github.com/manisandro/gImageReader) - A Gtk/Qt front-end to tesseract-ocr.
 - [albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
@@ -224,7 +224,7 @@
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-- [Learn-Vim](https://github.com/iggredible/Learn-Vim) - A guide for learning the Vim editor and Vimscript the smart way.
+- [Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript is not hard. This is the guide that you're looking for.
 - [awesome-shell](https://github.com/uhub/awesome-shell) - A curated list of awesome Shell frameworks, libraries and software.
 - [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
@@ -351,6 +351,7 @@
 
 ## Shell 
 
+- [tmux-power](https://github.com/wfxr/tmux-power) - 🎨 Tmux powerline theme
 - [ansi](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
 - [Bash-script](https://github.com/feherke/Bash-script) - Bash scripts
 - [bash2048](https://github.com/mydzor/bash2048) - Bash implementation of 2048 game
@@ -413,6 +414,8 @@
 
 ## Vim script 
 
+- [vim-buffet](https://github.com/bagrat/vim-buffet) - IDE-like Vim tabline
+- [close-buffers.vim](https://github.com/Asheq/close-buffers.vim) - :book: Quickly close (bdelete) several buffers at once 📕
 - [kuroi.vim](https://github.com/aonemd/kuroi.vim) - A dark Vim colorscheme
 - [vim-esearch](https://github.com/eugen0329/vim-esearch) - Perform search in files easily
 - [q-quit](https://github.com/HustLion/q-quit) - q to smart quit.
@@ -499,6 +502,7 @@
 
 ## VimL 
 
+- [closesubwin.vim](https://github.com/tyru/closesubwin.vim) - Close sub window without jumping to the window (help,quickfix,unlisted buffer supported)
 - [vim-smartclose](https://github.com/szw/vim-smartclose) - Close Vim windows in a smart way!
 - [vim-smooth-scroll](https://github.com/terryma/vim-smooth-scroll) - Make scrolling in Vim more pleasant
 - [spf13-vim](https://github.com/spf13/spf13-vim) - The ultimate vim distribution
