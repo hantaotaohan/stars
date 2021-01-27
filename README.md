@@ -142,6 +142,7 @@
 
 ## Go 
 
+- [reflex](https://github.com/cespare/reflex) - Run a command when files change
 - [tldr](https://github.com/isacikgoz/tldr) - fast and interactive tldr client written with  go
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [i3-vim-nav](https://github.com/termhn/i3-vim-nav) - Seamlessly navigate i3 windows and vim splits
@@ -224,7 +225,7 @@
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-- [Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript is not hard. This is the guide that you're looking for.
+- [Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for.
 - [awesome-shell](https://github.com/uhub/awesome-shell) - A curated list of awesome Shell frameworks, libraries and software.
 - [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
@@ -414,6 +415,7 @@
 
 ## Vim script 
 
+- [vim-autoread](https://github.com/chrisbra/vim-autoread) - Use tail -f on a buffer and append new content
 - [vim-buffet](https://github.com/bagrat/vim-buffet) - IDE-like Vim tabline
 - [close-buffers.vim](https://github.com/Asheq/close-buffers.vim) - :book: Quickly close (bdelete) several buffers at once 📕
 - [kuroi.vim](https://github.com/aonemd/kuroi.vim) - A dark Vim colorscheme
@@ -502,6 +504,7 @@
 
 ## VimL 
 
+- [vim-autoread](https://github.com/djoshea/vim-autoread) - Have Vim automatically reload a file that has changed externally
 - [closesubwin.vim](https://github.com/tyru/closesubwin.vim) - Close sub window without jumping to the window (help,quickfix,unlisted buffer supported)
 - [vim-smartclose](https://github.com/szw/vim-smartclose) - Close Vim windows in a smart way!
 - [vim-smooth-scroll](https://github.com/terryma/vim-smooth-scroll) - Make scrolling in Vim more pleasant
