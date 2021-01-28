@@ -415,6 +415,7 @@
 
 ## Vim script 
 
+- [vim-startuptime](https://github.com/dstein64/vim-startuptime) - ⏲️ A Vim plugin for profiling Vim's startup time.
 - [vim-autoread](https://github.com/chrisbra/vim-autoread) - Use tail -f on a buffer and append new content
 - [vim-buffet](https://github.com/bagrat/vim-buffet) - IDE-like Vim tabline
 - [close-buffers.vim](https://github.com/Asheq/close-buffers.vim) - :book: Quickly close (bdelete) several buffers at once 📕
