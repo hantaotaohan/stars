@@ -360,10 +360,10 @@
 - [fzf-plugins](https://github.com/4z3/fzf-plugins) - 
 - [hugoThemes](https://github.com/gohugoio/hugoThemes) - A curated directory of Hugo themes
 - [i3blocks-contrib](https://github.com/vivien/i3blocks-contrib) - Official repository for community contributed blocklets
-- [ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor -- a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
+- [ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
 - [rofi-shortcuts](https://github.com/Zeioth/rofi-shortcuts) - The ultimate shortcuts cheatsheet
 - [dotfiles](https://github.com/rememberYou/dotfiles) - 🏡 Personal dotfiles configuration
-- [notion-deb-builder](https://github.com/davidbailey00/notion-deb-builder) - Build Notion packages for Ubuntu/Debian
+- [notion-linux-builder](https://github.com/davidbailey00/notion-linux-builder) - Build Notion packages for Linux
 - [anbox-playstore-installer](https://github.com/geeks-r-us/anbox-playstore-installer) - Install script that automates installation of googles playstore in anbox
 - [rof](https://github.com/nwg-piotr/rof) - Launcher script to avoid running multiple instance of the same window
 - [polybar-debian](https://github.com/ayosec/polybar-debian) - Debian packages for Polybar
