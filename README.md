@@ -352,6 +352,7 @@
 
 ## Shell 
 
+- [Sarasa-Mono-SC-Nerd](https://github.com/laishulu/Sarasa-Mono-SC-Nerd) - 简体中文等距更纱黑体+Nerd图标字体库。中英文宽度完美2:1，图标长宽经过调整，不会出现对齐问题，尤其适合作为终端字体。
 - [tmux-power](https://github.com/wfxr/tmux-power) - 🎨 Tmux powerline theme
 - [ansi](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
 - [Bash-script](https://github.com/feherke/Bash-script) - Bash scripts
@@ -415,6 +416,12 @@
 
 ## Vim script 
 
+- [ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM) - Vim Input Method by pure vim script, support: user word, dynamic word priority, cloud db files
+- [vim-signify](https://github.com/mhinz/vim-signify) - :heavy_plus_sign: Show a diff using Vim its sign column.
+- [vim-lucius](https://github.com/jonathanfilip/vim-lucius) - Lucius color scheme for vim
+- [termschool-vim-theme](https://github.com/marcopaganini/termschool-vim-theme) - A vim theme based on the "codeschool" theme, with lots of tweaks and optimized for 256 color terminals.
+- [vim-one](https://github.com/laggardkernel/vim-one) - Adaptation of one-light and one-dark colorschemes for Vim
+- [vim-EnhancedJumps](https://github.com/inkarkat/vim-EnhancedJumps) - Enhanced jump and change list navigation commands.
 - [vim-startuptime](https://github.com/dstein64/vim-startuptime) - ⏲️ A Vim plugin for profiling Vim's startup time.
 - [vim-autoread](https://github.com/chrisbra/vim-autoread) - Use tail -f on a buffer and append new content
 - [vim-buffet](https://github.com/bagrat/vim-buffet) - IDE-like Vim tabline
