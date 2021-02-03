@@ -27,6 +27,7 @@
   - [Lua](#lua)
   - [Makefile](#makefile)
   - [Others](#others)
+  - [PowerShell](#powershell)
   - [Python](#python)
   - [Roff](#roff)
   - [Ruby](#ruby)
@@ -59,6 +60,7 @@
 
 ## C 
 
+- [keyrate](https://github.com/EricTetz/keyrate) - Small utility for setting the keyrate to higher speeds than is normally allowed by the Windows keyboard control panel.
 - [xcape](https://github.com/alols/xcape) - Linux utility to configure modifier keys to act as other keys when pressed and released on their own.
 - [gtk-layer-shell](https://github.com/wmww/gtk-layer-shell) - A library to create panels and other desktop components for Wayland using the Layer Shell protocol
 - [rdrview](https://github.com/eafer/rdrview) - Firefox Reader View as a command line tool
@@ -83,6 +85,7 @@
 
 ## C# # 
 
+- [ToastHelper](https://github.com/20154530/ToastHelper) - Send Windows 10 Toast Notification
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [PicView](https://github.com/Ruben2776/PicView) - Fast Picture Viewer with compact UI, that can be hidden. Features image effects, galleries, image info and more. The app can automatically adjusts itself to your screen.
 - [Caplos](https://github.com/pluveto/Caplos) - A tool to squeeze the power of your CapsLock key 一个充分利用你的大小写键的工具
@@ -242,6 +245,11 @@
 - [hello-vim](https://github.com/vim-china/hello-vim) - Vim 中文资源整理
 - [trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [git-recipes](https://github.com/geeeeeeeeek/git-recipes) - 🥡 Git recipes in Chinese by Zhongyi Tong. 高质量的Git中文教程.
+
+## PowerShell 
+
+- [BurntToast](https://github.com/Windos/BurntToast) - Module for creating and displaying Toast Notifications on Microsoft Windows 10.
+- [WSLNotifications](https://github.com/xaositects/WSLNotifications) - A powershell script to give the ability to send notifications to windows 10 desktop from within WSL
 
 ## Python 
 
@@ -416,6 +424,7 @@
 
 ## Vim script 
 
+- [lightline-bufferline](https://github.com/mengelbrecht/lightline-bufferline) - A lightweight plugin to display the list of buffers in the lightline vim plugin
 - [ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM) - Vim Input Method by pure vim script, support: user word, dynamic word priority, cloud db files
 - [vim-signify](https://github.com/mhinz/vim-signify) - :heavy_plus_sign: Show a diff using Vim its sign column.
 - [vim-lucius](https://github.com/jonathanfilip/vim-lucius) - Lucius color scheme for vim
