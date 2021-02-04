@@ -253,6 +253,7 @@
 
 ## Python 
 
+- [qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on PyQt5.
 - [vimspector](https://github.com/puremourning/vimspector) - vimspector - A multi-language debugging system for Vim
 - [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [bash-complete-partial-path](https://github.com/sio/bash-complete-partial-path) - Enhanced file path completion in bash (like in zsh)
@@ -372,7 +373,7 @@
 - [ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
 - [rofi-shortcuts](https://github.com/Zeioth/rofi-shortcuts) - The ultimate shortcuts cheatsheet
 - [dotfiles](https://github.com/rememberYou/dotfiles) - 🏡 Personal dotfiles configuration
-- [notion-linux-builder](https://github.com/davidbailey00/notion-linux-builder) - Build Notion packages for Linux
+- [notion-linux-builder](https://github.com/davidbailey00/notion-linux-builder) - Native Notion packages for Linux
 - [anbox-playstore-installer](https://github.com/geeks-r-us/anbox-playstore-installer) - Install script that automates installation of googles playstore in anbox
 - [rof](https://github.com/nwg-piotr/rof) - Launcher script to avoid running multiple instance of the same window
 - [polybar-debian](https://github.com/ayosec/polybar-debian) - Debian packages for Polybar
