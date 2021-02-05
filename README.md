@@ -373,7 +373,7 @@
 - [ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
 - [rofi-shortcuts](https://github.com/Zeioth/rofi-shortcuts) - The ultimate shortcuts cheatsheet
 - [dotfiles](https://github.com/rememberYou/dotfiles) - 🏡 Personal dotfiles configuration
-- [notion-linux-builder](https://github.com/davidbailey00/notion-linux-builder) - Native Notion packages for Linux
+- [notion-linux](https://github.com/davidbailey00/notion-linux) - Native Notion packages for Linux
 - [anbox-playstore-installer](https://github.com/geeks-r-us/anbox-playstore-installer) - Install script that automates installation of googles playstore in anbox
 - [rof](https://github.com/nwg-piotr/rof) - Launcher script to avoid running multiple instance of the same window
 - [polybar-debian](https://github.com/ayosec/polybar-debian) - Debian packages for Polybar
@@ -425,6 +425,7 @@
 
 ## Vim script 
 
+- [vim-gitbranch](https://github.com/itchyny/vim-gitbranch) - Provides the branch name of the current git repository
 - [lightline-bufferline](https://github.com/mengelbrecht/lightline-bufferline) - A lightweight plugin to display the list of buffers in the lightline vim plugin
 - [ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM) - Vim Input Method by pure vim script, support: user word, dynamic word priority, cloud db files
 - [vim-signify](https://github.com/mhinz/vim-signify) - :heavy_plus_sign: Show a diff using Vim its sign column.
@@ -522,6 +523,7 @@
 
 ## VimL 
 
+- [vim-space](https://github.com/spiiph/vim-space) - space.vim - Smart Space key for Vim
 - [vim-autoread](https://github.com/djoshea/vim-autoread) - Have Vim automatically reload a file that has changed externally
 - [closesubwin.vim](https://github.com/tyru/closesubwin.vim) - Close sub window without jumping to the window (help,quickfix,unlisted buffer supported)
 - [vim-smartclose](https://github.com/szw/vim-smartclose) - Close Vim windows in a smart way!
