@@ -337,6 +337,7 @@
 
 ## Ruby 
 
+- [zk](https://github.com/sirupsen/zk) - Zettelkasten on the command-line 📚 🔍
 - [vimwiki_markdown](https://github.com/patrickdavey/vimwiki_markdown) - A gem to use for converting vimwiki markdown files to html.
 
 ## Rust 
@@ -425,6 +426,8 @@
 
 ## Vim script 
 
+- [vim-high](https://github.com/bimlas/vim-high) - Vim plugin: All-in-one highlighter, highlight custom pattern like indentation, inactive window, word under the cursor
+- [edge](https://github.com/sainnhe/edge) - Clean & Elegant Color Scheme inspired by Atom One and Material
 - [vim-gitbranch](https://github.com/itchyny/vim-gitbranch) - Provides the branch name of the current git repository
 - [lightline-bufferline](https://github.com/mengelbrecht/lightline-bufferline) - A lightweight plugin to display the list of buffers in the lightline vim plugin
 - [ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM) - Vim Input Method by pure vim script, support: user word, dynamic word priority, cloud db files
@@ -454,7 +457,6 @@
 - [vim-pink-moon](https://github.com/sts10/vim-pink-moon) - A vim/neovim colorscheme
 - [clever-f.vim](https://github.com/rhysd/clever-f.vim) - Extended f, F, t and T key mappings for Vim.
 - [coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
-- [vim-diminactive](https://github.com/blueyed/vim-diminactive) - Vim plugin to dim inactive windows
 - [vim-bbye](https://github.com/moll/vim-bbye) - Delete buffers and close files in Vim without closing your windows or messing up your layout. Like Bclose.vim, but rewritten and well maintained.
 - [vim-deep-space](https://github.com/tyrannicaltoucan/vim-deep-space) - An intergalactically friendly color scheme for Vim.
 - [pangu.vim](https://github.com/hotoo/pangu.vim) - 『盘古之白』中文排版自动规范化的 Vim 插件
