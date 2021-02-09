@@ -409,6 +409,7 @@
 
 ## TypeScript 
 
+- [qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件
 - [homura](https://github.com/Saul-Mirone/homura) - Homura RSS Reader
 - [polydock](https://github.com/folke/polydock) - ✨ A shiny and hackable application dock
 - [TimeCat](https://github.com/oct16/TimeCat) - A Magical Web Recorder & Player 🖥 (WIP)
@@ -426,6 +427,7 @@
 
 ## Vim script 
 
+- [FastFold](https://github.com/Konfekt/FastFold) - Speed up Vim by updating folds only when called-for.
 - [vim-high](https://github.com/bimlas/vim-high) - Vim plugin: All-in-one highlighter, highlight custom pattern like indentation, inactive window, word under the cursor
 - [edge](https://github.com/sainnhe/edge) - Clean & Elegant Color Scheme inspired by Atom One and Material
 - [vim-gitbranch](https://github.com/itchyny/vim-gitbranch) - Provides the branch name of the current git repository
