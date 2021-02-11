@@ -409,7 +409,7 @@
 
 ## TypeScript 
 
-- [qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件
+- [qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [homura](https://github.com/Saul-Mirone/homura) - Homura RSS Reader
 - [polydock](https://github.com/folke/polydock) - ✨ A shiny and hackable application dock
 - [TimeCat](https://github.com/oct16/TimeCat) - A Magical Web Recorder & Player 🖥 (WIP)
