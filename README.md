@@ -427,6 +427,8 @@
 
 ## Vim script 
 
+- [vim-deus](https://github.com/ajmwagar/vim-deus) - 🌙 A better color scheme for the late night coder
+- [init.nvim](https://github.com/Blacksuan19/init.nvim) - An Opinionated Neovim Config for the Minimalists
 - [FastFold](https://github.com/Konfekt/FastFold) - Speed up Vim by updating folds only when called-for.
 - [vim-high](https://github.com/bimlas/vim-high) - Vim plugin: All-in-one highlighter, highlight custom pattern like indentation, inactive window, word under the cursor
 - [edge](https://github.com/sainnhe/edge) - Clean & Elegant Color Scheme inspired by Atom One and Material
