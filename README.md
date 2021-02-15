@@ -416,7 +416,7 @@
 - [TimeCat](https://github.com/oct16/TimeCat) - A Magical Web Recorder & Player 🖥 (WIP)
 - [simplenote-electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux
 - [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - Foreign language reading and translation assistant based on copy and translate.
-- [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.
+- [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
 - [upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
