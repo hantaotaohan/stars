@@ -429,6 +429,8 @@
 
 ## Vim script 
 
+- [vim-vinegar](https://github.com/tpope/vim-vinegar) - vinegar.vim: Combine with netrw to create a delicious salad dressing
+- [vim-unimpaired](https://github.com/tpope/vim-unimpaired) - unimpaired.vim: Pairs of handy bracket mappings
 - [vim-deus](https://github.com/ajmwagar/vim-deus) - 🌙 A better color scheme for the late night coder
 - [init.nvim](https://github.com/Blacksuan19/init.nvim) - An Opinionated Neovim Config for the Minimalists
 - [FastFold](https://github.com/Konfekt/FastFold) - Speed up Vim by updating folds only when called-for.
