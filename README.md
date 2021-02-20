@@ -438,7 +438,7 @@
 - [edge](https://github.com/sainnhe/edge) - Clean & Elegant Color Scheme inspired by Atom One and Material
 - [vim-gitbranch](https://github.com/itchyny/vim-gitbranch) - Provides the branch name of the current git repository
 - [lightline-bufferline](https://github.com/mengelbrecht/lightline-bufferline) - A lightweight plugin to display the list of buffers in the lightline vim plugin
-- [ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM) - Vim Input Method by pure vim script, support: user word, dynamic word priority, cloud db files
+- [ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM) - vim输入法 / Vim Input Method by pure vim script, support: user word, dynamic word priority, cloud db files
 - [vim-signify](https://github.com/mhinz/vim-signify) - :heavy_plus_sign: Show a diff using Vim its sign column.
 - [vim-lucius](https://github.com/jonathanfilip/vim-lucius) - Lucius color scheme for vim
 - [termschool-vim-theme](https://github.com/marcopaganini/termschool-vim-theme) - A vim theme based on the "codeschool" theme, with lots of tweaks and optimized for 256 color terminals.
