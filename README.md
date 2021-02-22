@@ -256,7 +256,6 @@
 ## Python 
 
 - [qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on PyQt5.
-- [vimspector](https://github.com/puremourning/vimspector) - vimspector - A multi-language debugging system for Vim
 - [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [bash-complete-partial-path](https://github.com/sio/bash-complete-partial-path) - Enhanced file path completion in bash (like in zsh)
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -460,6 +459,7 @@
 - [vim-toml](https://github.com/cespare/vim-toml) - Vim syntax for TOML
 - [atlas.vim](https://github.com/huyvohcmc/atlas.vim) - Colorful theme for colorful souls
 - [vim-numbertoggle](https://github.com/jeffkreeftmeijer/vim-numbertoggle) - Toggles between hybrid and absolute line numbers automatically
+- [vimspector](https://github.com/puremourning/vimspector) - vimspector - A multi-language debugging system for Vim
 - [vim-alt-mappings](https://github.com/vim-utils/vim-alt-mappings) - (experimental!) Enables ALT key mappings in terminal vim
 - [vim-cool](https://github.com/romainl/vim-cool) - A very simple plugin that makes hlsearch more useful.
 - [vim-pink-moon](https://github.com/sts10/vim-pink-moon) - A vim/neovim colorscheme
