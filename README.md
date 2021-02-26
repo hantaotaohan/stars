@@ -197,7 +197,7 @@
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat) - :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
 - [markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
-- [Iosevka](https://github.com/be5invis/Iosevka) - Slender typeface for code, from code.
+- [Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [regexr](https://github.com/gskinner/regexr) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
 - [Thief-Book](https://github.com/cteams/Thief-Book) - 一款真正的跨平台摸鱼神器
 - [Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
