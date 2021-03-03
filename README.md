@@ -44,6 +44,7 @@
 
 ## AutoHotkey 
 
+- [vimdesktop](https://github.com/goreliu/vimdesktop) - 让所有 Windows 桌面程序拥有 Vim 操作风格的辅助工具
 - [keybindings](https://github.com/madslundt/keybindings) - Remap arrow keys to ijkl and make use of caps lock
 - [linux-capslock](https://github.com/Chester-zZz/linux-capslock) - 将Capslock键利用起来，使得在linux上达到和windows上使用AHK差不多的效果。
 - [texter](https://github.com/adampash/texter) - Text replacement/substitution application written in AutoHotkey scripting language.
@@ -192,7 +193,7 @@
 - [electron-ssr](https://github.com/shadowsocksrr/electron-ssr) - Shadowsocksr client using electron
 - [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
-- [floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks across browsers via Nextcloud, WebDAV or a local file (and thus any file sync solution)
+- [floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks across browsers via Nextcloud, WebDAV or Google Drive
 - [chrome-devtools-zerodarkmatrix-theme](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) - A highly customized dark theme for Chrome
 - [Buka](https://github.com/oguzhaninan/Buka) - Buka is a modern software that helps you manage your ebook at ease.
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
