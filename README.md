@@ -370,7 +370,7 @@
 - [tmux-power](https://github.com/wfxr/tmux-power) - 🎨 Tmux powerline theme
 - [ansi](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
 - [Bash-script](https://github.com/feherke/Bash-script) - Bash scripts
-- [bash2048](https://github.com/mydzor/bash2048) - Bash implementation of 2048 game
+- [bash2048](https://github.com/JosefZIla/bash2048) - Bash implementation of 2048 game
 - [rofi-spotlight](https://github.com/manilarome/rofi-spotlight) - Spotlight-like Rofi
 - [fzf-plugins](https://github.com/4z3/fzf-plugins) - 
 - [hugoThemes](https://github.com/gohugoio/hugoThemes) - A curated directory of Hugo themes
