@@ -87,6 +87,7 @@
 
 ## C# # 
 
+- [FileMeta](https://github.com/Dijji/FileMeta) - Enable Explorer in Vista, Windows 7 and later to see, edit and search on tags and other metadata for any file type
 - [ToastHelper](https://github.com/20154530/ToastHelper) - Send Windows 10 Toast Notification
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [PicView](https://github.com/Ruben2776/PicView) - Fast Picture Viewer with compact UI, that can be hidden. Features image effects, galleries, image info and more. The app can automatically adjusts itself to your screen.
