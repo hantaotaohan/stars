@@ -37,6 +37,7 @@
   - [Shell](#shell)
   - [TeX](#tex)
   - [TypeScript](#typescript)
+  - [VBA](#vba)
   - [Vala](#vala)
   - [Vim script](#vim-script)
   - [VimL](#viml)
@@ -44,6 +45,8 @@
 
 ## AutoHotkey 
 
+- [ahk-vimified-explorer](https://github.com/sahilsehwag/ahk-vimified-explorer) - VimifiedExplorer is an AHK script that provides vim/vifm like bindings for windows explorer. Happy Vimming  😍 .
+- [vimdows-ng](https://github.com/scheingraber/vimdows-ng) - Vim normal mode emulation anywhere in Windows, powered by Autohotkey.
 - [vimdesktop](https://github.com/goreliu/vimdesktop) - 让所有 Windows 桌面程序拥有 Vim 操作风格的辅助工具
 - [keybindings](https://github.com/madslundt/keybindings) - Remap arrow keys to ijkl and make use of caps lock
 - [linux-capslock](https://github.com/Chester-zZz/linux-capslock) - 将Capslock键利用起来，使得在linux上达到和windows上使用AHK差不多的效果。
@@ -302,7 +305,7 @@
 - [python-small-examples](https://github.com/jackzhenguo/python-small-examples) - 告别枯燥，致力于打造 Python 实用小例子
 - [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
 - [30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - Short Python code snippets for all your development needs
-- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
+- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目（5 周年）
 - [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018 Actively developed and supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom layout GUI's simply.  Python 2.7 & 3 Support. 200+ Demo programs & Cookbook for rapid start. Extensive documentation.  Examples using Machine Learning(GUI, OpenCV Integration,  Chatterbot), Floating Desktop Widgets, Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer. For both beginning and advanced programmers .
 - [Handright](https://github.com/Gsllchb/Handright) - A lightweight Python library for simulating Chinese handwriting
 - [markdown2ctags](https://github.com/jszakmeister/markdown2ctags) - Generate ctags-compatible tags files for Markdown documents.
@@ -424,6 +427,10 @@
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
 - [upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
+
+## VBA 
+
+- [ExcelLikeVim](https://github.com/kjnh10/ExcelLikeVim) - This is a Excel Addin that provide vim-like interface.
 
 ## Vala 
 
