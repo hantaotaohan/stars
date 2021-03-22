@@ -45,515 +45,516 @@
 
 ## AutoHotkey 
 
-- [ahk-vimified-explorer](https://github.com/sahilsehwag/ahk-vimified-explorer) - VimifiedExplorer is an AHK script that provides vim/vifm like bindings for windows explorer. Happy Vimming  😍 .
-- [vimdows-ng](https://github.com/scheingraber/vimdows-ng) - Vim normal mode emulation anywhere in Windows, powered by Autohotkey.
-- [vimdesktop](https://github.com/goreliu/vimdesktop) - 让所有 Windows 桌面程序拥有 Vim 操作风格的辅助工具
-- [keybindings](https://github.com/madslundt/keybindings) - Remap arrow keys to ijkl and make use of caps lock
-- [linux-capslock](https://github.com/Chester-zZz/linux-capslock) - 将Capslock键利用起来，使得在linux上达到和windows上使用AHK差不多的效果。
-- [texter](https://github.com/adampash/texter) - Text replacement/substitution application written in AutoHotkey scripting language.
-- [vim-everywhere](https://github.com/lubokkanev/vim-everywhere) - A script for the Windows application AutoHotKey that implements many of the Vim shortcuts in all apps.
-- [vim_ahk](https://github.com/rcmdnk/vim_ahk) - Setting file to emulate vim with AutoHotkey
+- [sahilsehwag/ahk-vimified-explorer](https://github.com/sahilsehwag/ahk-vimified-explorer) - VimifiedExplorer is an AHK script that provides vim/vifm like bindings for windows explorer. Happy Vimming  😍 .
+- [scheingraber/vimdows-ng](https://github.com/scheingraber/vimdows-ng) - Vim normal mode emulation anywhere in Windows, powered by Autohotkey.
+- [goreliu/vimdesktop](https://github.com/goreliu/vimdesktop) - 让所有 Windows 桌面程序拥有 Vim 操作风格的辅助工具
+- [madslundt/keybindings](https://github.com/madslundt/keybindings) - Remap arrow keys to ijkl and make use of caps lock
+- [Chester-zZz/linux-capslock](https://github.com/Chester-zZz/linux-capslock) - 将Capslock键利用起来，使得在linux上达到和windows上使用AHK差不多的效果。
+- [adampash/texter](https://github.com/adampash/texter) - Text replacement/substitution application written in AutoHotkey scripting language.
+- [lubokkanev/vim-everywhere](https://github.com/lubokkanev/vim-everywhere) - A script for the Windows application AutoHotKey that implements many of the Vim shortcuts in all apps.
+- [rcmdnk/vim_ahk](https://github.com/rcmdnk/vim_ahk) - Setting file to emulate vim with AutoHotkey
 
 ## Awk 
 
-- [translate-shell](https://github.com/soimort/translate-shell) - :speech_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
+- [soimort/translate-shell](https://github.com/soimort/translate-shell) - :speech_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
 
 ## Batchfile 
 
-- [vim-win32-installer](https://github.com/vim/vim-win32-installer) - Vim Win32 Installer
+- [vim/vim-win32-installer](https://github.com/vim/vim-win32-installer) - Vim Win32 Installer
 
 ## C 
 
-- [alttab](https://github.com/sagb/alttab) - The task switcher for minimalistic window managers or standalone X11 session
-- [keyrate](https://github.com/EricTetz/keyrate) - Small utility for setting the keyrate to higher speeds than is normally allowed by the Windows keyboard control panel.
-- [xcape](https://github.com/alols/xcape) - Linux utility to configure modifier keys to act as other keys when pressed and released on their own.
-- [gtk-layer-shell](https://github.com/wmww/gtk-layer-shell) - A library to create panels and other desktop components for Wayland using the Layer Shell protocol
-- [rdrview](https://github.com/eafer/rdrview) - Firefox Reader View as a command line tool
-- [w3m](https://github.com/tats/w3m) - Debian's w3m: WWW browsable pager
-- [ly](https://github.com/nullgemm/ly) - display manager with console UI
-- [lightdm-mini-greeter](https://github.com/prikhi/lightdm-mini-greeter) - A Minimal, Configurable, Single-User GTK3 LightDM Greeter
-- [zx](https://github.com/mstg/zx) - i3 scratchpad manager
-- [picom](https://github.com/yshui/picom) - A lightweight compositor for X11
-- [gluqlo](https://github.com/alexanderk23/gluqlo) - Gluqlo: Fliqlo for Linux
-- [almighty-dotfiles](https://github.com/addy-dclxvi/almighty-dotfiles) - A dump repository of my dotfiles since the first time I learned ricing. So everything is really messy here.
-- [dragon](https://github.com/mwh/dragon) - Drag and drop source/target for X
-- [ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
-- [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard
-- [i3](https://github.com/Airblader/i3) - i3-gaps – i3 with more features (forked from https://github.com/i3/i3)
-- [gvimfullscreen](https://github.com/xqin/gvimfullscreen) - Put gvim in full screen on Windows
-- [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
-- [bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning
-- [sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
-- [gvimfullscreen_win32](https://github.com/asins/gvimfullscreen_win32) - Plugin to allow full screen use in gvim on Windows
-- [gvimfullscreen_win32](https://github.com/derekmcloughlin/gvimfullscreen_win32) - Plugin to allow full screen use in gvim on Windows
-- [vimcdoc](https://github.com/yianwillis/vimcdoc) - Vim 中文文档计划
+- [sagb/alttab](https://github.com/sagb/alttab) - The task switcher for minimalistic window managers or standalone X11 session
+- [EricTetz/keyrate](https://github.com/EricTetz/keyrate) - Small utility for setting the keyrate to higher speeds than is normally allowed by the Windows keyboard control panel.
+- [alols/xcape](https://github.com/alols/xcape) - Linux utility to configure modifier keys to act as other keys when pressed and released on their own.
+- [wmww/gtk-layer-shell](https://github.com/wmww/gtk-layer-shell) - A library to create panels and other desktop components for Wayland using the Layer Shell protocol
+- [eafer/rdrview](https://github.com/eafer/rdrview) - Firefox Reader View as a command line tool
+- [tats/w3m](https://github.com/tats/w3m) - Debian's w3m: WWW browsable pager
+- [nullgemm/ly](https://github.com/nullgemm/ly) - display manager with console UI
+- [prikhi/lightdm-mini-greeter](https://github.com/prikhi/lightdm-mini-greeter) - A Minimal, Configurable, Single-User GTK3 LightDM Greeter
+- [mstg/zx](https://github.com/mstg/zx) - i3 scratchpad manager
+- [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11
+- [alexanderk23/gluqlo](https://github.com/alexanderk23/gluqlo) - Gluqlo: Fliqlo for Linux
+- [addy-dclxvi/almighty-dotfiles](https://github.com/addy-dclxvi/almighty-dotfiles) - A dump repository of my dotfiles since the first time I learned ricing. So everything is really messy here.
+- [mwh/dragon](https://github.com/mwh/dragon) - Drag and drop source/target for X
+- [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
+- [mptre/yank](https://github.com/mptre/yank) - Yank terminal output to clipboard
+- [Airblader/i3](https://github.com/Airblader/i3) - i3-gaps – i3 with more features (forked from https://github.com/i3/i3)
+- [xqin/gvimfullscreen](https://github.com/xqin/gvimfullscreen) - Put gvim in full screen on Windows
+- [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
+- [baskerville/bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning
+- [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
+- [asins/gvimfullscreen_win32](https://github.com/asins/gvimfullscreen_win32) - Plugin to allow full screen use in gvim on Windows
+- [derekmcloughlin/gvimfullscreen_win32](https://github.com/derekmcloughlin/gvimfullscreen_win32) - Plugin to allow full screen use in gvim on Windows
+- [yianwillis/vimcdoc](https://github.com/yianwillis/vimcdoc) - Vim 中文文档计划
 
 ## C# # 
 
-- [FileMeta](https://github.com/Dijji/FileMeta) - Enable Explorer in Vista, Windows 7 and later to see, edit and search on tags and other metadata for any file type
-- [ToastHelper](https://github.com/20154530/ToastHelper) - Send Windows 10 Toast Notification
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
-- [PicView](https://github.com/Ruben2776/PicView) - Fast Picture Viewer with compact UI, that can be hidden. Features image effects, galleries, image info and more. The app can automatically adjusts itself to your screen.
-- [Caplos](https://github.com/pluveto/Caplos) - A tool to squeeze the power of your CapsLock key 一个充分利用你的大小写键的工具
-- [hunt-and-peck](https://github.com/zsims/hunt-and-peck) - Simple vimium/vimperator style navigation for Windows applications based on the UI Automation framework.
-- [FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
-- [shadowsocksr-csharp](https://github.com/shadowsocksrr/shadowsocksr-csharp) - 
+- [Dijji/FileMeta](https://github.com/Dijji/FileMeta) - Enable Explorer in Vista, Windows 7 and later to see, edit and search on tags and other metadata for any file type
+- [20154530/ToastHelper](https://github.com/20154530/ToastHelper) - Send Windows 10 Toast Notification
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
+- [Ruben2776/PicView](https://github.com/Ruben2776/PicView) - Fast Picture Viewer with compact UI, that can be hidden. Features image effects, galleries, image info and more. The app can automatically adjusts itself to your screen.
+- [pluveto/Caplos](https://github.com/pluveto/Caplos) - A tool to squeeze the power of your CapsLock key 一个充分利用你的大小写键的工具
+- [zsims/hunt-and-peck](https://github.com/zsims/hunt-and-peck) - Simple vimium/vimperator style navigation for Windows applications based on the UI Automation framework.
+- [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
+- [shadowsocksrr/shadowsocksr-csharp](https://github.com/shadowsocksrr/shadowsocksr-csharp) - 
 
 ## C++ 
 
-- [ni-translate](https://github.com/yasirtug/ni-translate) - A translator for Linux, running at the background which wakes up with the translation of the last selected text on command.
-- [crow-translate](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator that allows to translate and speak text using Google, Yandex and Bing.
-- [RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
-- [gImageReader](https://github.com/manisandro/gImageReader) - A Gtk/Qt front-end to tesseract-ocr.
-- [albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
-- [Mutate](https://github.com/qdore/Mutate) - A simple launcher inspired by Alfred for ubuntu and Fedora.
-- [zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
-- [tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
-- [fcitx-dbus-status](https://github.com/clear-code/fcitx-dbus-status) - 
-- [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
-- [deepin-wine-ubuntu](https://github.com/wszqkzqk/deepin-wine-ubuntu) - Deepin Wine for Ubuntu/Debian
-- [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-- [hardseed](https://github.com/yangyangwithgnu/hardseed) - SEX IS ZERO (0), so, who wanna be the ONE (1), aha?
-- [im-select](https://github.com/daipeihust/im-select) - Switch your input method through terminal 📟
-- [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+- [yasirtug/ni-translate](https://github.com/yasirtug/ni-translate) - A translator for Linux, running at the background which wakes up with the translation of the last selected text on command.
+- [crow-translate/crow-translate](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator that allows to translate and speak text using Google, Yandex and Bing.
+- [kapitainsky/RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
+- [manisandro/gImageReader](https://github.com/manisandro/gImageReader) - A Gtk/Qt front-end to tesseract-ocr.
+- [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
+- [qdore/Mutate](https://github.com/qdore/Mutate) - A simple launcher inspired by Alfred for ubuntu and Fedora.
+- [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
+- [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
+- [clear-code/fcitx-dbus-status](https://github.com/clear-code/fcitx-dbus-status) - 
+- [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
+- [wszqkzqk/deepin-wine-ubuntu](https://github.com/wszqkzqk/deepin-wine-ubuntu) - Deepin Wine for Ubuntu/Debian
+- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+- [yangyangwithgnu/hardseed](https://github.com/yangyangwithgnu/hardseed) - SEX IS ZERO (0), so, who wanna be the ONE (1), aha?
+- [daipeihust/im-select](https://github.com/daipeihust/im-select) - Switch your input method through terminal 📟
+- [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 
 ## CSS 
 
-- [vimwiki_markdown](https://github.com/WnP/vimwiki_markdown) - vimwiki markdown file to html with syntax highlighting.
-- [dots](https://github.com/creio/dots) - Alex Creio dots
-- [vimwikiblog](https://github.com/chrisju/vimwikiblog) - make vimwiki a blog
-- [jupyter-notebook-one-dark-theme](https://github.com/deryrahman/jupyter-notebook-one-dark-theme) - OneDark theme for Jupyter Notebook
-- [nord](https://github.com/arcticicestudio/nord) - An arctic, north-bluish color palette.
-- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-- [hexo-theme-next](https://github.com/iissnan/hexo-theme-next) - Elegant theme for Hexo.
-- [markdown-preview.vim](https://github.com/iamcco/markdown-preview.vim) - ⚠️ PLEASE USE https://github.com/iamcco/markdown-preview.nvim INSTEAD
-- [tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) - Tomorrow Theme now lives on at https://github.com/chriskempson/base16
+- [WnP/vimwiki_markdown](https://github.com/WnP/vimwiki_markdown) - vimwiki markdown file to html with syntax highlighting.
+- [creio/dots](https://github.com/creio/dots) - Alex Creio dots
+- [chrisju/vimwikiblog](https://github.com/chrisju/vimwikiblog) - make vimwiki a blog
+- [deryrahman/jupyter-notebook-one-dark-theme](https://github.com/deryrahman/jupyter-notebook-one-dark-theme) - OneDark theme for Jupyter Notebook
+- [arcticicestudio/nord](https://github.com/arcticicestudio/nord) - An arctic, north-bluish color palette.
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+- [iissnan/hexo-theme-next](https://github.com/iissnan/hexo-theme-next) - Elegant theme for Hexo.
+- [iamcco/markdown-preview.vim](https://github.com/iamcco/markdown-preview.vim) - ⚠️ PLEASE USE https://github.com/iamcco/markdown-preview.nvim INSTEAD
+- [chriskempson/tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) - Tomorrow Theme now lives on at https://github.com/chriskempson/base16
 
 ## Clojure 
 
-- [FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
+- [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 
 ## D 
 
-- [onedrive](https://github.com/skilion/onedrive) - Free Client for OneDrive on Linux
+- [skilion/onedrive](https://github.com/skilion/onedrive) - Free Client for OneDrive on Linux
 
 ## Dart 
 
-- [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
 
 ## Dockerfile 
 
-- [docker-kindle](https://github.com/igjit/docker-kindle) - Kindle in Docker
+- [igjit/docker-kindle](https://github.com/igjit/docker-kindle) - Kindle in Docker
 
 ## Emacs Lisp 
 
-- [spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
+- [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 
 ## Go 
 
-- [reflex](https://github.com/cespare/reflex) - Run a command when files change
-- [tldr](https://github.com/isacikgoz/tldr) - fast and interactive tldr client written with  go
-- [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
-- [i3-vim-nav](https://github.com/termhn/i3-vim-nav) - Seamlessly navigate i3 windows and vim splits
-- [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [i3blocks-mozc](https://github.com/3e849f2e5c/i3blocks-mozc) - i3blocks Mozc status
-- [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+- [cespare/reflex](https://github.com/cespare/reflex) - Run a command when files change
+- [isacikgoz/tldr](https://github.com/isacikgoz/tldr) - fast and interactive tldr client written with  go
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
+- [termhn/i3-vim-nav](https://github.com/termhn/i3-vim-nav) - Seamlessly navigate i3 windows and vim splits
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [3e849f2e5c/i3blocks-mozc](https://github.com/3e849f2e5c/i3blocks-mozc) - i3blocks Mozc status
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+- [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 
 ## HTML 
 
-- [text-to-handwriting](https://github.com/saurabhdaware/text-to-handwriting) - So your teacher asked you to upload written assignments? Hate writing assigments? This tool will help you convert your text to handwriting xD
-- [hugo-theme-zdoc](https://github.com/zzossig/hugo-theme-zdoc) - Make a documentation with hugo zdoc theme!
-- [terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
-- [uafred](https://github.com/zhenyangze/uafred) - alfred on ubuntu(use electron)
-- [Sreg](https://github.com/n0tr00t/Sreg) - Sreg可对使用者通过输入email、phone、username的返回用户注册的所有互联网护照信息。
+- [saurabhdaware/text-to-handwriting](https://github.com/saurabhdaware/text-to-handwriting) - So your teacher asked you to upload written assignments? Hate writing assigments? This tool will help you convert your text to handwriting xD
+- [zzossig/hugo-theme-zdoc](https://github.com/zzossig/hugo-theme-zdoc) - Make a documentation with hugo zdoc theme!
+- [axiros/terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
+- [zhenyangze/uafred](https://github.com/zhenyangze/uafred) - alfred on ubuntu(use electron)
+- [n0tr00t/Sreg](https://github.com/n0tr00t/Sreg) - Sreg可对使用者通过输入email、phone、username的返回用户注册的所有互联网护照信息。
 
 ## Haskell 
 
-- [linux_notification_center](https://github.com/phuhl/linux_notification_center) - A notification daemon/center for linux
+- [phuhl/linux_notification_center](https://github.com/phuhl/linux_notification_center) - A notification daemon/center for linux
 
 ## Inno Setup 
 
-- [build-extra](https://github.com/git-for-windows/build-extra) - Additional files and scripts to help build Git for Windows on MSYS2.
+- [git-for-windows/build-extra](https://github.com/git-for-windows/build-extra) - Additional files and scripts to help build Git for Windows on MSYS2.
 
 ## Java 
 
-- [java-tutorial](https://github.com/dunwu/java-tutorial) - :coffee: 老司机在 Java 技术领域的十年积累。
-- [dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
-- [sejda](https://github.com/torakiki/sejda) - An extendible and configurable PDF manipulation layer library written in java.
-- [Cknife](https://github.com/Chora10/Cknife) - Cknife
-- [tools-ocr](https://github.com/AnyListen/tools-ocr) - 树洞 OCR 文字识别（一款跨平台的 OCR 小工具）
+- [dunwu/java-tutorial](https://github.com/dunwu/java-tutorial) - :coffee: 老司机在 Java 技术领域的十年积累。
+- [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
+- [torakiki/sejda](https://github.com/torakiki/sejda) - An extendible and configurable PDF manipulation layer library written in java.
+- [Chora10/Cknife](https://github.com/Chora10/Cknife) - Cknife
+- [AnyListen/tools-ocr](https://github.com/AnyListen/tools-ocr) - 树洞 OCR 文字识别（一款跨平台的 OCR 小工具）
 
 ## JavaScript 
 
-- [appium](https://github.com/appium/appium) - :iphone: Automation for iOS, Android, and Windows Apps.
-- [estilo](https://github.com/jacoborus/estilo) - Create color schemes for Vim, Airline and Lightline
-- [LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
-- [screensaver](https://github.com/gillstrom/screensaver) - Start the screensaver.
-- [RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
-- [foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK eBook reader
-- [Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
-- [SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
-- [electron-ssr](https://github.com/shadowsocksrr/electron-ssr) - Shadowsocksr client using electron
-- [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
-- [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
-- [floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks across browsers via Nextcloud, WebDAV or Google Drive
-- [chrome-devtools-zerodarkmatrix-theme](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) - A highly customized dark theme for Chrome
-- [Buka](https://github.com/oguzhaninan/Buka) - Buka is a modern software that helps you manage your ebook at ease.
-- [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat) - :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
-- [markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
-- [Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
-- [regexr](https://github.com/gskinner/regexr) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
-- [Thief-Book](https://github.com/cteams/Thief-Book) - 一款真正的跨平台摸鱼神器
-- [Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
-- [Shuang](https://github.com/BlueSky-07/Shuang) - :pencil2: 双拼练习
-- [codelf](https://github.com/unbug/codelf) - A search tool helps dev to solve the naming things problem.
-- [Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
-- [gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
-- [carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
+- [appium/appium](https://github.com/appium/appium) - :iphone: Automation for iOS, Android, and Windows Apps.
+- [jacoborus/estilo](https://github.com/jacoborus/estilo) - Create color schemes for Vim, Airline and Lightline
+- [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
+- [gillstrom/screensaver](https://github.com/gillstrom/screensaver) - Start the screensaver.
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
+- [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK eBook reader
+- [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
+- [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
+- [shadowsocksrr/electron-ssr](https://github.com/shadowsocksrr/electron-ssr) - Shadowsocksr client using electron
+- [klaussinani/taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
+- [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
+- [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks across browsers via Nextcloud, WebDAV or Google Drive
+- [mauricecruz/chrome-devtools-zerodarkmatrix-theme](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) - A highly customized dark theme for Chrome
+- [oguzhaninan/Buka](https://github.com/oguzhaninan/Buka) - Buka is a modern software that helps you manage your ebook at ease.
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [geeeeeeeeek/electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat) - :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
+- [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
+- [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
+- [gskinner/regexr](https://github.com/gskinner/regexr) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
+- [cteams/Thief-Book](https://github.com/cteams/Thief-Book) - 一款真正的跨平台摸鱼神器
+- [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
+- [BlueSky-07/Shuang](https://github.com/BlueSky-07/Shuang) - :pencil2: 双拼练习
+- [unbug/codelf](https://github.com/unbug/codelf) - A search tool helps dev to solve the naming things problem.
+- [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
+- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
+- [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 
 ## Jupyter Notebook 
 
-- [Bokeh-CN](https://github.com/DonaldDai/Bokeh-CN) - Bokeh中文文档（翻译中）
-- [Office_Automation_by_Using_Python](https://github.com/weidylan/Office_Automation_by_Using_Python) - Office Automation by Using Pythonf (For Excel, Word, PPT and PDF .....)
-- [madewithml](https://github.com/GokuMohandas/madewithml) - Learn how to responsibly deliver value with applied ML.
+- [DonaldDai/Bokeh-CN](https://github.com/DonaldDai/Bokeh-CN) - Bokeh中文文档（翻译中）
+- [weidylan/Office_Automation_by_Using_Python](https://github.com/weidylan/Office_Automation_by_Using_Python) - Office Automation by Using Pythonf (For Excel, Word, PPT and PDF .....)
+- [GokuMohandas/madewithml](https://github.com/GokuMohandas/madewithml) - Learn how to responsibly deliver value with applied ML.
 
 ## Lua 
 
-- [dotfiles](https://github.com/szorfein/dotfiles) - Dotfiles for unix, managed by GNU stow.
-- [z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
+- [szorfein/dotfiles](https://github.com/szorfein/dotfiles) - Dotfiles for unix, managed by GNU stow.
+- [skywind3000/z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
 
 ## Makefile 
 
-- [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。
+- [jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。
 
 ## Others 
 
-- [JavaBooks](https://github.com/itwanger/JavaBooks) - Java 程序员常读书单整理，附下载地址，助力构建最强知识体系。但不限于 Java，包括设计模式、计算机网络、操作系统、数据库、数据结构与算法、大数据、架构、面试等等。
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-- [vim-no-color-collections](https://github.com/mcchrish/vim-no-color-collections) - Collection of Vim themes with barely any colors
-- [stars](https://github.com/hantaotaohan/stars) - 
-- [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-- [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-- [Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for.
-- [awesome-shell](https://github.com/uhub/awesome-shell) - A curated list of awesome Shell frameworks, libraries and software.
-- [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-- [hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
-- [Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
-- [LibreOffice-BreezeDark](https://github.com/RaitaroH/LibreOffice-BreezeDark) - Icons, color palette and color scheme for LibreOffice
-- [nord-dircolors](https://github.com/arcticicestudio/nord-dircolors) - An arctic, north-bluish clean and elegant dircolors theme.
-- [learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
-- [bash-guide](https://github.com/vuuihc/bash-guide) - bash 基本用法指南
-- [capslock](https://github.com/morganprecision/capslock) - Mappings for Caps Lock key with xmodmap
-- [tmux_for_windows](https://github.com/hongwenjun/tmux_for_windows) - tmux是一个开源工具，用于在一个终端窗口中运行多个终端会话。本工具从msys2里提取，可以在Git for Windows的Git Bash (MingW64)下正常使用。
-- [git-tips](https://github.com/521xueweihan/git-tips) - :trollface:Git的奇技淫巧
-- [A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) - 专为程序员编写的英语学习指南 v1.2。在线版本请点 -&gt;
-- [show-me-the-code](https://github.com/Yixiaohan/show-me-the-code) - Python 练习册，每天一个小程序
-- [hello-vim](https://github.com/vim-china/hello-vim) - Vim 中文资源整理
-- [trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
-- [git-recipes](https://github.com/geeeeeeeeek/git-recipes) - 🥡 Git recipes in Chinese by Zhongyi Tong. 高质量的Git中文教程.
+- [whitelok/watermark-remover](https://github.com/whitelok/watermark-remover) - Remove watermark automatically(Just can use for fixed position watermark till now). 自动水印消除算法的实现（目前只支持固定水印位置）。
+- [itwanger/JavaBooks](https://github.com/itwanger/JavaBooks) - Java 程序员常读书单整理，附下载地址，助力构建最强知识体系。但不限于 Java，包括设计模式、计算机网络、操作系统、数据库、数据结构与算法、大数据、架构、面试等等。
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+- [mcchrish/vim-no-color-collections](https://github.com/mcchrish/vim-no-color-collections) - Collection of Vim themes with barely any colors
+- [hantaotaohan/stars](https://github.com/hantaotaohan/stars) - 
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+- [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+- [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for.
+- [uhub/awesome-shell](https://github.com/uhub/awesome-shell) - A curated list of awesome Shell frameworks, libraries and software.
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+- [googlehosts/hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
+- [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
+- [RaitaroH/LibreOffice-BreezeDark](https://github.com/RaitaroH/LibreOffice-BreezeDark) - Icons, color palette and color scheme for LibreOffice
+- [arcticicestudio/nord-dircolors](https://github.com/arcticicestudio/nord-dircolors) - An arctic, north-bluish clean and elegant dircolors theme.
+- [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
+- [vuuihc/bash-guide](https://github.com/vuuihc/bash-guide) - bash 基本用法指南
+- [morganprecision/capslock](https://github.com/morganprecision/capslock) - Mappings for Caps Lock key with xmodmap
+- [hongwenjun/tmux_for_windows](https://github.com/hongwenjun/tmux_for_windows) - tmux是一个开源工具，用于在一个终端窗口中运行多个终端会话。本工具从msys2里提取，可以在Git for Windows的Git Bash (MingW64)下正常使用。
+- [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) - :trollface:Git的奇技淫巧
+- [yujiangshui/A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) - 专为程序员编写的英语学习指南 v1.2。在线版本请点 -&gt;
+- [Yixiaohan/show-me-the-code](https://github.com/Yixiaohan/show-me-the-code) - Python 练习册，每天一个小程序
+- [vim-china/hello-vim](https://github.com/vim-china/hello-vim) - Vim 中文资源整理
+- [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
+- [geeeeeeeeek/git-recipes](https://github.com/geeeeeeeeek/git-recipes) - 🥡 Git recipes in Chinese by Zhongyi Tong. 高质量的Git中文教程.
 
 ## PowerShell 
 
-- [BurntToast](https://github.com/Windos/BurntToast) - Module for creating and displaying Toast Notifications on Microsoft Windows 10.
-- [WSLNotifications](https://github.com/xaositects/WSLNotifications) - A powershell script to give the ability to send notifications to windows 10 desktop from within WSL
+- [Windos/BurntToast](https://github.com/Windos/BurntToast) - Module for creating and displaying Toast Notifications on Microsoft Windows 10.
+- [xaositects/WSLNotifications](https://github.com/xaositects/WSLNotifications) - A powershell script to give the ability to send notifications to windows 10 desktop from within WSL
 
 ## Python 
 
-- [qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on PyQt5.
-- [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-- [bash-complete-partial-path](https://github.com/sio/bash-complete-partial-path) - Enhanced file path completion in bash (like in zsh)
-- [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-- [vimade](https://github.com/TaDaa/vimade) - An eye friendly plugin that fades your inactive buffers and preserves your syntax highlighting!
-- [Blog-With-GitHub-Boilerplate](https://github.com/AlanDecode/Blog-With-GitHub-Boilerplate) - 这是博客文章《完全用 GitHub 写博客》所提出流程的示例仓库。
-- [Maverick](https://github.com/AlanDecode/Maverick) - 🏄‍ A static blog generator built with Python.
-- [chadtree](https://github.com/ms-jpq/chadtree) - File manager for Neovim. Better than NERDTree.
-- [vim-boxdraw](https://github.com/gyim/vim-boxdraw) - An ASCII box drawing plugin for Vim
-- [ssfconv](https://github.com/fkxxyz/ssfconv) - Sogou input method skin file (.ssf file) converter, supports conversion to fcitx or fcitx5 format.
-- [graph-easy-vim](https://github.com/VOID001/graph-easy-vim) - Drawing ASCII digram in vim with dot syntax! Integrate graph-easy with vim
-- [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - :orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。
-- [DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) - DeDRM tools for ebooks
-- [azote](https://github.com/nwg-piotr/azote) - Wallpaper and colour manager for Sway, i3 and some other WMs
-- [i3-py](https://github.com/ziberna/i3-py) - Python based tools for i3 users and developers
-- [i3-wm-scripts](https://github.com/micahcc/i3-wm-scripts) - i3 Window Manager Scripts
-- [i3-tools](https://github.com/miseran/i3-tools) - Some of my personal tools for the i3 window manager.
-- [polybar-i3-windows](https://github.com/meelkor/polybar-i3-windows) - 
-- [negi3wm](https://github.com/neg-serg/negi3wm) - Brings a lot of UX features from notion/ion3 and more to i3. Probably the most sophisticated example of i3ipc usage ever created
-- [matrixlock](https://github.com/mherrmann/matrixlock) - Replace i3's lock screen by the Matrix.
-- [cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
-- [w3-goto-world](https://github.com/hoochanlon/w3-goto-world) - 🍅Git/AWS/Google 镜像 ,SS/SSR/VMESS节点,WireGuard,IPFS, DeepWeb,Capitalism 、行业研究报告的知识储备库
-- [raiseorlaunch](https://github.com/open-dynaMIX/raiseorlaunch) - A run-or-raise-application-launcher for i3 window manager.
-- [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [i3ipc-python](https://github.com/altdesktop/i3ipc-python) - 🐍 An improved Python library to control i3wm and sway.
-- [mouseless](https://github.com/ywsswy/mouseless) - 使用键盘控制鼠标
-- [ExtractTable-py](https://github.com/ExtractTable/ExtractTable-py) - Python library to extract tabular data from images and scanned PDFs
-- [GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。
-- [sncli](https://github.com/insanum/sncli) - Simplenote CLI
-- [visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
-- [ocr-table](https://github.com/cseas/ocr-table) - Extract tables from scanned image PDFs using Optical Character Recognition.
-- [pytesseract](https://github.com/madmaze/pytesseract) - A Python wrapper for Google Tesseract
-- [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
-- [pdf-to-csv-table-extactor](https://github.com/vitali84/pdf-to-csv-table-extactor) - Extract tables from scanned documents pdf into csv file using ocr and image processing
-- [Hardcode-Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Fixes Hardcoded tray icons in Linux
-- [you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
-- [ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
-- [tabview](https://github.com/TabViewer/tabview) - Python curses command line CSV and tabular data viewer
-- [xlsx2csv](https://github.com/dilshod/xlsx2csv) - Convert xslx to csv, it is fast, and works for huge xlsx files
-- [vimwiki_md2html](https://github.com/jason6/vimwiki_md2html) - Integrated markdown to html processing for vimwiki
-- [python-small-examples](https://github.com/jackzhenguo/python-small-examples) - 告别枯燥，致力于打造 Python 实用小例子
-- [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
-- [30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - Short Python code snippets for all your development needs
-- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目（5 周年）
-- [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018 Actively developed and supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom layout GUI's simply.  Python 2.7 & 3 Support. 200+ Demo programs & Cookbook for rapid start. Extensive documentation.  Examples using Machine Learning(GUI, OpenCV Integration,  Chatterbot), Floating Desktop Widgets, Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer. For both beginning and advanced programmers .
-- [Handright](https://github.com/Gsllchb/Handright) - A lightweight Python library for simulating Chinese handwriting
-- [markdown2ctags](https://github.com/jszakmeister/markdown2ctags) - Generate ctags-compatible tags files for Markdown documents.
-- [simpleui](https://github.com/newpanjing/simpleui) - A modern theme based on vue+element-ui for django admin.一款基于vue+element-ui的django admin现代化主题。全球10000+网站都在使用！喜欢可以点个star✨
-- [powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
-- [learn_python3_spider](https://github.com/wistbean/learn_python3_spider) - python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式爬虫，爬虫项目实战实例等
-- [ShadowSocksShare](https://github.com/the0demiurge/ShadowSocksShare) - Python爬虫/Flask网站/免费ShadowSocks账号/ssr订阅/json 订阅
-- [bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
-- [SendKeys](https://github.com/NyanKiyoshi/SendKeys) - Original SendKeys project ported to Python3.4+
-- [ultisnips](https://github.com/SirVer/ultisnips) - UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
-- [Vim-EPUB](https://github.com/vim-scripts/Vim-EPUB) - Plugin for EPUB ebooks' edition
-- [django-treenode](https://github.com/fabiocaccamo/django-treenode) - probably the best abstract model / admin for your tree based stuff. :deciduous_tree:
-- [Cactus](https://github.com/eudicots/Cactus) - Static site generator for designers. Uses Python and Django templates.
-- [wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) - wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
-- [LeaderF](https://github.com/Yggdroot/LeaderF) - An efficient fuzzy finder that helps to locate files, buffers, mrus, gtags, etc. on the fly for both vim and neovim.
-- [Python](https://github.com/geekcomputers/Python) - My Python Examples
-- [powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
-- [scrapy-fake-useragent](https://github.com/alecxe/scrapy-fake-useragent) - Random User-Agent middleware based on fake-useragent
-- [fake-useragent](https://github.com/hellysmile/fake-useragent) - up to date simple useragent faker with real world database
-- [django-oscar](https://github.com/django-oscar/django-oscar) - Domain-driven e-commerce for Django
-- [camelot](https://github.com/atlanhq/camelot) - Camelot: PDF Table Extraction for Humans
-- [Raccoon](https://github.com/evyatarmeged/Raccoon) - A high performance offensive security tool for reconnaissance and vulnerability scanning
-- [termgraph](https://github.com/mkaz/termgraph) - a python command-line tool which draws basic graphs in the terminal
-- [Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
-- [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
-- [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
-- [requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.
-- [django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
-- [scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
-- [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
-- [qrcode](https://github.com/sylnsfar/qrcode) - artistic QR Code in Python （Animated GIF qr code）- Python 艺术二维码生成器 （GIF动态二维码、图片二维码）
-- [cut_image](https://github.com/yangxuan0928/cut_image) - 使用python PIL 库将一张照片切分为9张图
+- [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on PyQt5.
+- [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+- [sio/bash-complete-partial-path](https://github.com/sio/bash-complete-partial-path) - Enhanced file path completion in bash (like in zsh)
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [TaDaa/vimade](https://github.com/TaDaa/vimade) - An eye friendly plugin that fades your inactive buffers and preserves your syntax highlighting!
+- [AlanDecode/Blog-With-GitHub-Boilerplate](https://github.com/AlanDecode/Blog-With-GitHub-Boilerplate) - 这是博客文章《完全用 GitHub 写博客》所提出流程的示例仓库。
+- [AlanDecode/Maverick](https://github.com/AlanDecode/Maverick) - 🏄‍ A static blog generator built with Python.
+- [ms-jpq/chadtree](https://github.com/ms-jpq/chadtree) - File manager for Neovim. Better than NERDTree.
+- [gyim/vim-boxdraw](https://github.com/gyim/vim-boxdraw) - An ASCII box drawing plugin for Vim
+- [fkxxyz/ssfconv](https://github.com/fkxxyz/ssfconv) - Sogou input method skin file (.ssf file) converter, supports conversion to fcitx or fcitx5 format.
+- [VOID001/graph-easy-vim](https://github.com/VOID001/graph-easy-vim) - Drawing ASCII digram in vim with dot syntax! Integrate graph-easy with vim
+- [pwxcoo/chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - :orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。
+- [apprenticeharper/DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) - DeDRM tools for ebooks
+- [nwg-piotr/azote](https://github.com/nwg-piotr/azote) - Wallpaper and colour manager for Sway, i3 and some other WMs
+- [ziberna/i3-py](https://github.com/ziberna/i3-py) - Python based tools for i3 users and developers
+- [micahcc/i3-wm-scripts](https://github.com/micahcc/i3-wm-scripts) - i3 Window Manager Scripts
+- [miseran/i3-tools](https://github.com/miseran/i3-tools) - Some of my personal tools for the i3 window manager.
+- [meelkor/polybar-i3-windows](https://github.com/meelkor/polybar-i3-windows) - 
+- [neg-serg/negi3wm](https://github.com/neg-serg/negi3wm) - Brings a lot of UX features from notion/ion3 and more to i3. Probably the most sophisticated example of i3ipc usage ever created
+- [mherrmann/matrixlock](https://github.com/mherrmann/matrixlock) - Replace i3's lock screen by the Matrix.
+- [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
+- [hoochanlon/w3-goto-world](https://github.com/hoochanlon/w3-goto-world) - 🍅Git/AWS/Google 镜像 ,SS/SSR/VMESS节点,WireGuard,IPFS, DeepWeb,Capitalism 、行业研究报告的知识储备库
+- [open-dynaMIX/raiseorlaunch](https://github.com/open-dynaMIX/raiseorlaunch) - A run-or-raise-application-launcher for i3 window manager.
+- [willmcgugan/rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [altdesktop/i3ipc-python](https://github.com/altdesktop/i3ipc-python) - 🐍 An improved Python library to control i3wm and sway.
+- [ywsswy/mouseless](https://github.com/ywsswy/mouseless) - 使用键盘控制鼠标
+- [ExtractTable/ExtractTable-py](https://github.com/ExtractTable/ExtractTable-py) - Python library to extract tabular data from images and scanned PDFs
+- [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装软件）
+- [insanum/sncli](https://github.com/insanum/sncli) - Simplenote CLI
+- [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
+- [cseas/ocr-table](https://github.com/cseas/ocr-table) - Extract tables from scanned image PDFs using Optical Character Recognition.
+- [madmaze/pytesseract](https://github.com/madmaze/pytesseract) - A Python wrapper for Google Tesseract
+- [jbarlow83/OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+- [vitali84/pdf-to-csv-table-extactor](https://github.com/vitali84/pdf-to-csv-table-extactor) - Extract tables from scanned documents pdf into csv file using ocr and image processing
+- [bilelmoussaoui/Hardcode-Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Fixes Hardcoded tray icons in Linux
+- [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
+- [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
+- [TabViewer/tabview](https://github.com/TabViewer/tabview) - Python curses command line CSV and tabular data viewer
+- [dilshod/xlsx2csv](https://github.com/dilshod/xlsx2csv) - Convert xslx to csv, it is fast, and works for huge xlsx files
+- [jason6/vimwiki_md2html](https://github.com/jason6/vimwiki_md2html) - Integrated markdown to html processing for vimwiki
+- [jackzhenguo/python-small-examples](https://github.com/jackzhenguo/python-small-examples) - 告别枯燥，致力于打造 Python 实用小例子
+- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
+- [30-seconds/30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - Short Python code snippets for all your development needs
+- [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目（5 周年）
+- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018 Actively developed and supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom layout GUI's simply.  Python 2.7 & 3 Support. 200+ Demo programs & Cookbook for rapid start. Extensive documentation.  Examples using Machine Learning(GUI, OpenCV Integration,  Chatterbot), Floating Desktop Widgets, Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer. For both beginning and advanced programmers .
+- [Gsllchb/Handright](https://github.com/Gsllchb/Handright) - A lightweight Python library for simulating Chinese handwriting
+- [jszakmeister/markdown2ctags](https://github.com/jszakmeister/markdown2ctags) - Generate ctags-compatible tags files for Markdown documents.
+- [newpanjing/simpleui](https://github.com/newpanjing/simpleui) - A modern theme based on vue+element-ui for django admin.一款基于vue+element-ui的django admin现代化主题。全球10000+网站都在使用！喜欢可以点个star✨
+- [b-ryan/powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
+- [wistbean/learn_python3_spider](https://github.com/wistbean/learn_python3_spider) - python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式爬虫，爬虫项目实战实例等
+- [the0demiurge/ShadowSocksShare](https://github.com/the0demiurge/ShadowSocksShare) - Python爬虫/Flask网站/免费ShadowSocks账号/ssr订阅/json 订阅
+- [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
+- [NyanKiyoshi/SendKeys](https://github.com/NyanKiyoshi/SendKeys) - Original SendKeys project ported to Python3.4+
+- [SirVer/ultisnips](https://github.com/SirVer/ultisnips) - UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
+- [vim-scripts/Vim-EPUB](https://github.com/vim-scripts/Vim-EPUB) - Plugin for EPUB ebooks' edition
+- [fabiocaccamo/django-treenode](https://github.com/fabiocaccamo/django-treenode) - probably the best abstract model / admin for your tree based stuff. :deciduous_tree:
+- [eudicots/Cactus](https://github.com/eudicots/Cactus) - Static site generator for designers. Uses Python and Django templates.
+- [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) - wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
+- [Yggdroot/LeaderF](https://github.com/Yggdroot/LeaderF) - An efficient fuzzy finder that helps to locate files, buffers, mrus, gtags, etc. on the fly for both vim and neovim.
+- [geekcomputers/Python](https://github.com/geekcomputers/Python) - My Python Examples
+- [powerline/powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
+- [alecxe/scrapy-fake-useragent](https://github.com/alecxe/scrapy-fake-useragent) - Random User-Agent middleware based on fake-useragent
+- [hellysmile/fake-useragent](https://github.com/hellysmile/fake-useragent) - up to date simple useragent faker with real world database
+- [django-oscar/django-oscar](https://github.com/django-oscar/django-oscar) - Domain-driven e-commerce for Django
+- [atlanhq/camelot](https://github.com/atlanhq/camelot) - Camelot: PDF Table Extraction for Humans
+- [evyatarmeged/Raccoon](https://github.com/evyatarmeged/Raccoon) - A high performance offensive security tool for reconnaissance and vulnerability scanning
+- [mkaz/termgraph](https://github.com/mkaz/termgraph) - a python command-line tool which draws basic graphs in the terminal
+- [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
+- [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
+- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [psf/requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.
+- [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
+- [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [sylnsfar/qrcode](https://github.com/sylnsfar/qrcode) - artistic QR Code in Python （Animated GIF qr code）- Python 艺术二维码生成器 （GIF动态二维码、图片二维码）
+- [yangxuan0928/cut_image](https://github.com/yangxuan0928/cut_image) - 使用python PIL 库将一张照片切分为9张图
 
 ## Roff 
 
-- [manpages-zh](https://github.com/man-pages-zh/manpages-zh) - Chinese Manual Pages
+- [man-pages-zh/manpages-zh](https://github.com/man-pages-zh/manpages-zh) - Chinese Manual Pages
 
 ## Ruby 
 
-- [zk](https://github.com/sirupsen/zk) - Zettelkasten on the command-line 📚 🔍
-- [vimwiki_markdown](https://github.com/patrickdavey/vimwiki_markdown) - A gem to use for converting vimwiki markdown files to html.
+- [sirupsen/zk](https://github.com/sirupsen/zk) - Zettelkasten on the command-line 📚 🔍
+- [patrickdavey/vimwiki_markdown](https://github.com/patrickdavey/vimwiki_markdown) - A gem to use for converting vimwiki markdown files to html.
 
 ## Rust 
 
-- [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-- [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
-- [starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [i3-vim-focus](https://github.com/jwilm/i3-vim-focus) - Vim plugin for seamless navigation between i3 and vim
-- [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers
-- [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
+- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
+- [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [jwilm/i3-vim-focus](https://github.com/jwilm/i3-vim-focus) - Vim plugin for seamless navigation between i3 and vim
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 
 ## SCSS 
 
-- [hugo-theme-zzo](https://github.com/zzossig/hugo-theme-zzo) - Make a blog with hugo zzo theme!
-- [heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
+- [zzossig/hugo-theme-zzo](https://github.com/zzossig/hugo-theme-zzo) - Make a blog with hugo zzo theme!
+- [sivan/heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 
 ## Scala 
 
-- [source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 源ノ明朝 | 본명조
+- [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 源ノ明朝 | 본명조
 
 ## Shell 
 
-- [Sarasa-Mono-SC-Nerd](https://github.com/laishulu/Sarasa-Mono-SC-Nerd) - 简体中文等距更纱黑体+Nerd图标字体库。中英文宽度完美2:1，图标长宽经过调整，不会出现对齐问题，尤其适合作为终端字体。
-- [tmux-power](https://github.com/wfxr/tmux-power) - 🎨 Tmux powerline theme
-- [ansi](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
-- [Bash-script](https://github.com/feherke/Bash-script) - Bash scripts
-- [bash2048](https://github.com/JosefZIla/bash2048) - Bash implementation of 2048 game
-- [rofi-spotlight](https://github.com/manilarome/rofi-spotlight) - Spotlight-like Rofi
-- [fzf-plugins](https://github.com/4z3/fzf-plugins) - 
-- [hugoThemes](https://github.com/gohugoio/hugoThemes) - A curated directory of Hugo themes
-- [i3blocks-contrib](https://github.com/vivien/i3blocks-contrib) - Official repository for community contributed blocklets
-- [ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
-- [rofi-shortcuts](https://github.com/Zeioth/rofi-shortcuts) - The ultimate shortcuts cheatsheet
-- [dotfiles](https://github.com/rememberYou/dotfiles) - 🏡 Personal dotfiles configuration
-- [notion-linux](https://github.com/davidbailey00/notion-linux) - Native Notion packages for Linux
-- [anbox-playstore-installer](https://github.com/geeks-r-us/anbox-playstore-installer) - Install script that automates installation of googles playstore in anbox
-- [rof](https://github.com/nwg-piotr/rof) - Launcher script to avoid running multiple instance of the same window
-- [polybar-debian](https://github.com/ayosec/polybar-debian) - Debian packages for Polybar
-- [hideIt.sh](https://github.com/tadly/hideIt.sh) - Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
-- [dots](https://github.com/szorfein/dots) - Use chezmoi to install my dotfiles easily on Gentoo, Arch and Debian.
-- [lotion](https://github.com/puneetsl/lotion) - Unofficial Notion.so app for Linux
-- [maildir-notification](https://github.com/varogami/maildir-notification) - a bash script to notify by multiple maildirs with various method (libnotify, xmpp/jabber, other)
-- [rofi-translate](https://github.com/garyparrot/rofi-translate) - Rofi translate script based on translate-shell
-- [prettyi3](https://github.com/aeghn/prettyi3) - 
-- [i3ass](https://github.com/budlabs/i3ass) - A collection of shell scripts to ease the use of i3wm
-- [i3buntu](https://github.com/efazati/i3buntu) - I3wm + Ubuntu 20.04 server without any less usefull packages
-- [bspwm-dotfiles](https://github.com/ayamir/bspwm-dotfiles) - My Arch+Bspwm dotfiles
-- [vmware-tools-patches](https://github.com/rasa/vmware-tools-patches) - Patch and build VMware tools automatically
-- [dotfiles](https://github.com/hantaotaohan/dotfiles) - My Workspace dotfiles config .
-- [Ascii_Signature](https://github.com/pedroqin/Ascii_Signature) - 
-- [Deepin-Apps-Installation](https://github.com/Jactor-Sue/Deepin-Apps-Installation) - 本仓库介绍如何在基于Ubuntu的系统上安装Deepin移植的软件。This repo shows how to install apps packaged by Deepin.
-- [mybox](https://github.com/mavcook/mybox) - Some of my config files and what not
-- [dotfiles](https://github.com/johnarok/dotfiles) - dotfiles
-- [tldr-sh-client](https://github.com/raylee/tldr-sh-client) - Simplified and community-driven man pages
-- [dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
-- [dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.
-- [i3wm-config](https://github.com/levinit/i3wm-config) - my i3wm config
-- [z](https://github.com/rupa/z) - z - jump around
-- [the_silver_searcher-win32](https://github.com/k-takata/the_silver_searcher-win32) - The silver searcher Win32 unofficial daily builds
-- [nsfw_data_scraper](https://github.com/alex000kim/nsfw_data_scraper) - Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier
-- [awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
-- [fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
+- [laishulu/Sarasa-Mono-SC-Nerd](https://github.com/laishulu/Sarasa-Mono-SC-Nerd) - 简体中文等距更纱黑体+Nerd图标字体库。中英文宽度完美2:1，图标长宽经过调整，不会出现对齐问题，尤其适合作为终端字体。
+- [wfxr/tmux-power](https://github.com/wfxr/tmux-power) - 🎨 Tmux powerline theme
+- [fidian/ansi](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
+- [feherke/Bash-script](https://github.com/feherke/Bash-script) - Bash scripts
+- [JosefZIla/bash2048](https://github.com/JosefZIla/bash2048) - Bash implementation of 2048 game
+- [manilarome/rofi-spotlight](https://github.com/manilarome/rofi-spotlight) - Spotlight-like Rofi
+- [4z3/fzf-plugins](https://github.com/4z3/fzf-plugins) - 
+- [gohugoio/hugoThemes](https://github.com/gohugoio/hugoThemes) - A curated directory of Hugo themes
+- [vivien/i3blocks-contrib](https://github.com/vivien/i3blocks-contrib) - Official repository for community contributed blocklets
+- [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
+- [Zeioth/rofi-shortcuts](https://github.com/Zeioth/rofi-shortcuts) - The ultimate shortcuts cheatsheet
+- [rememberYou/dotfiles](https://github.com/rememberYou/dotfiles) - 🏡 Personal dotfiles configuration
+- [davidbailey00/notion-linux](https://github.com/davidbailey00/notion-linux) - Native Notion packages for Linux
+- [geeks-r-us/anbox-playstore-installer](https://github.com/geeks-r-us/anbox-playstore-installer) - Install script that automates installation of googles playstore in anbox
+- [nwg-piotr/rof](https://github.com/nwg-piotr/rof) - Launcher script to avoid running multiple instance of the same window
+- [ayosec/polybar-debian](https://github.com/ayosec/polybar-debian) - Debian packages for Polybar
+- [tadly/hideIt.sh](https://github.com/tadly/hideIt.sh) - Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
+- [szorfein/dots](https://github.com/szorfein/dots) - Use chezmoi to install my dotfiles easily on Gentoo, Arch and Debian.
+- [puneetsl/lotion](https://github.com/puneetsl/lotion) - Unofficial Notion.so app for Linux
+- [varogami/maildir-notification](https://github.com/varogami/maildir-notification) - a bash script to notify by multiple maildirs with various method (libnotify, xmpp/jabber, other)
+- [garyparrot/rofi-translate](https://github.com/garyparrot/rofi-translate) - Rofi translate script based on translate-shell
+- [aeghn/prettyi3](https://github.com/aeghn/prettyi3) - 
+- [budlabs/i3ass](https://github.com/budlabs/i3ass) - A collection of shell scripts to ease the use of i3wm
+- [efazati/i3buntu](https://github.com/efazati/i3buntu) - I3wm + Ubuntu 20.04 server without any less usefull packages
+- [ayamir/bspwm-dotfiles](https://github.com/ayamir/bspwm-dotfiles) - My Arch+Bspwm dotfiles
+- [rasa/vmware-tools-patches](https://github.com/rasa/vmware-tools-patches) - Patch and build VMware tools automatically
+- [hantaotaohan/dotfiles](https://github.com/hantaotaohan/dotfiles) - My Workspace dotfiles config .
+- [pedroqin/Ascii_Signature](https://github.com/pedroqin/Ascii_Signature) - 
+- [Jactor-Sue/Deepin-Apps-Installation](https://github.com/Jactor-Sue/Deepin-Apps-Installation) - 本仓库介绍如何在基于Ubuntu的系统上安装Deepin移植的软件。This repo shows how to install apps packaged by Deepin.
+- [mavcook/mybox](https://github.com/mavcook/mybox) - Some of my config files and what not
+- [johnarok/dotfiles](https://github.com/johnarok/dotfiles) - dotfiles
+- [raylee/tldr-sh-client](https://github.com/raylee/tldr-sh-client) - Simplified and community-driven man pages
+- [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
+- [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.
+- [levinit/i3wm-config](https://github.com/levinit/i3wm-config) - my i3wm config
+- [rupa/z](https://github.com/rupa/z) - z - jump around
+- [k-takata/the_silver_searcher-win32](https://github.com/k-takata/the_silver_searcher-win32) - The silver searcher Win32 unofficial daily builds
+- [alex000kim/nsfw_data_scraper](https://github.com/alex000kim/nsfw_data_scraper) - Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier
+- [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
+- [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 
 ## TeX 
 
-- [vimtex](https://github.com/lervag/vimtex) - VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
+- [lervag/vimtex](https://github.com/lervag/vimtex) - VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
 
 ## TypeScript 
 
-- [qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
-- [homura](https://github.com/Saul-Mirone/homura) - Homura RSS Reader
-- [polydock](https://github.com/folke/polydock) - ✨ A shiny and hackable application dock
-- [TimeCat](https://github.com/oct16/TimeCat) - A Magical Web Recorder & Player 🖥 (WIP)
-- [simplenote-electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux
-- [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - Foreign language reading and translation assistant based on copy and translate.
-- [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
-- [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
-- [upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
+- [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
+- [Saul-Mirone/homura](https://github.com/Saul-Mirone/homura) - Homura RSS Reader
+- [folke/polydock](https://github.com/folke/polydock) - ✨ A shiny and hackable application dock
+- [oct16/TimeCat](https://github.com/oct16/TimeCat) - A Magical Web Recorder & Player 🖥 (WIP)
+- [Automattic/simplenote-electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux
+- [CopyTranslator/CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - Foreign language reading and translation assistant based on copy and translate.
+- [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+- [Eugeny/terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
+- [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 
 ## VBA 
 
-- [ExcelLikeVim](https://github.com/kjnh10/ExcelLikeVim) - This is a Excel Addin that provide vim-like interface.
+- [kjnh10/ExcelLikeVim](https://github.com/kjnh10/ExcelLikeVim) - This is a Excel Addin that provide vim-like interface.
 
 ## Vala 
 
-- [timeshift](https://github.com/teejee2008/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
-- [bookworm](https://github.com/babluboy/bookworm) - A simple ebook reader for Elementary OS
+- [teejee2008/timeshift](https://github.com/teejee2008/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
+- [babluboy/bookworm](https://github.com/babluboy/bookworm) - A simple ebook reader for Elementary OS
 
 ## Vim script 
 
-- [vim-vinegar](https://github.com/tpope/vim-vinegar) - vinegar.vim: Combine with netrw to create a delicious salad dressing
-- [vim-unimpaired](https://github.com/tpope/vim-unimpaired) - unimpaired.vim: Pairs of handy bracket mappings
-- [vim-deus](https://github.com/ajmwagar/vim-deus) - 🌙 A better color scheme for the late night coder
-- [init.nvim](https://github.com/Blacksuan19/init.nvim) - An Opinionated Neovim Config for the Minimalists
-- [FastFold](https://github.com/Konfekt/FastFold) - Speed up Vim by updating folds only when called-for.
-- [vim-high](https://github.com/bimlas/vim-high) - Vim plugin: All-in-one highlighter, highlight custom pattern like indentation, inactive window, word under the cursor
-- [edge](https://github.com/sainnhe/edge) - Clean & Elegant Color Scheme inspired by Atom One and Material
-- [vim-gitbranch](https://github.com/itchyny/vim-gitbranch) - Provides the branch name of the current git repository
-- [lightline-bufferline](https://github.com/mengelbrecht/lightline-bufferline) - A lightweight plugin to display the list of buffers in the lightline vim plugin
-- [ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM) - vim输入法 / Vim Input Method by pure vim script, support: user word, dynamic word priority, cloud db files
-- [vim-signify](https://github.com/mhinz/vim-signify) - :heavy_plus_sign: Show a diff using Vim its sign column.
-- [vim-lucius](https://github.com/jonathanfilip/vim-lucius) - Lucius color scheme for vim
-- [termschool-vim-theme](https://github.com/marcopaganini/termschool-vim-theme) - A vim theme based on the "codeschool" theme, with lots of tweaks and optimized for 256 color terminals.
-- [vim-one](https://github.com/laggardkernel/vim-one) - Adaptation of one-light and one-dark colorschemes for Vim
-- [vim-EnhancedJumps](https://github.com/inkarkat/vim-EnhancedJumps) - Enhanced jump and change list navigation commands.
-- [vim-startuptime](https://github.com/dstein64/vim-startuptime) - ⏲️ A Vim plugin for profiling Vim's startup time.
-- [vim-autoread](https://github.com/chrisbra/vim-autoread) - Use tail -f on a buffer and append new content
-- [vim-buffet](https://github.com/bagrat/vim-buffet) - IDE-like Vim tabline
-- [close-buffers.vim](https://github.com/Asheq/close-buffers.vim) - :book: Quickly close (bdelete) several buffers at once 📕
-- [kuroi.vim](https://github.com/aonemd/kuroi.vim) - A dark Vim colorscheme
-- [vim-esearch](https://github.com/eugen0329/vim-esearch) - Perform search in files easily
-- [q-quit](https://github.com/HustLion/q-quit) - q to smart quit.
-- [vim-quit-if-transient-buffers](https://github.com/at-cf/vim-quit-if-transient-buffers) - Close tab if the only remaining buffers are transient, like qf, NERDTree, etc.
-- [vem-tabline](https://github.com/pacha/vem-tabline) - A lightweight Vim/Neovim plugin to display buffers and tabs in the tabline
-- [vim-monotone](https://github.com/Lokaltog/vim-monotone) - A dark, monochrome colorscheme for vim
-- [quick-scope](https://github.com/unblevable/quick-scope) - Lightning fast left-right movement in Vim
-- [vim-pencil](https://github.com/reedes/vim-pencil) - Rethinking Vim as a tool for writing
-- [vim-rsi](https://github.com/tpope/vim-rsi) - rsi.vim: Readline style insertion
-- [vim-toml](https://github.com/cespare/vim-toml) - Vim syntax for TOML
-- [atlas.vim](https://github.com/huyvohcmc/atlas.vim) - Colorful theme for colorful souls
-- [vim-numbertoggle](https://github.com/jeffkreeftmeijer/vim-numbertoggle) - Toggles between hybrid and absolute line numbers automatically
-- [vimspector](https://github.com/puremourning/vimspector) - vimspector - A multi-language debugging system for Vim
-- [vim-alt-mappings](https://github.com/vim-utils/vim-alt-mappings) - (experimental!) Enables ALT key mappings in terminal vim
-- [vim-cool](https://github.com/romainl/vim-cool) - A very simple plugin that makes hlsearch more useful.
-- [vim-pink-moon](https://github.com/sts10/vim-pink-moon) - A vim/neovim colorscheme
-- [clever-f.vim](https://github.com/rhysd/clever-f.vim) - Extended f, F, t and T key mappings for Vim.
-- [coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
-- [vim-bbye](https://github.com/moll/vim-bbye) - Delete buffers and close files in Vim without closing your windows or messing up your layout. Like Bclose.vim, but rewritten and well maintained.
-- [vim-deep-space](https://github.com/tyrannicaltoucan/vim-deep-space) - An intergalactically friendly color scheme for Vim.
-- [pangu.vim](https://github.com/hotoo/pangu.vim) - 『盘古之白』中文排版自动规范化的 Vim 插件
-- [typewriter](https://github.com/logico/typewriter) - An iA Writer inspired color scheme. It has support for vim, vim airline, vim lightline, tmux and urxvt/xterm.
-- [vim-closebuffer](https://github.com/itchyny/vim-closebuffer) - Close buffers in Vim
-- [vim-slumlord](https://github.com/scrooloose/vim-slumlord) - Inline previews for Plantuml sequence diagrams. OMG!
-- [minpac](https://github.com/k-takata/minpac) - A minimal package manager for Vim 8 (and Neovim)
-- [vim-config](https://github.com/rafi/vim-config) - Lean mean (Neo)Vim machine, carefully crafted with :heart: Use with latest Neovim or Vim 8
-- [vim-mapping-conflicts](https://github.com/lukhio/vim-mapping-conflicts) - A Vim plugin to detect conflicts in key mapping
-- [vim-PinyinSearch](https://github.com/ppwwyyxx/vim-PinyinSearch) - help vim search Chinese by Pinyin
-- [vime](https://github.com/fgheng/vime) - vime, an easy and structural config for (neo)vim users
-- [md-img-paste.vim](https://github.com/ferrine/md-img-paste.vim) - paste image to markdown
-- [far.vim](https://github.com/brooth/far.vim) - Find And Replace Vim plugin
-- [vimoutliner](https://github.com/vimoutliner/vimoutliner) - Work fast, think well.
-- [vim-easymotion](https://github.com/easymotion/vim-easymotion) - Vim motions on speed!
-- [vim-signature](https://github.com/kshenoy/vim-signature) - Plugin to toggle, display and navigate marks
-- [dashboard-nvim](https://github.com/glepnir/dashboard-nvim) - vim dashboard
-- [vim-sensible](https://github.com/tpope/vim-sensible) - sensible.vim: Defaults everyone can agree on
-- [vim-which-key](https://github.com/liuchengxu/vim-which-key) - :tulip: Vim plugin that shows keybindings in popup
-- [limelight.vim](https://github.com/junegunn/limelight.vim) - :flashlight: All the world's indeed a stage and we are merely players
-- [vim-visual-multi](https://github.com/mg979/vim-visual-multi) - Multiple cursors plugin for vim/neovim
-- [vim-easy-align](https://github.com/junegunn/vim-easy-align) - :sunflower: A Vim alignment plugin
-- [vim-surround](https://github.com/tpope/vim-surround) - surround.vim: quoting/parenthesizing made simple
-- [Dotfiles](https://github.com/jelly/Dotfiles) - My Dotfiles
-- [suckless.vim](https://github.com/fabi1cazenave/suckless.vim) - Tiling window management that sucks less. Inpired by wmii and i3.
-- [vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim
-- [txtfmt](https://github.com/bpstahlman/txtfmt) - Txtfmt (The Vim Highlighter) : "Rich text" highlighting in Vim! (colors, underline, bold, italic, etc...)
-- [vim-i3wm-tmux-navigator](https://github.com/fogine/vim-i3wm-tmux-navigator) - Seamless navigation between tmux panes, i3wm and vim splits
-- [vim-bookmarks](https://github.com/MattesGroeger/vim-bookmarks) - Vim bookmark plugin
-- [vim-slime](https://github.com/jpalardy/vim-slime) - A vim plugin to give you some slime. (Emacs)
-- [nuake](https://github.com/Lenovsky/nuake) - A Quake-style terminal panel for Neovim and Vim
-- [vim-floaterm](https://github.com/voldikss/vim-floaterm) - :star2: Terminal manager for (neo)vim
-- [vim-zettel](https://github.com/michal-h21/vim-zettel) - VimWiki addon for managing notes according to Zettelkasten method
-- [vimwiki-sync](https://github.com/michal-h21/vimwiki-sync) - Automaticaly synchronize vimwiki at startup and exit using git
-- [neuims](https://github.com/Neur1n/neuims) - An input method switcher.
-- [vim-terminal-help](https://github.com/skywind3000/vim-terminal-help) - Small changes make vim/nvim's internal terminal great again !!
-- [gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim
-- [vimcdoc](https://github.com/asins/vimcdoc) - Vim Chinese Documentation
-- [vim-snipmate](https://github.com/garbas/vim-snipmate) - snipMate.vim aims to be a concise vim script that implements some of TextMate's snippets features in Vim.
-- [indentLine](https://github.com/Yggdroot/indentLine) - A vim plugin to display the indention levels with thin vertical lines
-- [nerdcommenter](https://github.com/preservim/nerdcommenter) - Vim plugin for intensely nerdy commenting powers
-- [onehalf](https://github.com/sonph/onehalf) - Clean, vibrant and pleasing color schemes for Vim, Sublime Text, iTerm, gnome-terminal and more.
-- [vista.vim](https://github.com/liuchengxu/vista.vim) - :cactus: Viewer & Finder for LSP symbols and tags
-- [lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim
-- [tmuxline.vim](https://github.com/edkolev/tmuxline.vim) - Simple tmux statusline generator with support for powerline symbols and statusline / airline / lightline integration
-- [vim-pandoc-markdown-preview](https://github.com/conornewton/vim-pandoc-markdown-preview) - Vim plugin for previewing pandoc markdown
-- [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
-- [vimrc-config](https://github.com/ashfinal/vimrc-config) - re-vim: sensible vim configuration
-- [vim-table-mode](https://github.com/dhruvasagar/vim-table-mode) - VIM Table Mode for instant table creation.
-- [tablify](https://github.com/stormherz/tablify) - Tablify is a VIM plugin that turns simple structured data into nice-looking tables
-- [fzf.vim](https://github.com/junegunn/fzf.vim) - fzf :heart: vim
-- [vim-markdown-preview](https://github.com/JamshedVesuna/vim-markdown-preview) - A light Vim plugin for previewing markdown files in a browser - without leaving Vim.
-- [vim-autoformat](https://github.com/Chiel92/vim-autoformat) - Provide easy code formatting in Vim by integrating existing code formatters.
-- [vim-hybrid-material](https://github.com/kristijanhusak/vim-hybrid-material) - Material color scheme for Vim based on w0ng/vim-hybrid color scheme
-- [goyo.vim](https://github.com/junegunn/goyo.vim) - :tulip: Distraction-free writing in Vim
-- [vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn) - Vim 从入门到精通
-- [tabular](https://github.com/godlygeek/tabular) - Vim script for text filtering and alignment
-- [vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: A Git wrapper so awesome, it should be illegal
-- [vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air
-- [onedark.vim](https://github.com/joshdick/onedark.vim) - A dark Vim/Neovim color scheme inspired by Atom's One Dark syntax theme.
-- [space-vim-dark](https://github.com/liuchengxu/space-vim-dark) - :purple_heart: A dark colorscheme for space-vim, see space-vim-theme for light background support!
-- [vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
-- [vim](https://github.com/vim/vim) - The official Vim repository
-- [vimproc.vim](https://github.com/Shougo/vimproc.vim) - Interactive command execution in Vim.
-- [SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim distribution - The ultimate vim configuration
+- [tpope/vim-vinegar](https://github.com/tpope/vim-vinegar) - vinegar.vim: Combine with netrw to create a delicious salad dressing
+- [tpope/vim-unimpaired](https://github.com/tpope/vim-unimpaired) - unimpaired.vim: Pairs of handy bracket mappings
+- [ajmwagar/vim-deus](https://github.com/ajmwagar/vim-deus) - 🌙 A better color scheme for the late night coder
+- [Blacksuan19/init.nvim](https://github.com/Blacksuan19/init.nvim) - An Opinionated Neovim Config for the Minimalists
+- [Konfekt/FastFold](https://github.com/Konfekt/FastFold) - Speed up Vim by updating folds only when called-for.
+- [bimlas/vim-high](https://github.com/bimlas/vim-high) - Vim plugin: All-in-one highlighter, highlight custom pattern like indentation, inactive window, word under the cursor
+- [sainnhe/edge](https://github.com/sainnhe/edge) - Clean & Elegant Color Scheme inspired by Atom One and Material
+- [itchyny/vim-gitbranch](https://github.com/itchyny/vim-gitbranch) - Provides the branch name of the current git repository
+- [mengelbrecht/lightline-bufferline](https://github.com/mengelbrecht/lightline-bufferline) - A lightweight plugin to display the list of buffers in the lightline vim plugin
+- [ZSaberLv0/ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM) - vim输入法 / Vim Input Method by pure vim script, support: user word, dynamic word priority, cloud db files
+- [mhinz/vim-signify](https://github.com/mhinz/vim-signify) - :heavy_plus_sign: Show a diff using Vim its sign column.
+- [jonathanfilip/vim-lucius](https://github.com/jonathanfilip/vim-lucius) - Lucius color scheme for vim
+- [marcopaganini/termschool-vim-theme](https://github.com/marcopaganini/termschool-vim-theme) - A vim theme based on the "codeschool" theme, with lots of tweaks and optimized for 256 color terminals.
+- [laggardkernel/vim-one](https://github.com/laggardkernel/vim-one) - Adaptation of one-light and one-dark colorschemes for Vim
+- [inkarkat/vim-EnhancedJumps](https://github.com/inkarkat/vim-EnhancedJumps) - Enhanced jump and change list navigation commands.
+- [dstein64/vim-startuptime](https://github.com/dstein64/vim-startuptime) - ⏲️ A Vim plugin for profiling Vim's startup time.
+- [chrisbra/vim-autoread](https://github.com/chrisbra/vim-autoread) - Use tail -f on a buffer and append new content
+- [bagrat/vim-buffet](https://github.com/bagrat/vim-buffet) - IDE-like Vim tabline
+- [Asheq/close-buffers.vim](https://github.com/Asheq/close-buffers.vim) - :book: Quickly close (bdelete) several buffers at once 📕
+- [aonemd/kuroi.vim](https://github.com/aonemd/kuroi.vim) - A dark Vim colorscheme
+- [eugen0329/vim-esearch](https://github.com/eugen0329/vim-esearch) - Perform search in files easily
+- [HustLion/q-quit](https://github.com/HustLion/q-quit) - q to smart quit.
+- [at-cf/vim-quit-if-transient-buffers](https://github.com/at-cf/vim-quit-if-transient-buffers) - Close tab if the only remaining buffers are transient, like qf, NERDTree, etc.
+- [pacha/vem-tabline](https://github.com/pacha/vem-tabline) - A lightweight Vim/Neovim plugin to display buffers and tabs in the tabline
+- [Lokaltog/vim-monotone](https://github.com/Lokaltog/vim-monotone) - A dark, monochrome colorscheme for vim
+- [unblevable/quick-scope](https://github.com/unblevable/quick-scope) - Lightning fast left-right movement in Vim
+- [reedes/vim-pencil](https://github.com/reedes/vim-pencil) - Rethinking Vim as a tool for writing
+- [tpope/vim-rsi](https://github.com/tpope/vim-rsi) - rsi.vim: Readline style insertion
+- [cespare/vim-toml](https://github.com/cespare/vim-toml) - Vim syntax for TOML
+- [huyvohcmc/atlas.vim](https://github.com/huyvohcmc/atlas.vim) - Colorful theme for colorful souls
+- [jeffkreeftmeijer/vim-numbertoggle](https://github.com/jeffkreeftmeijer/vim-numbertoggle) - Toggles between hybrid and absolute line numbers automatically
+- [puremourning/vimspector](https://github.com/puremourning/vimspector) - vimspector - A multi-language debugging system for Vim
+- [vim-utils/vim-alt-mappings](https://github.com/vim-utils/vim-alt-mappings) - (experimental!) Enables ALT key mappings in terminal vim
+- [romainl/vim-cool](https://github.com/romainl/vim-cool) - A very simple plugin that makes hlsearch more useful.
+- [sts10/vim-pink-moon](https://github.com/sts10/vim-pink-moon) - A vim/neovim colorscheme
+- [rhysd/clever-f.vim](https://github.com/rhysd/clever-f.vim) - Extended f, F, t and T key mappings for Vim.
+- [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
+- [moll/vim-bbye](https://github.com/moll/vim-bbye) - Delete buffers and close files in Vim without closing your windows or messing up your layout. Like Bclose.vim, but rewritten and well maintained.
+- [tyrannicaltoucan/vim-deep-space](https://github.com/tyrannicaltoucan/vim-deep-space) - An intergalactically friendly color scheme for Vim.
+- [hotoo/pangu.vim](https://github.com/hotoo/pangu.vim) - 『盘古之白』中文排版自动规范化的 Vim 插件
+- [logico/typewriter](https://github.com/logico/typewriter) - An iA Writer inspired color scheme. It has support for vim, vim airline, vim lightline, tmux and urxvt/xterm.
+- [itchyny/vim-closebuffer](https://github.com/itchyny/vim-closebuffer) - Close buffers in Vim
+- [scrooloose/vim-slumlord](https://github.com/scrooloose/vim-slumlord) - Inline previews for Plantuml sequence diagrams. OMG!
+- [k-takata/minpac](https://github.com/k-takata/minpac) - A minimal package manager for Vim 8 (and Neovim)
+- [rafi/vim-config](https://github.com/rafi/vim-config) - Lean mean (Neo)Vim machine, carefully crafted with :heart: Use with latest Neovim or Vim 8
+- [lukhio/vim-mapping-conflicts](https://github.com/lukhio/vim-mapping-conflicts) - A Vim plugin to detect conflicts in key mapping
+- [ppwwyyxx/vim-PinyinSearch](https://github.com/ppwwyyxx/vim-PinyinSearch) - help vim search Chinese by Pinyin
+- [fgheng/vime](https://github.com/fgheng/vime) - vime, an easy and structural config for (neo)vim users
+- [ferrine/md-img-paste.vim](https://github.com/ferrine/md-img-paste.vim) - paste image to markdown
+- [brooth/far.vim](https://github.com/brooth/far.vim) - Find And Replace Vim plugin
+- [vimoutliner/vimoutliner](https://github.com/vimoutliner/vimoutliner) - Work fast, think well.
+- [easymotion/vim-easymotion](https://github.com/easymotion/vim-easymotion) - Vim motions on speed!
+- [kshenoy/vim-signature](https://github.com/kshenoy/vim-signature) - Plugin to toggle, display and navigate marks
+- [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim) - vim dashboard
+- [tpope/vim-sensible](https://github.com/tpope/vim-sensible) - sensible.vim: Defaults everyone can agree on
+- [liuchengxu/vim-which-key](https://github.com/liuchengxu/vim-which-key) - :tulip: Vim plugin that shows keybindings in popup
+- [junegunn/limelight.vim](https://github.com/junegunn/limelight.vim) - :flashlight: All the world's indeed a stage and we are merely players
+- [mg979/vim-visual-multi](https://github.com/mg979/vim-visual-multi) - Multiple cursors plugin for vim/neovim
+- [junegunn/vim-easy-align](https://github.com/junegunn/vim-easy-align) - :sunflower: A Vim alignment plugin
+- [tpope/vim-surround](https://github.com/tpope/vim-surround) - surround.vim: quoting/parenthesizing made simple
+- [jelly/Dotfiles](https://github.com/jelly/Dotfiles) - My Dotfiles
+- [fabi1cazenave/suckless.vim](https://github.com/fabi1cazenave/suckless.vim) - Tiling window management that sucks less. Inpired by wmii and i3.
+- [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim
+- [bpstahlman/txtfmt](https://github.com/bpstahlman/txtfmt) - Txtfmt (The Vim Highlighter) : "Rich text" highlighting in Vim! (colors, underline, bold, italic, etc...)
+- [fogine/vim-i3wm-tmux-navigator](https://github.com/fogine/vim-i3wm-tmux-navigator) - Seamless navigation between tmux panes, i3wm and vim splits
+- [MattesGroeger/vim-bookmarks](https://github.com/MattesGroeger/vim-bookmarks) - Vim bookmark plugin
+- [jpalardy/vim-slime](https://github.com/jpalardy/vim-slime) - A vim plugin to give you some slime. (Emacs)
+- [Lenovsky/nuake](https://github.com/Lenovsky/nuake) - A Quake-style terminal panel for Neovim and Vim
+- [voldikss/vim-floaterm](https://github.com/voldikss/vim-floaterm) - :star2: Terminal manager for (neo)vim
+- [michal-h21/vim-zettel](https://github.com/michal-h21/vim-zettel) - VimWiki addon for managing notes according to Zettelkasten method
+- [michal-h21/vimwiki-sync](https://github.com/michal-h21/vimwiki-sync) - Automaticaly synchronize vimwiki at startup and exit using git
+- [Neur1n/neuims](https://github.com/Neur1n/neuims) - An input method switcher.
+- [skywind3000/vim-terminal-help](https://github.com/skywind3000/vim-terminal-help) - Small changes make vim/nvim's internal terminal great again !!
+- [morhetz/gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim
+- [asins/vimcdoc](https://github.com/asins/vimcdoc) - Vim Chinese Documentation
+- [garbas/vim-snipmate](https://github.com/garbas/vim-snipmate) - snipMate.vim aims to be a concise vim script that implements some of TextMate's snippets features in Vim.
+- [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine) - A vim plugin to display the indention levels with thin vertical lines
+- [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter) - Vim plugin for intensely nerdy commenting powers
+- [sonph/onehalf](https://github.com/sonph/onehalf) - Clean, vibrant and pleasing color schemes for Vim, Sublime Text, iTerm, gnome-terminal and more.
+- [liuchengxu/vista.vim](https://github.com/liuchengxu/vista.vim) - :cactus: Viewer & Finder for LSP symbols and tags
+- [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim
+- [edkolev/tmuxline.vim](https://github.com/edkolev/tmuxline.vim) - Simple tmux statusline generator with support for powerline symbols and statusline / airline / lightline integration
+- [conornewton/vim-pandoc-markdown-preview](https://github.com/conornewton/vim-pandoc-markdown-preview) - Vim plugin for previewing pandoc markdown
+- [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
+- [ashfinal/vimrc-config](https://github.com/ashfinal/vimrc-config) - re-vim: sensible vim configuration
+- [dhruvasagar/vim-table-mode](https://github.com/dhruvasagar/vim-table-mode) - VIM Table Mode for instant table creation.
+- [stormherz/tablify](https://github.com/stormherz/tablify) - Tablify is a VIM plugin that turns simple structured data into nice-looking tables
+- [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf :heart: vim
+- [JamshedVesuna/vim-markdown-preview](https://github.com/JamshedVesuna/vim-markdown-preview) - A light Vim plugin for previewing markdown files in a browser - without leaving Vim.
+- [Chiel92/vim-autoformat](https://github.com/Chiel92/vim-autoformat) - Provide easy code formatting in Vim by integrating existing code formatters.
+- [kristijanhusak/vim-hybrid-material](https://github.com/kristijanhusak/vim-hybrid-material) - Material color scheme for Vim based on w0ng/vim-hybrid color scheme
+- [junegunn/goyo.vim](https://github.com/junegunn/goyo.vim) - :tulip: Distraction-free writing in Vim
+- [wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn) - Vim 从入门到精通
+- [godlygeek/tabular](https://github.com/godlygeek/tabular) - Vim script for text filtering and alignment
+- [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: A Git wrapper so awesome, it should be illegal
+- [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air
+- [joshdick/onedark.vim](https://github.com/joshdick/onedark.vim) - A dark Vim/Neovim color scheme inspired by Atom's One Dark syntax theme.
+- [liuchengxu/space-vim-dark](https://github.com/liuchengxu/space-vim-dark) - :purple_heart: A dark colorscheme for space-vim, see space-vim-theme for light background support!
+- [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
+- [vim/vim](https://github.com/vim/vim) - The official Vim repository
+- [Shougo/vimproc.vim](https://github.com/Shougo/vimproc.vim) - Interactive command execution in Vim.
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim distribution - The ultimate vim configuration
 
 ## VimL 
 
-- [vim-space](https://github.com/spiiph/vim-space) - space.vim - Smart Space key for Vim
-- [vim-autoread](https://github.com/djoshea/vim-autoread) - Have Vim automatically reload a file that has changed externally
-- [closesubwin.vim](https://github.com/tyru/closesubwin.vim) - Close sub window without jumping to the window (help,quickfix,unlisted buffer supported)
-- [vim-smartclose](https://github.com/szw/vim-smartclose) - Close Vim windows in a smart way!
-- [vim-smooth-scroll](https://github.com/terryma/vim-smooth-scroll) - Make scrolling in Vim more pleasant
-- [spf13-vim](https://github.com/spf13/spf13-vim) - The ultimate vim distribution
+- [spiiph/vim-space](https://github.com/spiiph/vim-space) - space.vim - Smart Space key for Vim
+- [djoshea/vim-autoread](https://github.com/djoshea/vim-autoread) - Have Vim automatically reload a file that has changed externally
+- [tyru/closesubwin.vim](https://github.com/tyru/closesubwin.vim) - Close sub window without jumping to the window (help,quickfix,unlisted buffer supported)
+- [szw/vim-smartclose](https://github.com/szw/vim-smartclose) - Close Vim windows in a smart way!
+- [terryma/vim-smooth-scroll](https://github.com/terryma/vim-smooth-scroll) - Make scrolling in Vim more pleasant
+- [spf13/spf13-vim](https://github.com/spf13/spf13-vim) - The ultimate vim distribution
 
 ## Visual Basic 
 
-- [vibreoffice](https://github.com/seanyeh/vibreoffice) - Vi Mode for LibreOffice/OpenOffice
+- [seanyeh/vibreoffice](https://github.com/seanyeh/vibreoffice) - Vi Mode for LibreOffice/OpenOffice
 
 
 ## License
