@@ -166,6 +166,7 @@
 - [xfirefly/Airplay-SDK](https://github.com/xfirefly/Airplay-SDK) - Airplay Receiver SDK supports Airplay Mirroring and AirPlay Casting to a receiver device.
 - [saurabhdaware/text-to-handwriting](https://github.com/saurabhdaware/text-to-handwriting) - So your teacher asked you to upload written assignments? Hate writing assigments? This tool will help you convert your text to handwriting xD
 - [zzossig/hugo-theme-zdoc](https://github.com/zzossig/hugo-theme-zdoc) - Make a documentation with hugo zdoc theme!
+- [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [axiros/terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
 - [zhenyangze/uafred](https://github.com/zhenyangze/uafred) - alfred on ubuntu(use electron)
 - [n0tr00t/Sreg](https://github.com/n0tr00t/Sreg) - Sreg可对使用者通过输入email、phone、username的返回用户注册的所有互联网护照信息。
@@ -194,7 +195,6 @@
 - [gillstrom/screensaver](https://github.com/gillstrom/screensaver) - Start the screensaver.
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK eBook reader
-- [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [shadowsocksrr/electron-ssr](https://github.com/shadowsocksrr/electron-ssr) - Shadowsocksr client using electron
 - [klaussinani/taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
@@ -433,6 +433,7 @@
 
 ## VBA 
 
+- [yar-kotsar/vixcel](https://github.com/yar-kotsar/vixcel) - .xlam for vim shortcuts in excel
 - [kjnh10/ExcelLikeVim](https://github.com/kjnh10/ExcelLikeVim) - This is a Excel Addin that provide vim-like interface.
 
 ## Vala 
