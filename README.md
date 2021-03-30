@@ -45,6 +45,8 @@
 
 ## AutoHotkey 
 
+- [victorwoo/vimdesktop](https://github.com/victorwoo/vimdesktop) - 让所有 Windows 桌面程序拥有 Vim 操作风格的辅助工具
+- [ProjectT2020/My-AutoHotkey](https://github.com/ProjectT2020/My-AutoHotkey) - 
 - [sahilsehwag/ahk-vimified-explorer](https://github.com/sahilsehwag/ahk-vimified-explorer) - VimifiedExplorer is an AHK script that provides vim/vifm like bindings for windows explorer. Happy Vimming  😍 .
 - [scheingraber/vimdows-ng](https://github.com/scheingraber/vimdows-ng) - Vim normal mode emulation anywhere in Windows, powered by Autohotkey.
 - [goreliu/vimdesktop](https://github.com/goreliu/vimdesktop) - 让所有 Windows 桌面程序拥有 Vim 操作风格的辅助工具
