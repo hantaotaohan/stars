@@ -235,6 +235,7 @@
 
 ## Others 
 
+- [apppay/pay](https://github.com/apppay/pay) - 微信支付宝个人免签系统
 - [whitelok/watermark-remover](https://github.com/whitelok/watermark-remover) - Remove watermark automatically(Just can use for fixed position watermark till now). 自动水印消除算法的实现（目前只支持固定水印位置）。
 - [itwanger/JavaBooks](https://github.com/itwanger/JavaBooks) - Java 程序员常读书单整理，附下载地址，助力构建最强知识体系。但不限于 Java，包括设计模式、计算机网络、操作系统、数据库、数据结构与算法、大数据、架构、面试等等。
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
@@ -268,6 +269,11 @@
 
 ## Python 
 
+- [diefenbach/django-lfs](https://github.com/diefenbach/django-lfs) - An online-shop based on Django
+- [mirumee/saleor](https://github.com/mirumee/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and ReactJS.
+- [awesto/django-shop](https://github.com/awesto/django-shop) - A Django based shop system
+- [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
+- [stephenmcd/mezzanine](https://github.com/stephenmcd/mezzanine) - CMS framework for Django
 - [django-erp/django-erp](https://github.com/django-erp/django-erp) - An open-source ERP system based on Django
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on PyQt5.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
