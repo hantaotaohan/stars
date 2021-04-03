@@ -45,6 +45,7 @@
 
 ## AutoHotkey 
 
+- [majorworld/Pet](https://github.com/majorworld/Pet) - 键盘代替鼠标
 - [victorwoo/vimdesktop](https://github.com/victorwoo/vimdesktop) - 让所有 Windows 桌面程序拥有 Vim 操作风格的辅助工具
 - [ProjectT2020/My-AutoHotkey](https://github.com/ProjectT2020/My-AutoHotkey) - 
 - [sahilsehwag/ahk-vimified-explorer](https://github.com/sahilsehwag/ahk-vimified-explorer) - VimifiedExplorer is an AHK script that provides vim/vifm like bindings for windows explorer. Happy Vimming  😍 .
