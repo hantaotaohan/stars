@@ -270,6 +270,7 @@
 
 ## Python 
 
+- [django-extensions/django-extensions](https://github.com/django-extensions/django-extensions) - This is a repository for collecting global custom management extensions for the Django Framework.
 - [mtianyan/VueDjangoAntdProBookShop](https://github.com/mtianyan/VueDjangoAntdProBookShop) - Vue前台 + Django3.1 + DjangoRestful Framework + Ant Design Pro V4 开发的二手书商城网站及后台管理
 - [JamesRamm/longclaw](https://github.com/JamesRamm/longclaw) - A shop for Wagtail CMS
 - [diefenbach/django-lfs](https://github.com/diefenbach/django-lfs) - An online-shop based on Django
@@ -352,7 +353,7 @@
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
-- [sylnsfar/qrcode](https://github.com/sylnsfar/qrcode) - artistic QR Code in Python （Animated GIF qr code）- Python 艺术二维码生成器 （GIF动态二维码、图片二维码）
+- [hwxhw/amazing-qr](https://github.com/hwxhw/amazing-qr) - artistic QR Code in Python （Animated GIF qr code）- Python 艺术二维码生成器 （GIF动态二维码、图片二维码）
 - [yangxuan0928/cut_image](https://github.com/yangxuan0928/cut_image) - 使用python PIL 库将一张照片切分为9张图
 
 ## Roff 
@@ -456,6 +457,7 @@
 
 ## Vim script 
 
+- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim) - :rocket: Modern Task System for Project Building, Testing and Deploying !!
 - [puremourning/vimspector](https://github.com/puremourning/vimspector) - vimspector - A multi-language debugging system for Vim
 - [tpope/vim-vinegar](https://github.com/tpope/vim-vinegar) - vinegar.vim: Combine with netrw to create a delicious salad dressing
