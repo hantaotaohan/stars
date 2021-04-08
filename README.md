@@ -45,6 +45,7 @@
 
 ## AutoHotkey 
 
+- [fuhsjr00/bug.n](https://github.com/fuhsjr00/bug.n) - Tiling Window Manager for Windows
 - [majorworld/Pet](https://github.com/majorworld/Pet) - 键盘代替鼠标
 - [victorwoo/vimdesktop](https://github.com/victorwoo/vimdesktop) - 让所有 Windows 桌面程序拥有 Vim 操作风格的辅助工具
 - [ProjectT2020/My-AutoHotkey](https://github.com/ProjectT2020/My-AutoHotkey) - 
@@ -353,7 +354,7 @@
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
-- [hwxhw/amazing-qr](https://github.com/hwxhw/amazing-qr) - artistic QR Code in Python （Animated GIF qr code）- Python 艺术二维码生成器 （GIF动态二维码、图片二维码）
+- [hwxhw/amazing-qr](https://github.com/hwxhw/amazing-qr) - 💮 amazing QR-Code generator in Python (supporting animated gif) - Python amazing 二维码生成器（支持 gif 动态图片二维码）
 - [yangxuan0928/cut_image](https://github.com/yangxuan0928/cut_image) - 使用python PIL 库将一张照片切分为9张图
 
 ## Roff 
@@ -457,6 +458,7 @@
 
 ## Vim script 
 
+- [blueyed/vim-diminactive](https://github.com/blueyed/vim-diminactive) - Vim plugin to dim inactive windows
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim) - :rocket: Modern Task System for Project Building, Testing and Deploying !!
 - [puremourning/vimspector](https://github.com/puremourning/vimspector) - vimspector - A multi-language debugging system for Vim
