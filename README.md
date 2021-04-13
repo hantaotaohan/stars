@@ -271,6 +271,7 @@
 
 ## Python 
 
+- [nwg-piotr/nwg-panel](https://github.com/nwg-piotr/nwg-panel) - GTK3-based panel for sway window manager
 - [django-extensions/django-extensions](https://github.com/django-extensions/django-extensions) - This is a repository for collecting global custom management extensions for the Django Framework.
 - [mtianyan/VueDjangoAntdProBookShop](https://github.com/mtianyan/VueDjangoAntdProBookShop) - Vue前台 + Django3.1 + DjangoRestful Framework + Ant Design Pro V4 开发的二手书商城网站及后台管理
 - [JamesRamm/longclaw](https://github.com/JamesRamm/longclaw) - A shop for Wagtail CMS
@@ -388,6 +389,7 @@
 
 ## Shell 
 
+- [huan/docker-wechat](https://github.com/huan/docker-wechat) - DoChat is a Dockerized WeChat (盒装微信) PC Windows Client for Linux
 - [laishulu/Sarasa-Mono-SC-Nerd](https://github.com/laishulu/Sarasa-Mono-SC-Nerd) - 简体中文等距更纱黑体+Nerd图标字体库。中英文宽度完美2:1，图标长宽经过调整，不会出现对齐问题，尤其适合作为终端字体。
 - [wfxr/tmux-power](https://github.com/wfxr/tmux-power) - 🎨 Tmux powerline theme
 - [fidian/ansi](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
