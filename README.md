@@ -491,7 +491,7 @@
 - [pacha/vem-tabline](https://github.com/pacha/vem-tabline) - A lightweight Vim/Neovim plugin to display buffers and tabs in the tabline
 - [Lokaltog/vim-monotone](https://github.com/Lokaltog/vim-monotone) - A dark, monochrome colorscheme for vim
 - [unblevable/quick-scope](https://github.com/unblevable/quick-scope) - Lightning fast left-right movement in Vim
-- [reedes/vim-pencil](https://github.com/reedes/vim-pencil) - Rethinking Vim as a tool for writing
+- [preservim/vim-pencil](https://github.com/preservim/vim-pencil) - Rethinking Vim as a tool for writing
 - [tpope/vim-rsi](https://github.com/tpope/vim-rsi) - rsi.vim: Readline style insertion
 - [cespare/vim-toml](https://github.com/cespare/vim-toml) - Vim syntax for TOML
 - [huyvohcmc/atlas.vim](https://github.com/huyvohcmc/atlas.vim) - Colorful theme for colorful souls
