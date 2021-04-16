@@ -237,6 +237,7 @@
 
 ## Others 
 
+- [changeforan/xnhe](https://github.com/changeforan/xnhe) - 
 - [apppay/pay](https://github.com/apppay/pay) - 微信支付宝个人免签系统
 - [whitelok/watermark-remover](https://github.com/whitelok/watermark-remover) - Remove watermark automatically(Just can use for fixed position watermark till now). 自动水印消除算法的实现（目前只支持固定水印位置）。
 - [itwanger/JavaBooks](https://github.com/itwanger/JavaBooks) - Java 程序员常读书单整理，附下载地址，助力构建最强知识体系。但不限于 Java，包括设计模式、计算机网络、操作系统、数据库、数据结构与算法、大数据、架构、面试等等。
@@ -374,7 +375,7 @@
 - [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [jwilm/i3-vim-focus](https://github.com/jwilm/i3-vim-focus) - Vim plugin for seamless navigation between i3 and vim
-- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 
