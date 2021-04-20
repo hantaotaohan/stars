@@ -33,7 +33,6 @@
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SCSS](#scss)
-  - [Scala](#scala)
   - [Shell](#shell)
   - [TeX](#tex)
   - [TypeScript](#typescript)
@@ -224,7 +223,7 @@
 
 - [DonaldDai/Bokeh-CN](https://github.com/DonaldDai/Bokeh-CN) - Bokeh中文文档（翻译中）
 - [weidylan/Office_Automation_by_Using_Python](https://github.com/weidylan/Office_Automation_by_Using_Python) - Office Automation by Using Pythonf (For Excel, Word, PPT and PDF .....)
-- [GokuMohandas/madewithml](https://github.com/GokuMohandas/madewithml) - Learn how to responsibly deliver value with applied ML.
+- [GokuMohandas/MadeWithML](https://github.com/GokuMohandas/MadeWithML) - Learn how to responsibly deliver value with ML.
 
 ## Lua 
 
@@ -244,11 +243,11 @@
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [mcchrish/vim-no-color-collections](https://github.com/mcchrish/vim-no-color-collections) - Collection of Vim themes with barely any colors
 - [hantaotaohan/stars](https://github.com/hantaotaohan/stars) - 
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for.
 - [uhub/awesome-shell](https://github.com/uhub/awesome-shell) - A curated list of awesome Shell frameworks, libraries and software.
+- [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 源ノ明朝 | 본명조
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [googlehosts/hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
@@ -384,10 +383,6 @@
 - [zzossig/hugo-theme-zzo](https://github.com/zzossig/hugo-theme-zzo) - Make a blog with hugo zzo theme!
 - [sivan/heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 
-## Scala 
-
-- [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 源ノ明朝 | 본명조
-
 ## Shell 
 
 - [huan/docker-wechat](https://github.com/huan/docker-wechat) - DoChat is a Dockerized WeChat (盒装微信) PC Windows Client for Linux
@@ -398,6 +393,7 @@
 - [JosefZIla/bash2048](https://github.com/JosefZIla/bash2048) - Bash implementation of 2048 game
 - [manilarome/rofi-spotlight](https://github.com/manilarome/rofi-spotlight) - Spotlight-like Rofi
 - [4z3/fzf-plugins](https://github.com/4z3/fzf-plugins) - 
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [gohugoio/hugoThemes](https://github.com/gohugoio/hugoThemes) - A curated directory of Hugo themes
 - [vivien/i3blocks-contrib](https://github.com/vivien/i3blocks-contrib) - Official repository for community contributed blocklets
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
