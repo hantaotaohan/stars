@@ -194,6 +194,7 @@
 
 ## JavaScript 
 
+- [eNkru/freechat](https://github.com/eNkru/freechat) - 致力于打造macOS和Linux桌面下最好用的微信（wechat）客户端
 - [appium/appium](https://github.com/appium/appium) - :iphone: Automation for iOS, Android, and Windows Apps.
 - [jacoborus/estilo](https://github.com/jacoborus/estilo) - Create color schemes for Vim, Airline and Lightline
 - [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
