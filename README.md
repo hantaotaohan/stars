@@ -482,7 +482,7 @@
 - [chrisbra/vim-autoread](https://github.com/chrisbra/vim-autoread) - Use tail -f on a buffer and append new content
 - [bagrat/vim-buffet](https://github.com/bagrat/vim-buffet) - IDE-like Vim tabline
 - [Asheq/close-buffers.vim](https://github.com/Asheq/close-buffers.vim) - :book: Quickly close (bdelete) several buffers at once 📕
-- [aonemd/kuroi.vim](https://github.com/aonemd/kuroi.vim) - A dark Vim colorscheme
+- [aonemd/kuroi.vim](https://github.com/aonemd/kuroi.vim) - A very dark colorscheme for Vim
 - [eugen0329/vim-esearch](https://github.com/eugen0329/vim-esearch) - Perform search in files easily
 - [HustLion/q-quit](https://github.com/HustLion/q-quit) - q to smart quit.
 - [at-cf/vim-quit-if-transient-buffers](https://github.com/at-cf/vim-quit-if-transient-buffers) - Close tab if the only remaining buffers are transient, like qf, NERDTree, etc.
