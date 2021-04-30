@@ -152,6 +152,7 @@
 
 ## Emacs Lisp 
 
+- [szorfein/dots](https://github.com/szorfein/dots) - Use chezmoi to install my dotfiles easily on Gentoo, Arch and Debian.
 - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 
 ## Go 
@@ -411,7 +412,6 @@
 - [nwg-piotr/rof](https://github.com/nwg-piotr/rof) - Launcher script to avoid running multiple instance of the same window
 - [ayosec/polybar-debian](https://github.com/ayosec/polybar-debian) - Debian packages for Polybar
 - [tadly/hideIt.sh](https://github.com/tadly/hideIt.sh) - Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
-- [szorfein/dots](https://github.com/szorfein/dots) - Use chezmoi to install my dotfiles easily on Gentoo, Arch and Debian.
 - [puneetsl/lotion](https://github.com/puneetsl/lotion) - Unofficial Notion.so app for Linux
 - [varogami/maildir-notification](https://github.com/varogami/maildir-notification) - a bash script to notify by multiple maildirs with various method (libnotify, xmpp/jabber, other)
 - [garyparrot/rofi-translate](https://github.com/garyparrot/rofi-translate) - Rofi translate script based on translate-shell
