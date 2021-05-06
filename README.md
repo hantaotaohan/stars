@@ -68,6 +68,7 @@
 
 ## C 
 
+- [cboxdoerfer/fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK+3
 - [sagb/alttab](https://github.com/sagb/alttab) - The task switcher for minimalistic window managers or standalone X11 session
 - [EricTetz/keyrate](https://github.com/EricTetz/keyrate) - Small utility for setting the keyrate to higher speeds than is normally allowed by the Windows keyboard control panel.
 - [alols/xcape](https://github.com/alols/xcape) - Linux utility to configure modifier keys to act as other keys when pressed and released on their own.
