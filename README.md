@@ -465,6 +465,7 @@
 
 ## Vim script 
 
+- [vilari-mickopf/dotfiles](https://github.com/vilari-mickopf/dotfiles) - My personal configurations
 - [kkoomen/vim-doge](https://github.com/kkoomen/vim-doge) - (Do)cumentation (Ge)nerator 10+ languages 📚 Generate proper code documentation skeletons with a single keypress. ⚡️🔥
 - [RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate) - illuminate.vim - Vim plugin for automatically highlighting other uses of the word under the cursor. Integrates with Neovim's LSP client for intelligent highlighting.
 - [blueyed/vim-diminactive](https://github.com/blueyed/vim-diminactive) - Vim plugin to dim inactive windows
