@@ -68,6 +68,7 @@
 
 ## C 
 
+- [marvinkreis/rofi-file-browser-extended](https://github.com/marvinkreis/rofi-file-browser-extended) - Use rofi to quickly open files
 - [cboxdoerfer/fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK+3
 - [sagb/alttab](https://github.com/sagb/alttab) - The task switcher for minimalistic window managers or standalone X11 session
 - [EricTetz/keyrate](https://github.com/EricTetz/keyrate) - Small utility for setting the keyrate to higher speeds than is normally allowed by the Windows keyboard control panel.
@@ -395,6 +396,9 @@
 
 ## Shell 
 
+- [stagnation/floating_fzf](https://github.com/stagnation/floating_fzf) - 
+- [Seirdy/term-dmenu](https://github.com/Seirdy/term-dmenu) - Replace dmenu with a floating terminal and FZF! Comes with helper scripts for program/app launching, window switching, etc.
+- [Biont/sway-launcher-desktop](https://github.com/Biont/sway-launcher-desktop) - TUI Application launcher with Desktop Entry support. Made for SwayWM, but runs anywhere
 - [danisztls/fzfx](https://github.com/danisztls/fzfx) - fzfX delivers the power of finding, previewing, editing and managing any file in few key strokes.
 - [maestrogerardo/i3-gaps-deb](https://github.com/maestrogerardo/i3-gaps-deb) - Tool to create and install Debian (or Ubuntu) packages of i3-gaps.
 - [huan/docker-wechat](https://github.com/huan/docker-wechat) - DoChat is a Dockerized WeChat (盒装微信) PC Windows Client for Linux
