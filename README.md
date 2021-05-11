@@ -396,6 +396,7 @@
 
 ## Shell 
 
+- [andresgongora/synth-shell](https://github.com/andresgongora/synth-shell) - Boost your terminal, script by script
 - [stagnation/floating_fzf](https://github.com/stagnation/floating_fzf) - 
 - [Seirdy/term-dmenu](https://github.com/Seirdy/term-dmenu) - Replace dmenu with a floating terminal and FZF! Comes with helper scripts for program/app launching, window switching, etc.
 - [Biont/sway-launcher-desktop](https://github.com/Biont/sway-launcher-desktop) - TUI Application launcher with Desktop Entry support. Made for SwayWM, but runs anywhere
