@@ -376,6 +376,7 @@
 
 ## Rust 
 
+- [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
@@ -396,6 +397,11 @@
 
 ## Shell 
 
+- [salman-abedin/amenu](https://github.com/salman-abedin/amenu) - Fuzzy Finder Dynamic GUI Menu
+- [spikegrobstein/fzf-menu](https://github.com/spikegrobstein/fzf-menu) - A simple fzf wrapper to replace dmenu
+- [infokiller/config-public](https://github.com/infokiller/config-public) - Linux/WSL config to optimize ergonomics, security, and productivity: vim/neovim, zsh, tmux, i3, emacs, vscode, ipython, jupyter, ranger, fzf, kitty, xkb, selfquant, firejail, systemd, etc
+- [abstractlyZach/utils](https://github.com/abstractlyZach/utils) - 
+- [barnumbirr/alacritty-debian](https://github.com/barnumbirr/alacritty-debian) - Debian packages for alacritty.
 - [andresgongora/synth-shell](https://github.com/andresgongora/synth-shell) - Boost your terminal, script by script
 - [stagnation/floating_fzf](https://github.com/stagnation/floating_fzf) - 
 - [Seirdy/term-dmenu](https://github.com/Seirdy/term-dmenu) - Replace dmenu with a floating terminal and FZF! Comes with helper scripts for program/app launching, window switching, etc.
