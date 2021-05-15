@@ -399,6 +399,8 @@
 
 ## Shell 
 
+- [jeffmhubbard/menuz](https://github.com/jeffmhubbard/menuz) - Menus with rofi, fzf, and zsh
+- [abdrysdale/fzfmenu](https://github.com/abdrysdale/fzfmenu) - An fzf application menu
 - [zacanger/dotfiles](https://github.com/zacanger/dotfiles) - scripts and configs for bash, vim, linux, mac, i3, etc.
 - [salman-abedin/amenu](https://github.com/salman-abedin/amenu) - Fuzzy Finder Dynamic GUI Menu
 - [spikegrobstein/fzf-menu](https://github.com/spikegrobstein/fzf-menu) - A simple fzf wrapper to replace dmenu
