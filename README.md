@@ -109,6 +109,7 @@
 
 ## C++ 
 
+- [herbstluftwm/herbstluftwm](https://github.com/herbstluftwm/herbstluftwm) - A manual tiling window manager for X11
 - [yasirtug/ni-translate](https://github.com/yasirtug/ni-translate) - A translator for Linux, running at the background which wakes up with the translation of the last selected text on command.
 - [crow-translate/crow-translate](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator that allows you to translate and speak text using Google, Yandex and Bing.
 - [kapitainsky/RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
@@ -170,6 +171,7 @@
 
 ## HTML 
 
+- [makccr/dot](https://github.com/makccr/dot) - These are my dot files. I've primarily been a MacOS user for most of the time I've been collecting dotfiles, but I've recently switched to Linux. I primarily use Arch, Arco, Manjaro, or some other Arch based distro; so that's where I take my que.
 - [wenzhixin/bootstrap-table-examples](https://github.com/wenzhixin/bootstrap-table-examples) - Bootstrap table examples
 - [farridav/django-jazzmin](https://github.com/farridav/django-jazzmin) - Jazzy theme for Django
 - [xfirefly/Airplay-SDK](https://github.com/xfirefly/Airplay-SDK) - Airplay Receiver SDK supports Airplay Mirroring and AirPlay Casting to a receiver device.
@@ -277,6 +279,7 @@
 
 ## Python 
 
+- [mjohanning99/dotfiles](https://github.com/mjohanning99/dotfiles) - 
 - [eihli/image-table-ocr](https://github.com/eihli/image-table-ocr) - Turn images of tables into CSV data. Detect tables from images and run OCR on the cells.
 - [trmckay/fzf-open](https://github.com/trmckay/fzf-open) - Use fzf to open files in appropriate applications (a la macOS Spotlight)
 - [seebye/ueberzug](https://github.com/seebye/ueberzug) - ueberzug is a command line util which allows to display images in combination with X11
@@ -378,6 +381,7 @@
 
 ## Rust 
 
+- [DorianRudolph/sirula](https://github.com/DorianRudolph/sirula) - Simple app launcher for wayland written in rust
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -580,7 +584,7 @@
 - [stormherz/tablify](https://github.com/stormherz/tablify) - Tablify is a VIM plugin that turns simple structured data into nice-looking tables
 - [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf :heart: vim
 - [JamshedVesuna/vim-markdown-preview](https://github.com/JamshedVesuna/vim-markdown-preview) - A light Vim plugin for previewing markdown files in a browser - without leaving Vim.
-- [Chiel92/vim-autoformat](https://github.com/Chiel92/vim-autoformat) - Provide easy code formatting in Vim by integrating existing code formatters.
+- [vim-autoformat/vim-autoformat](https://github.com/vim-autoformat/vim-autoformat) - Provide easy code formatting in Vim by integrating existing code formatters.
 - [kristijanhusak/vim-hybrid-material](https://github.com/kristijanhusak/vim-hybrid-material) - Material color scheme for Vim based on w0ng/vim-hybrid color scheme
 - [junegunn/goyo.vim](https://github.com/junegunn/goyo.vim) - :tulip: Distraction-free writing in Vim
 - [wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn) - Vim 从入门到精通
