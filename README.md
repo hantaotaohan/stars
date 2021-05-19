@@ -403,6 +403,7 @@
 
 ## Shell 
 
+- [phisch/giph](https://github.com/phisch/giph) - simple video (gif, webm, mp4) recorder
 - [jeffmhubbard/menuz](https://github.com/jeffmhubbard/menuz) - Menus with rofi, fzf, and zsh
 - [abdrysdale/fzfmenu](https://github.com/abdrysdale/fzfmenu) - An fzf application menu
 - [zacanger/dotfiles](https://github.com/zacanger/dotfiles) - scripts and configs for bash, vim, linux, mac, i3, etc.
