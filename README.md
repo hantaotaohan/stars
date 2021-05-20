@@ -200,6 +200,7 @@
 
 ## JavaScript 
 
+- [zenghongtu/saladict-desktop](https://github.com/zenghongtu/saladict-desktop) - ✨✨桌面划词与翻译工具，聚合了 N 多词典，功能强大，支持 Windows 、 Mac 和 Linux。
 - [eNkru/freechat](https://github.com/eNkru/freechat) - 致力于打造macOS和Linux桌面下最好用的微信（wechat）客户端
 - [appium/appium](https://github.com/appium/appium) - :iphone: Automation for iOS, Android, and Windows Apps.
 - [jacoborus/estilo](https://github.com/jacoborus/estilo) - Create color schemes for Vim, Airline and Lightline
@@ -279,6 +280,7 @@
 
 ## Python 
 
+- [bianjp/popup-dict](https://github.com/bianjp/popup-dict) - Linux 下的划词翻译小工具
 - [mjohanning99/dotfiles](https://github.com/mjohanning99/dotfiles) - 
 - [eihli/image-table-ocr](https://github.com/eihli/image-table-ocr) - Turn images of tables into CSV data. Detect tables from images and run OCR on the cells.
 - [trmckay/fzf-open](https://github.com/trmckay/fzf-open) - Use fzf to open files in appropriate applications (a la macOS Spotlight)
