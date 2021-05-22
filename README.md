@@ -281,6 +281,7 @@
 
 ## Python 
 
+- [MarkHedleyJones/dmenu-extended](https://github.com/MarkHedleyJones/dmenu-extended) - An extension to dmenu for quickly opening files and folders.
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [bianjp/popup-dict](https://github.com/bianjp/popup-dict) - Linux 下的划词翻译小工具
 - [mjohanning99/dotfiles](https://github.com/mjohanning99/dotfiles) - 
