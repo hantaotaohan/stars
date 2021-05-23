@@ -172,7 +172,6 @@
 
 ## HTML 
 
-- [makccr/dot](https://github.com/makccr/dot) - These are my dot files. I've primarily been a MacOS user for most of the time I've been collecting dotfiles, but I've recently switched to Linux. I primarily use Arch, Arco, Manjaro, or some other Arch based distro; so that's where I take my que.
 - [wenzhixin/bootstrap-table-examples](https://github.com/wenzhixin/bootstrap-table-examples) - Bootstrap table examples
 - [farridav/django-jazzmin](https://github.com/farridav/django-jazzmin) - Jazzy theme for Django
 - [xfirefly/Airplay-SDK](https://github.com/xfirefly/Airplay-SDK) - Airplay Receiver SDK supports Airplay Mirroring and AirPlay Casting to a receiver device.
@@ -409,6 +408,7 @@
 ## Shell 
 
 - [phisch/giph](https://github.com/phisch/giph) - simple video (gif, webm, mp4) recorder
+- [makccr/dot](https://github.com/makccr/dot) - These are my dot files. I've primarily been a MacOS user for most of the time I've been collecting dotfiles, but I've recently switched to Linux. I primarily use Arch, Arco, Manjaro, or some other Arch based distro; so that's where I take my que.
 - [jeffmhubbard/menuz](https://github.com/jeffmhubbard/menuz) - Menus with rofi, fzf, and zsh
 - [abdrysdale/fzfmenu](https://github.com/abdrysdale/fzfmenu) - An fzf application menu
 - [zacanger/dotfiles](https://github.com/zacanger/dotfiles) - scripts and configs for bash, vim, linux, mac, i3, etc.
