@@ -245,6 +245,7 @@
 
 ## Others 
 
+- [yohasebe/fzf-alfred-workflow](https://github.com/yohasebe/fzf-alfred-workflow) - An Alfred workflow fo fuzzy find files/directories using fzf and fd.
 - [changeforan/xnhe](https://github.com/changeforan/xnhe) - 
 - [apppay/pay](https://github.com/apppay/pay) - 微信支付宝个人免签系统
 - [whitelok/watermark-remover](https://github.com/whitelok/watermark-remover) - Remove watermark automatically(Just can use for fixed position watermark till now). 自动水印消除算法的实现（目前只支持固定水印位置）。
@@ -385,6 +386,7 @@
 
 ## Rust 
 
+- [blahgeek/Minions](https://github.com/blahgeek/Minions) - Minions is a productive tool for Linux, inspired by LaunchBar in macOS
 - [DorianRudolph/sirula](https://github.com/DorianRudolph/sirula) - Simple app launcher for wayland written in rust
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
@@ -407,6 +409,7 @@
 
 ## Shell 
 
+- [chmouel/batzconverter](https://github.com/chmouel/batzconverter) - If batman needed a tz converter to show times between different timezones that would be it 🦇
 - [phisch/giph](https://github.com/phisch/giph) - simple video (gif, webm, mp4) recorder
 - [makccr/dot](https://github.com/makccr/dot) - These are my dot files. I've primarily been a MacOS user for most of the time I've been collecting dotfiles, but I've recently switched to Linux. I primarily use Arch, Arco, Manjaro, or some other Arch based distro; so that's where I take my que.
 - [jeffmhubbard/menuz](https://github.com/jeffmhubbard/menuz) - Menus with rofi, fzf, and zsh
