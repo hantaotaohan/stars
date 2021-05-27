@@ -413,6 +413,8 @@
 
 ## Shell 
 
+- [matclab/rofi-file-selector](https://github.com/matclab/rofi-file-selector) - A script to quickly search and open a file with Rofi. Mirror of https://gitlab.com/matclab/rofi-file-selector
+- [alansarkar/Rofi-fuzzy-finder-Launcher-](https://github.com/alansarkar/Rofi-fuzzy-finder-Launcher-) - Search  and launch applications from command-line or desktop keybinding.
 - [chmouel/batzconverter](https://github.com/chmouel/batzconverter) - If batman needed a tz converter to show times between different timezones that would be it 🦇
 - [phisch/giph](https://github.com/phisch/giph) - simple video (gif, webm, mp4) recorder
 - [makccr/dot](https://github.com/makccr/dot) - These are my dot files. I've primarily been a MacOS user for most of the time I've been collecting dotfiles, but I've recently switched to Linux. I primarily use Arch, Arco, Manjaro, or some other Arch based distro; so that's where I take my que.
