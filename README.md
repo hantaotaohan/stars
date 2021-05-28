@@ -413,6 +413,7 @@
 
 ## Shell 
 
+- [cirala/lfimg](https://github.com/cirala/lfimg) - Image preview support for lf (list files) using Überzug
 - [matclab/rofi-file-selector](https://github.com/matclab/rofi-file-selector) - A script to quickly search and open a file with Rofi. Mirror of https://gitlab.com/matclab/rofi-file-selector
 - [alansarkar/Rofi-fuzzy-finder-Launcher-](https://github.com/alansarkar/Rofi-fuzzy-finder-Launcher-) - Search  and launch applications from command-line or desktop keybinding.
 - [chmouel/batzconverter](https://github.com/chmouel/batzconverter) - If batman needed a tz converter to show times between different timezones that would be it 🦇
