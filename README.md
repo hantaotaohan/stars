@@ -200,6 +200,7 @@
 
 ## JavaScript 
 
+- [djk2/django-tables2-column-shifter](https://github.com/djk2/django-tables2-column-shifter) - Simple extension for django-tables2 can dynamically show or hide columns. Using JQuery, Bootstrap 3, Bootstrap 4, Bootstrap 5 and Django &gt;=1.9
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - Open-source productivity booster with a brain
 - [zenghongtu/saladict-desktop](https://github.com/zenghongtu/saladict-desktop) - ✨✨桌面划词与翻译工具，聚合了 N 多词典，功能强大，支持 Windows 、 Mac 和 Linux。
 - [eNkru/freechat](https://github.com/eNkru/freechat) - 致力于打造macOS和Linux桌面下最好用的微信（wechat）客户端
@@ -285,6 +286,7 @@
 
 ## Python 
 
+- [ivansurov/django-admin-display-fields-settings](https://github.com/ivansurov/django-admin-display-fields-settings) - Django application. The application adds in the admin form to control the views column.
 - [rupa/epub](https://github.com/rupa/epub) - python/curses cli epub reader
 - [MarkHedleyJones/dmenu-extended](https://github.com/MarkHedleyJones/dmenu-extended) - An extension to dmenu for quickly opening files and folders.
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
