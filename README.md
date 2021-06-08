@@ -110,6 +110,7 @@
 
 ## C++ 
 
+- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [herbstluftwm/herbstluftwm](https://github.com/herbstluftwm/herbstluftwm) - A manual tiling window manager for X11
 - [yasirtug/ni-translate](https://github.com/yasirtug/ni-translate) - A translator for Linux, running at the background which wakes up with the translation of the last selected text on command.
 - [crow-translate/crow-translate](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator that allows you to translate and speak text using Google, Yandex and Bing.
