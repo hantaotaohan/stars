@@ -286,6 +286,7 @@
 
 ## Python 
 
+- [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
 - [2Dou/watermarker](https://github.com/2Dou/watermarker) - 使用python脚本为图片添加文字水印
 - [ivansurov/django-admin-display-fields-settings](https://github.com/ivansurov/django-admin-display-fields-settings) - Django application. The application adds in the admin form to control the views column.
 - [rupa/epub](https://github.com/rupa/epub) - python/curses cli epub reader
