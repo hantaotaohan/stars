@@ -206,6 +206,7 @@
 - [zenghongtu/saladict-desktop](https://github.com/zenghongtu/saladict-desktop) - ✨✨桌面划词与翻译工具，聚合了 N 多词典，功能强大，支持 Windows 、 Mac 和 Linux。
 - [eNkru/freechat](https://github.com/eNkru/freechat) - 致力于打造macOS和Linux桌面下最好用的微信（wechat）客户端
 - [appium/appium](https://github.com/appium/appium) - :iphone: Automation for iOS, Android, and Windows Apps.
+- [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
 - [gillstrom/screensaver](https://github.com/gillstrom/screensaver) - Start the screensaver.
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
@@ -554,7 +555,6 @@
 - [romainl/vim-cool](https://github.com/romainl/vim-cool) - A very simple plugin that makes hlsearch more useful.
 - [sts10/vim-pink-moon](https://github.com/sts10/vim-pink-moon) - A vim/neovim colorscheme
 - [rhysd/clever-f.vim](https://github.com/rhysd/clever-f.vim) - Extended f, F, t and T key mappings for Vim.
-- [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [moll/vim-bbye](https://github.com/moll/vim-bbye) - Delete buffers and close files in Vim without closing your windows or messing up your layout. Like Bclose.vim, but rewritten and well maintained.
 - [tyrannicaltoucan/vim-deep-space](https://github.com/tyrannicaltoucan/vim-deep-space) - An intergalactically friendly color scheme for Vim.
 - [hotoo/pangu.vim](https://github.com/hotoo/pangu.vim) - 『盘古之白』中文排版自动规范化的 Vim 插件
