@@ -179,7 +179,6 @@
 - [saurabhdaware/text-to-handwriting](https://github.com/saurabhdaware/text-to-handwriting) - So your teacher asked you to upload written assignments? Hate writing assigments? This tool will help you convert your text to handwriting xD
 - [zzossig/hugo-theme-zdoc](https://github.com/zzossig/hugo-theme-zdoc) - Make a documentation with hugo zdoc theme!
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
-- [axiros/terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
 - [zhenyangze/uafred](https://github.com/zhenyangze/uafred) - alfred on ubuntu(use electron)
 - [n0tr00t/Sreg](https://github.com/n0tr00t/Sreg) - Sreg可对使用者通过输入email、phone、username的返回用户注册的所有互联网护照信息。
 
@@ -333,6 +332,7 @@
 - [open-dynaMIX/raiseorlaunch](https://github.com/open-dynaMIX/raiseorlaunch) - A run-or-raise-application-launcher for i3 window manager.
 - [willmcgugan/rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [altdesktop/i3ipc-python](https://github.com/altdesktop/i3ipc-python) - 🐍 An improved Python library to control i3wm and sway.
+- [axiros/terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
 - [ywsswy/mouseless](https://github.com/ywsswy/mouseless) - 使用键盘控制鼠标
 - [ExtractTable/ExtractTable-py](https://github.com/ExtractTable/ExtractTable-py) - Python library to extract tabular data from images and scanned PDFs
 - [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
