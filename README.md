@@ -286,6 +286,7 @@
 
 ## Python 
 
+- [ZeroSimple/MicrosoftHostsPicker](https://github.com/ZeroSimple/MicrosoftHostsPicker) - A simple hosts picker for Microsoft Services
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
 - [2Dou/watermarker](https://github.com/2Dou/watermarker) - 使用python脚本为图片添加文字水印
 - [ivansurov/django-admin-display-fields-settings](https://github.com/ivansurov/django-admin-display-fields-settings) - Django application. The application adds in the admin form to control the views column.
