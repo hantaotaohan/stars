@@ -286,6 +286,7 @@
 
 ## Python 
 
+- [universal-ctags/ctags-win32](https://github.com/universal-ctags/ctags-win32) - Universal Ctags Win32 daily builds
 - [ZeroSimple/MicrosoftHostsPicker](https://github.com/ZeroSimple/MicrosoftHostsPicker) - A simple hosts picker for Microsoft Services
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
 - [2Dou/watermarker](https://github.com/2Dou/watermarker) - 使用python脚本为图片添加文字水印
