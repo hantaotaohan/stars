@@ -100,6 +100,7 @@
 
 ## C# # 
 
+- [PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine) - A bash inspired readline implementation for PowerShell
 - [Dijji/FileMeta](https://github.com/Dijji/FileMeta) - Enable Explorer in Vista, Windows 7 and later to see, edit and search on tags and other metadata for any file type
 - [20154530/ToastHelper](https://github.com/20154530/ToastHelper) - Send Windows 10 Toast Notification
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
@@ -201,6 +202,7 @@
 
 ## JavaScript 
 
+- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [hedongshu/miniapp-coupons](https://github.com/hedongshu/miniapp-coupons) - 原生小程序云开发，别人领外卖券，你拿佣金，轻松赚个零花钱
 - [djk2/django-tables2-column-shifter](https://github.com/djk2/django-tables2-column-shifter) - Simple extension for django-tables2 can dynamically show or hide columns. Using JQuery, Bootstrap 3, Bootstrap 4, Bootstrap 5 and Django &gt;=1.9
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - Open-source productivity booster with a brain
