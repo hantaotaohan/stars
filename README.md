@@ -516,6 +516,7 @@
 
 ## Vim script 
 
+- [jaredgorski/fogbell.vim](https://github.com/jaredgorski/fogbell.vim) - ⠀
 - [brglng/vim-sidebar-manager](https://github.com/brglng/vim-sidebar-manager) - The missing sidebar manager for Vim/Neovim
 - [neomake/neomake](https://github.com/neomake/neomake) - Asynchronous linting and make framework for Neovim/Vim
 - [romgrk/doom-one.vim](https://github.com/romgrk/doom-one.vim) - A dark colorschme for vim, ported from doom-emacs' doom-one theme.
