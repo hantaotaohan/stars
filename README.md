@@ -253,6 +253,7 @@
 
 ## Others 
 
+- [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
 - [yohasebe/fzf-alfred-workflow](https://github.com/yohasebe/fzf-alfred-workflow) - An Alfred workflow fo fuzzy find files/directories using fzf and fd.
 - [changeforan/xnhe](https://github.com/changeforan/xnhe) - 
 - [apppay/pay](https://github.com/apppay/pay) - 微信支付宝个人免签系统
