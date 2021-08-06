@@ -203,6 +203,8 @@
 
 ## JavaScript 
 
+- [bayleeadamoss/zazu](https://github.com/bayleeadamoss/zazu) - :rocket: A fully extensible and open source launcher for hackers, creators and dabblers.
+- [linonetwo/zazu](https://github.com/linonetwo/zazu) - :rocket: A fully extensible and open source launcher for hackers, creators and dabblers. (my PR is merged! download latest one in the website!)
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [hedongshu/miniapp-coupons](https://github.com/hedongshu/miniapp-coupons) - 原生小程序云开发，别人领外卖券，你拿佣金，轻松赚个零花钱
 - [djk2/django-tables2-column-shifter](https://github.com/djk2/django-tables2-column-shifter) - Simple extension for django-tables2 can dynamically show or hide columns. Using JQuery, Bootstrap 3, Bootstrap 4, Bootstrap 5 and Django &gt;=1.9
