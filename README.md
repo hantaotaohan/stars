@@ -204,6 +204,7 @@
 
 ## JavaScript 
 
+- [ybz640919/jxd_helper](https://github.com/ybz640919/jxd_helper) - 京训钉视频助手
 - [bayleeadamoss/zazu](https://github.com/bayleeadamoss/zazu) - :rocket: A fully extensible and open source launcher for hackers, creators and dabblers.
 - [linonetwo/zazu](https://github.com/linonetwo/zazu) - :rocket: A fully extensible and open source launcher for hackers, creators and dabblers. (my PR is merged! download latest one in the website!)
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
@@ -358,7 +359,7 @@
 - [TabViewer/tabview](https://github.com/TabViewer/tabview) - Python curses command line CSV and tabular data viewer
 - [dilshod/xlsx2csv](https://github.com/dilshod/xlsx2csv) - Convert xslx to csv, it is fast, and works for huge xlsx files
 - [jason6/vimwiki_md2html](https://github.com/jason6/vimwiki_md2html) - Integrated markdown to html processing for vimwiki
-- [jackzhenguo/python-small-examples](https://github.com/jackzhenguo/python-small-examples) - 告别枯燥，致力于打造 Python 实用小例子
+- [jackzhenguo/python-small-examples](https://github.com/jackzhenguo/python-small-examples) - 告别枯燥，致力于打造 Python 实用小例子，更多Python良心教程见 Python中文网 http://www.zglg.work
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
 - [30-seconds/30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - Short Python code snippets for all your development needs
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目
