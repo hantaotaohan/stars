@@ -245,6 +245,7 @@
 
 ## Lua 
 
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast.
 - [romgrk/barbar.nvim](https://github.com/romgrk/barbar.nvim) - The neovim tabline plugin.
 - [Xuyuanp/scrollbar.nvim](https://github.com/Xuyuanp/scrollbar.nvim) - scrollbar for neovim
 - [romgrk/nvim-treesitter-context](https://github.com/romgrk/nvim-treesitter-context) - Show code context
@@ -258,6 +259,7 @@
 
 ## Others 
 
+- [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) - Awesome Logseq resources created by the community &lt;3
 - [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
 - [yohasebe/fzf-alfred-workflow](https://github.com/yohasebe/fzf-alfred-workflow) - An Alfred workflow fo fuzzy find files/directories using fzf and fd.
 - [changeforan/xnhe](https://github.com/changeforan/xnhe) - 
@@ -295,6 +297,7 @@
 
 ## Python 
 
+- [awesto/cookiecutter-django-shop](https://github.com/awesto/cookiecutter-django-shop) - Cookiecutter django-SHOP is a blueprint for an e-commerce site based on django-CMS.
 - [LimoYuan/i3ForDebianBuster](https://github.com/LimoYuan/i3ForDebianBuster) - i3, debian10, debian buster, dotfiles
 - [universal-ctags/ctags-win32](https://github.com/universal-ctags/ctags-win32) - Universal Ctags Win32 daily builds
 - [ZeroSimple/MicrosoftHostsPicker](https://github.com/ZeroSimple/MicrosoftHostsPicker) - A simple hosts picker for Microsoft Services
@@ -499,6 +502,7 @@
 
 ## TypeScript 
 
+- [vipzhicheng/logseq-plugin-mark-map](https://github.com/vipzhicheng/logseq-plugin-mark-map) - This is a plugin for https://github.com/logseq/logseq to provide mindmap support based on https://github.com/gera2ld/markmap.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [jacoborus/estilo](https://github.com/jacoborus/estilo) - Create color schemes for Vim, Airline and Lightline
