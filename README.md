@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [Assembly](#assembly)
   - [AutoHotkey](#autohotkey)
   - [Awk](#awk)
   - [Batchfile](#batchfile)
@@ -42,6 +43,10 @@
   - [Vim script](#vim-script)
   - [VimL](#viml)
   - [Visual Basic](#visual-basic)
+
+## Assembly 
+
+- [pok3r-custom/pok3r_re_firmware](https://github.com/pok3r-custom/pok3r_re_firmware) - Reverse engineering project for the POK3R and related keyboards.
 
 ## AutoHotkey 
 
