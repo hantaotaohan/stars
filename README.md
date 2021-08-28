@@ -649,6 +649,7 @@
 
 ## VimL 
 
+- [smkent/vim-pipe-preview](https://github.com/smkent/vim-pipe-preview) - Pipe a vim buffer through an external command and view the results in a scrollbind split
 - [spiiph/vim-space](https://github.com/spiiph/vim-space) - space.vim - Smart Space key for Vim
 - [djoshea/vim-autoread](https://github.com/djoshea/vim-autoread) - Have Vim automatically reload a file that has changed externally
 - [tyru/closesubwin.vim](https://github.com/tyru/closesubwin.vim) - Close sub window without jumping to the window (help,quickfix,unlisted buffer supported)
