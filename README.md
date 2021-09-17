@@ -310,6 +310,7 @@
 
 ## Python 
 
+- [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [leosolid/qutebrowser-themes](https://github.com/leosolid/qutebrowser-themes) - themes for qutebrowser
 - [aurecchia/i3-resizer](https://github.com/aurecchia/i3-resizer) - i3 directional resizer
 - [sfyc23/EverydayWechat](https://github.com/sfyc23/EverydayWechat) - 微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等）
