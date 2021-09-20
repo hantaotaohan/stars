@@ -139,7 +139,7 @@
 ## CSS 
 
 - [cannibalox/logseq-dark-hpx](https://github.com/cannibalox/logseq-dark-hpx) - CSS snippets and themes for www.logseq.com
-- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
+- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment. Read the README.md!
 - [WnP/vimwiki_markdown](https://github.com/WnP/vimwiki_markdown) - vimwiki markdown file to html with syntax highlighting.
 - [creio/dots](https://github.com/creio/dots) - Alex Creio dots
 - [chrisju/vimwikiblog](https://github.com/chrisju/vimwikiblog) - make vimwiki a blog
