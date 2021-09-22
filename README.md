@@ -139,9 +139,8 @@
 ## CSS 
 
 - [cannibalox/logseq-dark-hpx](https://github.com/cannibalox/logseq-dark-hpx) - CSS snippets and themes for www.logseq.com
-- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment. Read the README.md!
+- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment. Completed setup, integrated, and high-performance. Read the README.md!
 - [WnP/vimwiki_markdown](https://github.com/WnP/vimwiki_markdown) - vimwiki markdown file to html with syntax highlighting.
-- [creio/dots](https://github.com/creio/dots) - Alex Creio dots
 - [chrisju/vimwikiblog](https://github.com/chrisju/vimwikiblog) - make vimwiki a blog
 - [deryrahman/jupyter-notebook-one-dark-theme](https://github.com/deryrahman/jupyter-notebook-one-dark-theme) - OneDark theme for Jupyter Notebook
 - [arcticicestudio/nord](https://github.com/arcticicestudio/nord) - An arctic, north-bluish color palette.
@@ -485,6 +484,7 @@
 - [vivien/i3blocks-contrib](https://github.com/vivien/i3blocks-contrib) - Official repository for community contributed blocklets
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
 - [Zeioth/rofi-shortcuts](https://github.com/Zeioth/rofi-shortcuts) - The ultimate shortcuts cheatsheet
+- [creio/dots](https://github.com/creio/dots) - Alex Creio dots
 - [rememberYou/dotfiles](https://github.com/rememberYou/dotfiles) - 🏡 Personal dotfiles configuration
 - [davidbailey00/notion-linux](https://github.com/davidbailey00/notion-linux) - Native Notion packages for Linux
 - [geeks-r-us/anbox-playstore-installer](https://github.com/geeks-r-us/anbox-playstore-installer) - Install script that automates installation of googles playstore in anbox
@@ -537,7 +537,7 @@
 
 ## VBA 
 
-- [yar-kotsar/vixcel](https://github.com/yar-kotsar/vixcel) - .xlam for vim shortcuts in excel
+- [stoic-cartwright/vixcel](https://github.com/stoic-cartwright/vixcel) - .xlam for vim shortcuts in excel
 - [kjnh10/ExcelLikeVim](https://github.com/kjnh10/ExcelLikeVim) - This is a Excel Addin that provide vim-like interface.
 
 ## Vala 
@@ -583,7 +583,6 @@
 - [aonemd/kuroi.vim](https://github.com/aonemd/kuroi.vim) - A very dark colorscheme for Vim
 - [eugen0329/vim-esearch](https://github.com/eugen0329/vim-esearch) - Perform search in files easily
 - [HustLion/q-quit](https://github.com/HustLion/q-quit) - q to smart quit.
-- [at-cf/vim-quit-if-transient-buffers](https://github.com/at-cf/vim-quit-if-transient-buffers) - Close tab if the only remaining buffers are transient, like qf, NERDTree, etc.
 - [pacha/vem-tabline](https://github.com/pacha/vem-tabline) - A lightweight Vim/Neovim plugin to display buffers and tabs in the tabline
 - [Lokaltog/vim-monotone](https://github.com/Lokaltog/vim-monotone) - A dark, monochrome colorscheme for vim
 - [unblevable/quick-scope](https://github.com/unblevable/quick-scope) - Lightning fast left-right movement in Vim
