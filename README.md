@@ -271,6 +271,7 @@
 
 ## Others 
 
+- [off-by-one/logseq-vim-mode](https://github.com/off-by-one/logseq-vim-mode) - A better set of vim keybindings in logseq
 - [UOS-HELLO/wechat-debian](https://github.com/UOS-HELLO/wechat-debian) - this project is created to move UOS's wechat to debian
 - [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) - Awesome Logseq resources created by the community &lt;3
 - [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
@@ -311,6 +312,7 @@
 
 ## Python 
 
+- [justahuman1/i3-grid](https://github.com/justahuman1/i3-grid) - A i3wm grid controller for accelerated floating window management.
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [leosolid/qutebrowser-themes](https://github.com/leosolid/qutebrowser-themes) - themes for qutebrowser
 - [aurecchia/i3-resizer](https://github.com/aurecchia/i3-resizer) - i3 directional resizer
