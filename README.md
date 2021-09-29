@@ -455,6 +455,7 @@
 
 ## Shell 
 
+- [Epictek/Fuzzy-CEDICT](https://github.com/Epictek/Fuzzy-CEDICT) - Basic English to Chinese Dictionary viewer for bash using the CC-CEDICT database with a choice of frontends including rofi and fzf.
 - [cirala/lfimg](https://github.com/cirala/lfimg) - Image preview support for lf (list files) using Überzug
 - [matclab/rofi-file-selector](https://github.com/matclab/rofi-file-selector) - A script to quickly search and open a file with Rofi. Mirror of https://gitlab.com/matclab/rofi-file-selector
 - [alansarkar/Rofi-fuzzy-finder-Launcher-](https://github.com/alansarkar/Rofi-fuzzy-finder-Launcher-) - Search  and launch applications from command-line or desktop keybinding.
@@ -550,6 +551,7 @@
 
 ## Vim script 
 
+- [rlue/vim-barbaric](https://github.com/rlue/vim-barbaric) - Automatic input method switching for vim
 - [mhinz/vim-sayonara](https://github.com/mhinz/vim-sayonara) - :japanese_goblin: Sane buffer/window deletion.
 - [arcticicestudio/nord-vim](https://github.com/arcticicestudio/nord-vim) - An arctic, north-bluish clean and elegant Vim theme.
 - [andymass/vim-matchup](https://github.com/andymass/vim-matchup) - vim match-up: even better % :facepunch: navigate and highlight matching words :facepunch: modern matchit and matchparen replacement
