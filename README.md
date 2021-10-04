@@ -456,6 +456,7 @@
 
 ## Shell 
 
+- [noctuid/tdrop](https://github.com/noctuid/tdrop) - A Glorified WM-Independent Dropdown Creator
 - [Epictek/Fuzzy-CEDICT](https://github.com/Epictek/Fuzzy-CEDICT) - Basic English to Chinese Dictionary viewer for bash using the CC-CEDICT database with a choice of frontends including rofi and fzf.
 - [cirala/lfimg](https://github.com/cirala/lfimg) - Image preview support for lf (list files) using Überzug
 - [matclab/rofi-file-selector](https://github.com/matclab/rofi-file-selector) - A script to quickly search and open a file with Rofi. Mirror of https://gitlab.com/matclab/rofi-file-selector
