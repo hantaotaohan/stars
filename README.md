@@ -120,7 +120,7 @@
 
 ## C++ 
 
-- [Chaoses-Ib/IbEverythingExt](https://github.com/Chaoses-Ib/IbEverythingExt) - Everything 拼音搜索扩展
+- [Chaoses-Ib/IbEverythingExt](https://github.com/Chaoses-Ib/IbEverythingExt) - Everything 拼音搜索、快速选择扩展
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [herbstluftwm/herbstluftwm](https://github.com/herbstluftwm/herbstluftwm) - A manual tiling window manager for X11
 - [yasirtug/ni-translate](https://github.com/yasirtug/ni-translate) - A translator for Linux, running at the background which wakes up with the translation of the last selected text on command.
