@@ -362,7 +362,7 @@
 - [micahcc/i3-wm-scripts](https://github.com/micahcc/i3-wm-scripts) - i3 Window Manager Scripts
 - [miseran/i3-tools](https://github.com/miseran/i3-tools) - Some of my personal tools for the i3 window manager.
 - [meelkor/polybar-i3-windows](https://github.com/meelkor/polybar-i3-windows) - 
-- [neg-serg/negi3wm](https://github.com/neg-serg/negi3wm) - Brings a lot of UX features from notion/ion3 and more to i3. Probably the most sophisticated example of i3ipc usage ever created
+- [neg-serg/negi3wm](https://github.com/neg-serg/negi3wm) - Brings a lot of unique UX features inspired by ion3/notion wm. Probably the most sophisticated example of i3ipc usage ever created
 - [mherrmann/matrixlock](https://github.com/mherrmann/matrixlock) - Replace i3's lock screen by the Matrix.
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [hoochanlon/w3-goto-world](https://github.com/hoochanlon/w3-goto-world) - 🍅 Git/AWS/Google 镜像 ,SS/SSR/VMESS节点,WireGuard,IPFS, DeepWeb,Capitalism 、行业研究报告的知识储备库
