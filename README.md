@@ -624,7 +624,7 @@
 - [junegunn/limelight.vim](https://github.com/junegunn/limelight.vim) - :flashlight: All the world's indeed a stage and we are merely players
 - [mg979/vim-visual-multi](https://github.com/mg979/vim-visual-multi) - Multiple cursors plugin for vim/neovim
 - [junegunn/vim-easy-align](https://github.com/junegunn/vim-easy-align) - :sunflower: A Vim alignment plugin
-- [tpope/vim-surround](https://github.com/tpope/vim-surround) - surround.vim: quoting/parenthesizing made simple
+- [tpope/vim-surround](https://github.com/tpope/vim-surround) - surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease
 - [jelly/Dotfiles](https://github.com/jelly/Dotfiles) - My Dotfiles
 - [fabi1cazenave/suckless.vim](https://github.com/fabi1cazenave/suckless.vim) - Tiling window management that sucks less. Inpired by wmii and i3.
 - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim
