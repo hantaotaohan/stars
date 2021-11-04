@@ -73,6 +73,7 @@
 
 ## C 
 
+- [siduck/st](https://github.com/siduck/st) - sexy terminal (suckless)
 - [vilari-mickopf/st](https://github.com/vilari-mickopf/st) - Fork of the suckless simple terminal (st)
 - [gnotclub/xst](https://github.com/gnotclub/xst) - st fork that uses Xresources and some pretty good patches
 - [nsxiv/nsxiv](https://github.com/nsxiv/nsxiv) - Neo Simple X Image Viewer
@@ -218,6 +219,7 @@
 
 ## JavaScript 
 
+- [Jelmerro/Vieb](https://github.com/Jelmerro/Vieb) - Vim Inspired Electron Browser - Vim bindings for the web by design
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [ybz640919/jxd_helper](https://github.com/ybz640919/jxd_helper) - 京训钉视频助手
 - [bayleeadamoss/zazu](https://github.com/bayleeadamoss/zazu) - :rocket: A fully extensible and open source launcher for hackers, creators and dabblers.
