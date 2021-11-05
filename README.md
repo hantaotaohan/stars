@@ -278,6 +278,7 @@
 
 ## Others 
 
+- [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing
 - [off-by-one/logseq-vim-mode](https://github.com/off-by-one/logseq-vim-mode) - A better set of vim keybindings in logseq
 - [UOS-HELLO/wechat-debian](https://github.com/UOS-HELLO/wechat-debian) - this project is created to move UOS's wechat to debian
 - [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) - Awesome Logseq resources created by the community &lt;3
@@ -439,6 +440,7 @@
 
 ## Rust 
 
+- [zu1k/copy-translator](https://github.com/zu1k/copy-translator) - 简单、轻量、好用的划词翻译软件，利用DeepL翻译，无需api token
 - [blahgeek/Minions](https://github.com/blahgeek/Minions) - Minions is a productive tool for Linux, inspired by LaunchBar in macOS
 - [DorianRudolph/sirula](https://github.com/DorianRudolph/sirula) - Simple app launcher for wayland written in rust
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
