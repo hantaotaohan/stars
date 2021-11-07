@@ -118,7 +118,7 @@
 - [Dijji/FileMeta](https://github.com/Dijji/FileMeta) - Enable Explorer in Vista, Windows 7 and later to see, edit and search on tags and other metadata for any file type
 - [20154530/ToastHelper](https://github.com/20154530/ToastHelper) - Send Windows 10 Toast Notification
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
-- [Ruben2776/PicView](https://github.com/Ruben2776/PicView) - Fast Picture Viewer with compact UI, that can be hidden. Features image effects, galleries, image info and more. The app can automatically adjusts itself to your screen.
+- [Ruben2776/PicView](https://github.com/Ruben2776/PicView) - Fast Picture Viewer with compact UI that can be hidden. Features image effects, galleries, EXIF and more. The application can automatically adjusts itself to your screen.
 - [pluveto/Caplos](https://github.com/pluveto/Caplos) - A tool to squeeze the power of your CapsLock key 一个充分利用你的大小写键的工具
 - [zsims/hunt-and-peck](https://github.com/zsims/hunt-and-peck) - Simple vimium/vimperator style navigation for Windows applications based on the UI Automation framework.
 - [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
