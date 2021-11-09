@@ -73,6 +73,7 @@
 
 ## C 
 
+- [yungcheeze/surf](https://github.com/yungcheeze/surf) - my surf fork
 - [rahul13ramesh/suckless_patched](https://github.com/rahul13ramesh/suckless_patched) - Patched version of st, surf, tabbed and dmenu
 - [bakkeby/st-flexipatch](https://github.com/bakkeby/st-flexipatch) - An st build with preprocessor directives to decide which patches to include during build time
 - [siduck/st](https://github.com/siduck/st) - sexy terminal (suckless)
@@ -182,6 +183,7 @@
 
 ## Go 
 
+- [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [makeworld-the-better-one/amfora](https://github.com/makeworld-the-better-one/amfora) - A fancy terminal browser for the Gemini protocol.
 - [cespare/reflex](https://github.com/cespare/reflex) - Run a command when files change
 - [isacikgoz/tldr](https://github.com/isacikgoz/tldr) - fast and interactive tldr client written with  go
