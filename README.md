@@ -559,7 +559,7 @@
 
 ## VBA 
 
-- [stoic-cartwright/vixcel](https://github.com/stoic-cartwright/vixcel) - .xlam for vim shortcuts in excel
+- [codetsar/vixcel](https://github.com/codetsar/vixcel) - .xlam for vim shortcuts in excel
 - [kjnh10/ExcelLikeVim](https://github.com/kjnh10/ExcelLikeVim) - This is a Excel Addin that provide vim-like interface.
 
 ## Vala 
