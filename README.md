@@ -40,6 +40,7 @@
   - [TypeScript](#typescript)
   - [VBA](#vba)
   - [Vala](#vala)
+  - [Vim Snippet](#vim-snippet)
   - [Vim script](#vim-script)
   - [VimL](#viml)
   - [Visual Basic](#visual-basic)
@@ -470,6 +471,7 @@
 
 ## Shell 
 
+- [Chrysostomus/bspwm-scripts](https://github.com/Chrysostomus/bspwm-scripts) - 
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [nvim-telescope/telescope-media-files.nvim](https://github.com/nvim-telescope/telescope-media-files.nvim) - Telescope extension to preview media files using Ueberzug.
 - [noctuid/tdrop](https://github.com/noctuid/tdrop) - A Glorified WM-Independent Dropdown Creator
@@ -542,13 +544,13 @@
 
 ## TypeScript 
 
+- [folke/polydock](https://github.com/folke/polydock) - ✨ A shiny and hackable application dock
 - [vipzhicheng/logseq-plugin-mark-map](https://github.com/vipzhicheng/logseq-plugin-mark-map) - This is a plugin for https://github.com/logseq/logseq to provide mindmap support based on https://github.com/gera2ld/markmap.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [jacoborus/estilo](https://github.com/jacoborus/estilo) - Create color schemes for Vim, Airline and Lightline
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [Saul-Mirone/homura](https://github.com/Saul-Mirone/homura) - Homura RSS Reader
-- [folke/polydock](https://github.com/folke/polydock) - ✨ A shiny and hackable application dock
 - [oct16/TimeCat](https://github.com/oct16/TimeCat) - A Magical Web Recorder & Player 🖥
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [Automattic/simplenote-electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux
@@ -566,6 +568,10 @@
 
 - [teejee2008/timeshift](https://github.com/teejee2008/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
 - [babluboy/bookworm](https://github.com/babluboy/bookworm) - A simple ebook reader for Elementary OS
+
+## Vim Snippet 
+
+- [foo-dogsquared/dotfiles](https://github.com/foo-dogsquared/dotfiles) - My dotfiles for my Linux-based system setup.
 
 ## Vim script 
 
