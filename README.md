@@ -78,7 +78,7 @@
 - [yungcheeze/surf](https://github.com/yungcheeze/surf) - my surf fork
 - [rahul13ramesh/suckless_patched](https://github.com/rahul13ramesh/suckless_patched) - Patched version of st, surf, tabbed and dmenu
 - [bakkeby/st-flexipatch](https://github.com/bakkeby/st-flexipatch) - An st build with preprocessor directives to decide which patches to include during build time
-- [siduck/st](https://github.com/siduck/st) - sexy terminal (suckless)
+- [siduck/st](https://github.com/siduck/st) - snazzy terminal (suckless)
 - [vilari-mickopf/st](https://github.com/vilari-mickopf/st) - Fork of the suckless simple terminal (st)
 - [gnotclub/xst](https://github.com/gnotclub/xst) - st fork that uses Xresources and some pretty good patches
 - [nsxiv/nsxiv](https://github.com/nsxiv/nsxiv) - Neo Simple X Image Viewer
