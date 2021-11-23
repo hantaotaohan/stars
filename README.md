@@ -269,7 +269,7 @@
 ## Lua 
 
 - [luakit/luakit](https://github.com/luakit/luakit) - Fast, small, webkit based browser framework extensible by Lua.
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast.
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast.
 - [romgrk/barbar.nvim](https://github.com/romgrk/barbar.nvim) - The neovim tabline plugin.
 - [Xuyuanp/scrollbar.nvim](https://github.com/Xuyuanp/scrollbar.nvim) - scrollbar for neovim
 - [romgrk/nvim-treesitter-context](https://github.com/romgrk/nvim-treesitter-context) - Show code context
@@ -284,6 +284,8 @@
 
 ## Others 
 
+- [xaizek/dotvifm](https://github.com/xaizek/dotvifm) - Vifm configuration files
+- [Jenyay/vifmrc](https://github.com/Jenyay/vifmrc) - My settings file for vifm
 - [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing
 - [off-by-one/logseq-vim-mode](https://github.com/off-by-one/logseq-vim-mode) - A better set of vim keybindings in logseq
 - [UOS-HELLO/wechat-debian](https://github.com/UOS-HELLO/wechat-debian) - this project is created to move UOS's wechat to debian
