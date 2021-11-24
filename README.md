@@ -129,6 +129,7 @@
 
 ## C++ 
 
+- [larygwil/FIM](https://github.com/larygwil/FIM) - Unofficial mirror of FIM ( fbi improved ) code
 - [Chaoses-Ib/IbEverythingExt](https://github.com/Chaoses-Ib/IbEverythingExt) - Everything 拼音搜索、快速选择扩展
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [herbstluftwm/herbstluftwm](https://github.com/herbstluftwm/herbstluftwm) - A manual tiling window manager for X11
@@ -448,6 +449,7 @@
 
 ## Rust 
 
+- [atanunq/viu](https://github.com/atanunq/viu) - Simple terminal image viewer written in Rust.
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [zu1k/copy-translator](https://github.com/zu1k/copy-translator) - 简单、轻量、好用的划词翻译软件，利用DeepL翻译，无需api token
 - [blahgeek/Minions](https://github.com/blahgeek/Minions) - Minions is a productive tool for Linux, inspired by LaunchBar in macOS
@@ -473,6 +475,7 @@
 
 ## Shell 
 
+- [gerardbm/dotfiles](https://github.com/gerardbm/dotfiles) - My *NIX dotfiles [i3wm, URxvt, tmux, zsh, rofi, cmus, irssi, vifm, mutt, feh, mpv, newsbeuter]
 - [Chrysostomus/bspwm-scripts](https://github.com/Chrysostomus/bspwm-scripts) - 
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [nvim-telescope/telescope-media-files.nvim](https://github.com/nvim-telescope/telescope-media-files.nvim) - Telescope extension to preview media files using Ueberzug.
@@ -577,6 +580,8 @@
 
 ## Vim script 
 
+- [rashil2000/dotfiles](https://github.com/rashil2000/dotfiles) - Configuration files
+- [mwgkgk/dotfiles](https://github.com/mwgkgk/dotfiles) - vim, vifm, tmux, fzf, fish, sxhkd, kmonad
 - [rlue/vim-barbaric](https://github.com/rlue/vim-barbaric) - Automatic input method switching for vim
 - [mhinz/vim-sayonara](https://github.com/mhinz/vim-sayonara) - :japanese_goblin: Sane buffer/window deletion.
 - [arcticicestudio/nord-vim](https://github.com/arcticicestudio/nord-vim) - An arctic, north-bluish clean and elegant Vim theme.
