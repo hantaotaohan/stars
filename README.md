@@ -74,6 +74,8 @@
 
 ## C 
 
+- [zzcontinent/shell](https://github.com/zzcontinent/shell) - 
+- [saitoha/libsixel](https://github.com/saitoha/libsixel) - A SIXEL encoder/decoder implementation derived from kmiya's sixel (https://github.com/saitoha/sixel).
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [yungcheeze/surf](https://github.com/yungcheeze/surf) - my surf fork
 - [rahul13ramesh/suckless_patched](https://github.com/rahul13ramesh/suckless_patched) - Patched version of st, surf, tabbed and dmenu
@@ -475,6 +477,7 @@
 
 ## Shell 
 
+- [cirala/vifmimg](https://github.com/cirala/vifmimg) - Image previews using Überzug for Vifm (vi file manager)
 - [gerardbm/dotfiles](https://github.com/gerardbm/dotfiles) - My *NIX dotfiles [i3wm, URxvt, tmux, zsh, rofi, cmus, irssi, vifm, mutt, feh, mpv, newsbeuter]
 - [Chrysostomus/bspwm-scripts](https://github.com/Chrysostomus/bspwm-scripts) - 
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
@@ -580,6 +583,7 @@
 
 ## Vim script 
 
+- [PeteJodo/dotfiles](https://github.com/PeteJodo/dotfiles) - 
 - [rashil2000/dotfiles](https://github.com/rashil2000/dotfiles) - Configuration files
 - [mwgkgk/dotfiles](https://github.com/mwgkgk/dotfiles) - vim, vifm, tmux, fzf, fish, sxhkd, kmonad
 - [rlue/vim-barbaric](https://github.com/rlue/vim-barbaric) - Automatic input method switching for vim
