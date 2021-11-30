@@ -517,7 +517,7 @@
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
 - [Zeioth/rofi-shortcuts](https://github.com/Zeioth/rofi-shortcuts) - The ultimate shortcuts cheatsheet
 - [rememberYou/dotfiles](https://github.com/rememberYou/dotfiles) - 🏡 Personal dotfiles configuration
-- [davidbailey00/notion-linux](https://github.com/davidbailey00/notion-linux) - Native Notion packages for Linux
+- [valerie-makes/notion-linux](https://github.com/valerie-makes/notion-linux) - Native Notion packages for Linux
 - [geeks-r-us/anbox-playstore-installer](https://github.com/geeks-r-us/anbox-playstore-installer) - Install script that automates installation of googles playstore in anbox
 - [nwg-piotr/rof](https://github.com/nwg-piotr/rof) - Launcher script to avoid running multiple instance of the same window
 - [ayosec/polybar-debian](https://github.com/ayosec/polybar-debian) - Debian packages for Polybar
@@ -583,6 +583,8 @@
 
 ## Vim script 
 
+- [lacygoill/vim-lg-lib](https://github.com/lacygoill/vim-lg-lib) - 
+- [lacygoill/config](https://github.com/lacygoill/config) - 
 - [PeteJodo/dotfiles](https://github.com/PeteJodo/dotfiles) - 
 - [rashil2000/dotfiles](https://github.com/rashil2000/dotfiles) - Configuration files
 - [mwgkgk/dotfiles](https://github.com/mwgkgk/dotfiles) - vim, vifm, tmux, fzf, fish, sxhkd, kmonad
