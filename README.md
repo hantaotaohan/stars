@@ -74,6 +74,7 @@
 
 ## C 
 
+- [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 - [zzcontinent/shell](https://github.com/zzcontinent/shell) - 
 - [saitoha/libsixel](https://github.com/saitoha/libsixel) - A SIXEL encoder/decoder implementation derived from kmiya's sixel (https://github.com/saitoha/sixel).
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
