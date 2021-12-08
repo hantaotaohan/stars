@@ -479,6 +479,8 @@
 
 ## Shell 
 
+- [czardien/fmenu](https://github.com/czardien/fmenu) - A fzf-based implementation of a dmenu application.
+- [apathor/cz](https://github.com/apathor/cz) - Abstraction over line selection utilities - plus handy plugins!
 - [cirala/vifmimg](https://github.com/cirala/vifmimg) - Image previews using Überzug for Vifm (vi file manager)
 - [gerardbm/dotfiles](https://github.com/gerardbm/dotfiles) - My *NIX dotfiles [i3wm, URxvt, tmux, zsh, rofi, cmus, irssi, vifm, mutt, feh, mpv, newsbeuter]
 - [Chrysostomus/bspwm-scripts](https://github.com/Chrysostomus/bspwm-scripts) - 
