@@ -74,6 +74,7 @@
 
 ## C 
 
+- [poemdistance/ScreenTranslation](https://github.com/poemdistance/ScreenTranslation) - Linux屏幕取词翻译(适用于如Gnome等基于X server的桌面发行版) -- 含界面
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 - [zzcontinent/shell](https://github.com/zzcontinent/shell) - 
 - [saitoha/libsixel](https://github.com/saitoha/libsixel) - A SIXEL encoder/decoder implementation derived from kmiya's sixel (https://github.com/saitoha/sixel).
@@ -332,6 +333,8 @@
 
 ## Python 
 
+- [easeflyer/gd_plugin](https://github.com/easeflyer/gd_plugin) - 可能是最好用的Linux 屏幕取词工具。完美取词，支持全文翻译，在线英语词典。翻译引擎采用有道。
+- [poemdistance/google-translate](https://github.com/poemdistance/google-translate) - Python 谷歌中英文翻译
 - [justahuman1/i3-grid](https://github.com/justahuman1/i3-grid) - A i3wm grid controller for accelerated floating window management.
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [leosolid/qutebrowser-themes](https://github.com/leosolid/qutebrowser-themes) - themes for qutebrowser
