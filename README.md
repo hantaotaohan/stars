@@ -74,6 +74,7 @@
 
 ## C 
 
+- [gnab/rtl8812au](https://github.com/gnab/rtl8812au) - Realtek 802.11n WLAN Adapter Linux driver
 - [poemdistance/ScreenTranslation](https://github.com/poemdistance/ScreenTranslation) - Linux屏幕取词翻译(适用于如Gnome等基于X server的桌面发行版) -- 含界面
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 - [zzcontinent/shell](https://github.com/zzcontinent/shell) - 
