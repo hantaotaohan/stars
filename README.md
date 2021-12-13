@@ -293,7 +293,7 @@
 
 - [xaizek/dotvifm](https://github.com/xaizek/dotvifm) - Vifm configuration files
 - [Jenyay/vifmrc](https://github.com/Jenyay/vifmrc) - My settings file for vifm
-- [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing
+- [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux
 - [off-by-one/logseq-vim-mode](https://github.com/off-by-one/logseq-vim-mode) - A better set of vim keybindings in logseq
 - [UOS-HELLO/wechat-debian](https://github.com/UOS-HELLO/wechat-debian) - this project is created to move UOS's wechat to debian
 - [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) - Awesome Logseq resources created by the community &lt;3
@@ -401,7 +401,7 @@
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [cseas/ocr-table](https://github.com/cseas/ocr-table) - Extract tables from scanned image PDFs using Optical Character Recognition.
 - [madmaze/pytesseract](https://github.com/madmaze/pytesseract) - A Python wrapper for Google Tesseract
-- [jbarlow83/OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+- [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [vitali84/pdf-to-csv-table-extactor](https://github.com/vitali84/pdf-to-csv-table-extactor) - Extract tables from scanned documents pdf into csv file using ocr and image processing
 - [bilelmoussaoui/Hardcode-Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Fixes Hardcoded tray icons in Linux
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
