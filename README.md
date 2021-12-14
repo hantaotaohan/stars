@@ -334,6 +334,8 @@
 
 ## Python 
 
+- [dialect-app/dialect](https://github.com/dialect-app/dialect) - A translation app for GNOME.
+- [skywind3000/translator](https://github.com/skywind3000/translator) - 命令行聚合翻译工具，支持谷歌，必应，有道，百度，词霸，360
 - [easeflyer/gd_plugin](https://github.com/easeflyer/gd_plugin) - 可能是最好用的Linux 屏幕取词工具。完美取词，支持全文翻译，在线英语词典。翻译引擎采用有道。
 - [poemdistance/google-translate](https://github.com/poemdistance/google-translate) - Python 谷歌中英文翻译
 - [justahuman1/i3-grid](https://github.com/justahuman1/i3-grid) - A i3wm grid controller for accelerated floating window management.
