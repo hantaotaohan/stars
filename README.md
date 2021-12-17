@@ -491,6 +491,7 @@
 
 ## Shell 
 
+- [salman-abedin/bolt](https://github.com/salman-abedin/bolt) - Launcher wrapper for a lightning fast Unix workflow
 - [ArnaudLevaufre/dotfiles](https://github.com/ArnaudLevaufre/dotfiles) - Configuration files I use to setup my workstations
 - [czardien/fmenu](https://github.com/czardien/fmenu) - A fzf-based implementation of a dmenu application.
 - [apathor/cz](https://github.com/apathor/cz) - Abstraction over line selection utilities - plus handy plugins!
@@ -608,7 +609,7 @@
 - [mhinz/vim-sayonara](https://github.com/mhinz/vim-sayonara) - :japanese_goblin: Sane buffer/window deletion.
 - [arcticicestudio/nord-vim](https://github.com/arcticicestudio/nord-vim) - An arctic, north-bluish clean and elegant Vim theme.
 - [andymass/vim-matchup](https://github.com/andymass/vim-matchup) - vim match-up: even better % :facepunch: navigate and highlight matching words :facepunch: modern matchit and matchparen
-- [jaredgorski/fogbell.vim](https://github.com/jaredgorski/fogbell.vim) - ⠀
+- [jaredgorski/fogbell.vim](https://github.com/jaredgorski/fogbell.vim) - 
 - [brglng/vim-sidebar-manager](https://github.com/brglng/vim-sidebar-manager) - The missing sidebar manager for Vim/Neovim
 - [neomake/neomake](https://github.com/neomake/neomake) - Asynchronous linting and make framework for Neovim/Vim
 - [romgrk/doom-one.vim](https://github.com/romgrk/doom-one.vim) - A dark colorschme for vim, ported from doom-emacs' doom-one theme.
