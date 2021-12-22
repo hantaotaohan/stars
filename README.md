@@ -492,6 +492,8 @@
 
 ## Shell 
 
+- [trapd00r/LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
+- [sdushantha/farge](https://github.com/sdushantha/farge) - Click on a pixel on your screen and show its color value
 - [salman-abedin/bolt](https://github.com/salman-abedin/bolt) - Launcher wrapper for a lightning fast Unix workflow
 - [ArnaudLevaufre/dotfiles](https://github.com/ArnaudLevaufre/dotfiles) - Configuration files I use to setup my workstations
 - [czardien/fmenu](https://github.com/czardien/fmenu) - A fzf-based implementation of a dmenu application.
