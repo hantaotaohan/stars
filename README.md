@@ -226,6 +226,7 @@
 
 ## Java 
 
+- [kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分离设置「软件 / 资料」榜单，精准定位中文好项目。各取所需，互不干扰。
 - [dunwu/java-tutorial](https://github.com/dunwu/java-tutorial) - :coffee: 老司机在 Java 技术领域的十年积累。
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [torakiki/sejda](https://github.com/torakiki/sejda) - An extendible and configurable PDF manipulation layer library written in java.
@@ -234,6 +235,7 @@
 
 ## JavaScript 
 
+- [ineo6/hosts](https://github.com/ineo6/hosts) - GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。
 - [Jelmerro/Vieb](https://github.com/Jelmerro/Vieb) - Vim Inspired Electron Browser - Vim bindings for the web by design
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [ybz640919/jxd_helper](https://github.com/ybz640919/jxd_helper) - 京训钉视频助手
@@ -337,6 +339,8 @@
 
 ## Python 
 
+- [darknessomi/musicbox](https://github.com/darknessomi/musicbox) - 网易云音乐命令行版本
+- [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool) - Python爬虫代理IP池(proxy pool)
 - [cjbassi/rofi-files](https://github.com/cjbassi/rofi-files) - Use rofi to search files and directories with fd and open them with xdg-open
 - [olixu/CBDict](https://github.com/olixu/CBDict) - This program monitors the clipboard of the system and translate the word from English to Chinese by YouDao api, especially designed for Students who are working under linux environment where there is no simple translater when you reading papers.
 - [xxNull-lsk/my_dict](https://github.com/xxNull-lsk/my_dict) - 一款中英文词典
@@ -492,6 +496,7 @@
 
 ## Shell 
 
+- [laishulu/Sarasa-Mono-SC-Nerd](https://github.com/laishulu/Sarasa-Mono-SC-Nerd) - 简体中文等距更纱黑体+Nerd图标字体库。中英文宽度完美2:1，图标长宽经过调整，不会出现对齐问题，尤其适合作为终端字体。
 - [trapd00r/LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
 - [sdushantha/farge](https://github.com/sdushantha/farge) - Click on a pixel on your screen and show its color value
 - [salman-abedin/bolt](https://github.com/salman-abedin/bolt) - Launcher wrapper for a lightning fast Unix workflow
@@ -526,7 +531,6 @@
 - [danisztls/fzfx](https://github.com/danisztls/fzfx) - fzfX delivers the power of finding, previewing, editing and managing any file in few key strokes.
 - [maestrogerardo/i3-gaps-deb](https://github.com/maestrogerardo/i3-gaps-deb) - Tool to create and install Debian (or Ubuntu) packages of i3-gaps.
 - [huan/docker-wechat](https://github.com/huan/docker-wechat) - DoChat is a Dockerized WeChat (盒装微信) PC Windows Client for Linux
-- [laishulu/Sarasa-Mono-SC-Nerd](https://github.com/laishulu/Sarasa-Mono-SC-Nerd) - 简体中文等距更纱黑体+Nerd图标字体库。中英文宽度完美2:1，图标长宽经过调整，不会出现对齐问题，尤其适合作为终端字体。
 - [wfxr/tmux-power](https://github.com/wfxr/tmux-power) - 🎨 Tmux powerline theme
 - [fidian/ansi](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
 - [feherke/Bash-script](https://github.com/feherke/Bash-script) - Bash scripts
