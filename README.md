@@ -609,7 +609,7 @@
 
 - [lacygoill/vim-lg-lib](https://github.com/lacygoill/vim-lg-lib) - 
 - [lacygoill/config](https://github.com/lacygoill/config) - 
-- [PeteJodo/dotfiles](https://github.com/PeteJodo/dotfiles) - 
+- [petejodo/dotfiles](https://github.com/petejodo/dotfiles) - 
 - [rashil2000/dotfiles](https://github.com/rashil2000/dotfiles) - Configuration files
 - [mwgkgk/dotfiles](https://github.com/mwgkgk/dotfiles) - vim, vifm, tmux, fzf, fish, sxhkd, kmonad
 - [rlue/vim-barbaric](https://github.com/rlue/vim-barbaric) - Automatic input method switching for vim
