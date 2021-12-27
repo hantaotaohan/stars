@@ -235,6 +235,7 @@
 
 ## JavaScript 
 
+- [Chunlin-Li/Chunlin-Li.github.io](https://github.com/Chunlin-Li/Chunlin-Li.github.io) - My Blog
 - [ineo6/hosts](https://github.com/ineo6/hosts) - GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。
 - [Jelmerro/Vieb](https://github.com/Jelmerro/Vieb) - Vim Inspired Electron Browser - Vim bindings for the web by design
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
@@ -296,6 +297,7 @@
 
 ## Others 
 
+- [Murzchnvok/rofi-collection](https://github.com/Murzchnvok/rofi-collection) - Beautiful collection of Rofi themes
 - [xaizek/dotvifm](https://github.com/xaizek/dotvifm) - Vifm configuration files
 - [Jenyay/vifmrc](https://github.com/Jenyay/vifmrc) - My settings file for vifm
 - [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux
