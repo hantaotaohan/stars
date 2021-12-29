@@ -341,6 +341,7 @@
 
 ## Python 
 
+- [wasi-master/pypi-command-line](https://github.com/wasi-master/pypi-command-line) - A powerful, colorful, beautiful command-line-interface for pypi.org
 - [darknessomi/musicbox](https://github.com/darknessomi/musicbox) - 网易云音乐命令行版本
 - [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool) - Python爬虫代理IP池(proxy pool)
 - [cjbassi/rofi-files](https://github.com/cjbassi/rofi-files) - Use rofi to search files and directories with fd and open them with xdg-open
@@ -471,6 +472,8 @@
 
 ## Rust 
 
+- [rhysd/hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search results
+- [isamert/marks](https://github.com/isamert/marks) - A reasonably fast markup semantic search tool
 - [DreamSaddle/youdao-dict](https://github.com/DreamSaddle/youdao-dict) - YDict is a dictionary/translation tool developed by Rust+Qt
 - [atanunq/viu](https://github.com/atanunq/viu) - Simple terminal image viewer written in Rust.
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
@@ -498,6 +501,7 @@
 
 ## Shell 
 
+- [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
 - [laishulu/Sarasa-Mono-SC-Nerd](https://github.com/laishulu/Sarasa-Mono-SC-Nerd) - 简体中文等距更纱黑体+Nerd图标字体库。中英文宽度完美2:1，图标长宽经过调整，不会出现对齐问题，尤其适合作为终端字体。
 - [trapd00r/LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
 - [sdushantha/farge](https://github.com/sdushantha/farge) - Click on a pixel on your screen and show its color value
