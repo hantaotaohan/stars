@@ -74,6 +74,7 @@
 
 ## C 
 
+- [bakkeby/slock-flexipatch](https://github.com/bakkeby/slock-flexipatch) - An slock build with preprocessor directives to decide which patches to include during build time
 - [bakkeby/dmenu-flexipatch](https://github.com/bakkeby/dmenu-flexipatch) - A dmenu build with preprocessor directives to decide which patches to include during build time
 - [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color) - The world's most popular non-default computer lockscreen.
 - [gnab/rtl8812au](https://github.com/gnab/rtl8812au) - Realtek 802.11n WLAN Adapter Linux driver
@@ -225,7 +226,7 @@
 
 ## Java 
 
-- [kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分离设置「软件 / 资料」榜单，精准定位中文好项目。各取所需，互不干扰。
+- [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分离设置「软件 / 资料」榜单，精准定位中文好项目。各取所需，互不干扰。
 - [dunwu/java-tutorial](https://github.com/dunwu/java-tutorial) - :coffee: 老司机在 Java 技术领域的十年积累。
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [torakiki/sejda](https://github.com/torakiki/sejda) - An extendible and configurable PDF manipulation layer library written in java.
@@ -340,6 +341,7 @@
 
 ## Python 
 
+- [axiros/terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
 - [wasi-master/pypi-command-line](https://github.com/wasi-master/pypi-command-line) - A powerful, colorful, beautiful command-line-interface for pypi.org
 - [darknessomi/musicbox](https://github.com/darknessomi/musicbox) - 网易云音乐命令行版本
 - [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool) - Python爬虫代理IP池(proxy pool)
@@ -407,7 +409,6 @@
 - [open-dynaMIX/raiseorlaunch](https://github.com/open-dynaMIX/raiseorlaunch) - A run-or-raise-application-launcher for i3 window manager.
 - [willmcgugan/rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [altdesktop/i3ipc-python](https://github.com/altdesktop/i3ipc-python) - 🐍 An improved Python library to control i3wm and sway.
-- [axiros/terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
 - [ywsswy/mouseless](https://github.com/ywsswy/mouseless) - 使用键盘控制鼠标
 - [ExtractTable/ExtractTable-py](https://github.com/ExtractTable/ExtractTable-py) - Python library to extract tabular data from images and scanned PDFs
 - [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
@@ -466,6 +467,7 @@
 
 ## Ruby 
 
+- [ttscoff/mdless](https://github.com/ttscoff/mdless) - 
 - [sirupsen/zk](https://github.com/sirupsen/zk) - Zettelkasten on the command-line 📚 🔍
 - [patrickdavey/vimwiki_markdown](https://github.com/patrickdavey/vimwiki_markdown) - A gem to use for converting vimwiki markdown files to html.
 
@@ -500,6 +502,7 @@
 
 ## Shell 
 
+- [tj/mad](https://github.com/tj/mad) - mad(1) is a markdown manual page viewer
 - [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
 - [laishulu/Sarasa-Mono-SC-Nerd](https://github.com/laishulu/Sarasa-Mono-SC-Nerd) - 简体中文等距更纱黑体+Nerd图标字体库。中英文宽度完美2:1，图标长宽经过调整，不会出现对齐问题，尤其适合作为终端字体。
 - [trapd00r/LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
@@ -561,7 +564,7 @@
 - [ayamir/bspwm-dotfiles](https://github.com/ayamir/bspwm-dotfiles) - My Arch+Bspwm dotfiles
 - [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
 - [rasa/vmware-tools-patches](https://github.com/rasa/vmware-tools-patches) - Patch and build VMware tools automatically
-- [hantaotaohan/dotfiles](https://github.com/hantaotaohan/dotfiles) - My Workspace dotfiles config .
+- [hantaotaohan/dotfiles-ubuntu](https://github.com/hantaotaohan/dotfiles-ubuntu) - My Workspace dotfiles config .
 - [pedroqin/Ascii_Signature](https://github.com/pedroqin/Ascii_Signature) - 
 - [Jactor-Sue/Deepin-Apps-Installation](https://github.com/Jactor-Sue/Deepin-Apps-Installation) - 本仓库介绍如何在基于Ubuntu的系统上安装Deepin移植的软件。This repo shows how to install apps packaged by Deepin.
 - [mavcook/mybox](https://github.com/mavcook/mybox) - Some of my config files and what not
