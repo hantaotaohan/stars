@@ -74,6 +74,7 @@
 
 ## C 
 
+- [resurrecting-open-source-projects/scrot](https://github.com/resurrecting-open-source-projects/scrot) - SCReenshOT - command line screen capture utility
 - [bakkeby/slock-flexipatch](https://github.com/bakkeby/slock-flexipatch) - An slock build with preprocessor directives to decide which patches to include during build time
 - [bakkeby/dmenu-flexipatch](https://github.com/bakkeby/dmenu-flexipatch) - A dmenu build with preprocessor directives to decide which patches to include during build time
 - [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color) - The world's most popular non-default computer lockscreen.
@@ -298,6 +299,7 @@
 
 ## Others 
 
+- [sheoak/neomutt-powerline-nerdfonts](https://github.com/sheoak/neomutt-powerline-nerdfonts) - Powerline and nerd fonts configuration files for neomutt
 - [Murzchnvok/rofi-collection](https://github.com/Murzchnvok/rofi-collection) - Beautiful collection of Rofi themes
 - [xaizek/dotvifm](https://github.com/xaizek/dotvifm) - Vifm configuration files
 - [Jenyay/vifmrc](https://github.com/Jenyay/vifmrc) - My settings file for vifm
@@ -474,6 +476,7 @@
 
 ## Rust 
 
+- [Canop/termimad](https://github.com/Canop/termimad) - A library to display rich (Markdown) snippets and texts in a rust terminal application
 - [rhysd/hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search results
 - [isamert/marks](https://github.com/isamert/marks) - A reasonably fast markup semantic search tool
 - [DreamSaddle/youdao-dict](https://github.com/DreamSaddle/youdao-dict) - YDict is a dictionary/translation tool developed by Rust+Qt
@@ -503,6 +506,7 @@
 
 ## Shell 
 
+- [meribold/dotfiles](https://github.com/meribold/dotfiles) - Dotfiles for Vim, Neovim, i3-gaps, NeoMutt, Bash, … :penguin:
 - [tj/mad](https://github.com/tj/mad) - mad(1) is a markdown manual page viewer
 - [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
 - [laishulu/Sarasa-Mono-SC-Nerd](https://github.com/laishulu/Sarasa-Mono-SC-Nerd) - 简体中文等距更纱黑体+Nerd图标字体库。中英文宽度完美2:1，图标长宽经过调整，不会出现对齐问题，尤其适合作为终端字体。
@@ -586,6 +590,7 @@
 
 ## TypeScript 
 
+- [dephraiim/termd](https://github.com/dephraiim/termd) - Render markdown in the terminal
 - [folke/polydock](https://github.com/folke/polydock) - ✨ A shiny and hackable application dock
 - [vipzhicheng/logseq-plugin-mark-map](https://github.com/vipzhicheng/logseq-plugin-mark-map) - This is a plugin for https://github.com/logseq/logseq to provide mindmap support based on https://github.com/gera2ld/markmap.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
