@@ -195,6 +195,7 @@
 
 ## Go 
 
+- [MichaelMure/mdr](https://github.com/MichaelMure/mdr) - MarkDown Renderer for the terminal
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [makeworld-the-better-one/amfora](https://github.com/makeworld-the-better-one/amfora) - A fancy terminal browser for the Gemini protocol.
 - [cespare/reflex](https://github.com/cespare/reflex) - Run a command when files change
@@ -227,7 +228,7 @@
 
 ## Java 
 
-- [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分离设置「软件 / 资料」榜单，精准定位中文好项目。各取所需，互不干扰。
+- [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分离设置「软件 / 资料」榜单，精准定位中文好项目。各取所需，互不干扰，高效学习。
 - [dunwu/java-tutorial](https://github.com/dunwu/java-tutorial) - :coffee: 老司机在 Java 技术领域的十年积累。
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [torakiki/sejda](https://github.com/torakiki/sejda) - An extendible and configurable PDF manipulation layer library written in java.
