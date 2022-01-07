@@ -44,6 +44,7 @@
   - [Vim script](#vim-script)
   - [VimL](#viml)
   - [Visual Basic](#visual-basic)
+  - [Vue](#vue)
 
 ## Assembly 
 
@@ -237,6 +238,8 @@
 
 ## JavaScript 
 
+- [lana-k/sqliteviz](https://github.com/lana-k/sqliteviz) - Instant offline SQL-powered data visualisation in your browser
+- [aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.
 - [yoshuawuyts/vmd](https://github.com/yoshuawuyts/vmd) - :pray: preview markdown files
 - [Chunlin-Li/Chunlin-Li.github.io](https://github.com/Chunlin-Li/Chunlin-Li.github.io) - My Blog
 - [ineo6/hosts](https://github.com/ineo6/hosts) - GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。
@@ -345,6 +348,7 @@
 
 ## Python 
 
+- [lord63/tldr.py](https://github.com/lord63/tldr.py) - A python client for tldr: simplified and community-driven man pages.
 - [axiros/terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
 - [wasi-master/pypi-command-line](https://github.com/wasi-master/pypi-command-line) - A powerful, colorful, beautiful command-line-interface for pypi.org
 - [darknessomi/musicbox](https://github.com/darknessomi/musicbox) - 网易云音乐命令行版本
@@ -477,6 +481,7 @@
 
 ## Rust 
 
+- [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
 - [Canop/termimad](https://github.com/Canop/termimad) - A library to display rich (Markdown) snippets and texts in a rust terminal application
 - [rhysd/hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search results
 - [isamert/marks](https://github.com/isamert/marks) - A reasonably fast markup semantic search tool
@@ -756,6 +761,10 @@
 ## Visual Basic 
 
 - [seanyeh/vibreoffice](https://github.com/seanyeh/vibreoffice) - Vi Mode for LibreOffice/OpenOffice
+
+## Vue 
+
+- [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
 
 
 ## License
