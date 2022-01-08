@@ -481,6 +481,8 @@
 
 ## Rust 
 
+- [leshow/mdt](https://github.com/leshow/mdt) - mdt (markdown terminal previewer) pretty-prints CommonMark docs to the term
+- [foxfriends/paper-terminal](https://github.com/foxfriends/paper-terminal) - Print Markdown to a paper in your terminal
 - [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
 - [Canop/termimad](https://github.com/Canop/termimad) - A library to display rich (Markdown) snippets and texts in a rust terminal application
 - [rhysd/hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search results
