@@ -631,6 +631,7 @@
 
 ## Vim script 
 
+- [skanehira/preview-markdown.vim](https://github.com/skanehira/preview-markdown.vim) - Markdown preview plugin for Vim
 - [lacygoill/vim-lg-lib](https://github.com/lacygoill/vim-lg-lib) - 
 - [lacygoill/config](https://github.com/lacygoill/config) - 
 - [petejodo/dotfiles](https://github.com/petejodo/dotfiles) - 
