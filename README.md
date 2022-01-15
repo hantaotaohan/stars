@@ -139,6 +139,7 @@
 
 ## C++ 
 
+- [HadesD/vim-power-mode](https://github.com/HadesD/vim-power-mode) - Power mode for Vim
 - [larygwil/FIM](https://github.com/larygwil/FIM) - Unofficial mirror of FIM ( fbi improved ) code
 - [Chaoses-Ib/IbEverythingExt](https://github.com/Chaoses-Ib/IbEverythingExt) - Everything 拼音搜索、快速选择扩展
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
