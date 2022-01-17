@@ -483,6 +483,7 @@
 
 ## Rust 
 
+- [lunaryorn/mdcat](https://github.com/lunaryorn/mdcat) - cat for markdown
 - [leshow/mdt](https://github.com/leshow/mdt) - mdt (markdown terminal previewer) pretty-prints CommonMark docs to the term
 - [foxfriends/paper-terminal](https://github.com/foxfriends/paper-terminal) - Print Markdown to a paper in your terminal
 - [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
