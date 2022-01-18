@@ -305,6 +305,7 @@
 
 ## Others 
 
+- [bmpi-dev/logseq.xyz](https://github.com/bmpi-dev/logseq.xyz) - logseq self-host with github feature
 - [sheoak/neomutt-powerline-nerdfonts](https://github.com/sheoak/neomutt-powerline-nerdfonts) - Powerline and nerd fonts configuration files for neomutt
 - [Murzchnvok/rofi-collection](https://github.com/Murzchnvok/rofi-collection) - Beautiful collection of Rofi themes
 - [xaizek/dotvifm](https://github.com/xaizek/dotvifm) - Vifm configuration files
@@ -601,6 +602,7 @@
 
 ## TypeScript 
 
+- [vipzhicheng/logseq-plugin-vim-shortcuts](https://github.com/vipzhicheng/logseq-plugin-vim-shortcuts) - Add part of VIM key bindings experience to Logseq
 - [dephraiim/termd](https://github.com/dephraiim/termd) - Render markdown in the terminal
 - [folke/polydock](https://github.com/folke/polydock) - ✨ A shiny and hackable application dock
 - [vipzhicheng/logseq-plugin-mark-map](https://github.com/vipzhicheng/logseq-plugin-mark-map) - This is a plugin for https://github.com/logseq/logseq to provide mindmap support based on https://github.com/gera2ld/markmap.
