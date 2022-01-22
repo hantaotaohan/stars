@@ -305,6 +305,7 @@
 
 ## Others 
 
+- [FastGitORG/uptime](https://github.com/FastGitORG/uptime) - 📈 Uptime monitor and status page for FastGit, powered by @upptime
 - [bmpi-dev/logseq.xyz](https://github.com/bmpi-dev/logseq.xyz) - logseq self-host with github feature
 - [sheoak/neomutt-powerline-nerdfonts](https://github.com/sheoak/neomutt-powerline-nerdfonts) - Powerline and nerd fonts configuration files for neomutt
 - [Murzchnvok/rofi-collection](https://github.com/Murzchnvok/rofi-collection) - Beautiful collection of Rofi themes
@@ -484,6 +485,7 @@
 
 ## Rust 
 
+- [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [Canop/clima](https://github.com/Canop/clima) - A minimal viewer for Termimad
 - [lunaryorn/mdcat](https://github.com/lunaryorn/mdcat) - cat for markdown
 - [leshow/mdt](https://github.com/leshow/mdt) - mdt (markdown terminal previewer) pretty-prints CommonMark docs to the term
@@ -636,6 +638,7 @@
 
 ## Vim script 
 
+- [PegasusWang/vim-config](https://github.com/PegasusWang/vim-config) - Lean mean (Neo)Vim machine, carefully crafted with :heart: Use with Neovim v0.1.5+ or Vim v7.4+
 - [skanehira/preview-markdown.vim](https://github.com/skanehira/preview-markdown.vim) - Markdown preview plugin for Vim
 - [lacygoill/vim-lg-lib](https://github.com/lacygoill/vim-lg-lib) - 
 - [lacygoill/config](https://github.com/lacygoill/config) - 
