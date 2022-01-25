@@ -305,6 +305,7 @@
 
 ## Others 
 
+- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。
 - [FastGitORG/uptime](https://github.com/FastGitORG/uptime) - 📈 Uptime monitor and status page for FastGit, powered by @upptime
 - [bmpi-dev/logseq.xyz](https://github.com/bmpi-dev/logseq.xyz) - logseq self-host with github feature
 - [sheoak/neomutt-powerline-nerdfonts](https://github.com/sheoak/neomutt-powerline-nerdfonts) - Powerline and nerd fonts configuration files for neomutt
