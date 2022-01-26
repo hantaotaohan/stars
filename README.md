@@ -523,6 +523,8 @@
 
 ## Shell 
 
+- [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
+- [DanielFGray/fzf-scripts](https://github.com/DanielFGray/fzf-scripts) - a collection of scripts that rely on https://github.com/junegunn/fzf
 - [meribold/dotfiles](https://github.com/meribold/dotfiles) - Dotfiles for Vim, Neovim, i3-gaps, NeoMutt, Bash, … :penguin:
 - [tj/mad](https://github.com/tj/mad) - mad(1) is a markdown manual page viewer
 - [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
