@@ -165,7 +165,6 @@
 - [cannibalox/logseq-dark-hpx](https://github.com/cannibalox/logseq-dark-hpx) - CSS snippets and themes for www.logseq.com
 - [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment. Deprecated, preparing Joyful Desktop v4. Consider installing!
 - [WnP/vimwiki_markdown](https://github.com/WnP/vimwiki_markdown) - vimwiki markdown file to html with syntax highlighting.
-- [creio/dots](https://github.com/creio/dots) - Alex Creio dots
 - [chrisju/vimwikiblog](https://github.com/chrisju/vimwikiblog) - make vimwiki a blog
 - [deryrahman/jupyter-notebook-one-dark-theme](https://github.com/deryrahman/jupyter-notebook-one-dark-theme) - OneDark theme for Jupyter Notebook
 - [arcticicestudio/nord](https://github.com/arcticicestudio/nord) - An arctic, north-bluish color palette.
@@ -416,7 +415,7 @@
 - [micahcc/i3-wm-scripts](https://github.com/micahcc/i3-wm-scripts) - i3 Window Manager Scripts
 - [miseran/i3-tools](https://github.com/miseran/i3-tools) - Some of my personal tools for the i3 window manager.
 - [meelkor/polybar-i3-windows](https://github.com/meelkor/polybar-i3-windows) - 
-- [neg-serg/negi3wm](https://github.com/neg-serg/negi3wm) - Brings a lot of unique UX features inspired by ion3/notion wm. Probably the most sophisticated example of i3ipc usage ever created
+- [neg-serg/negwm](https://github.com/neg-serg/negwm) - Brings a lot of unique UX features inspired by ion3/notion wm. Probably the most sophisticated example of i3ipc usage ever created
 - [mherrmann/matrixlock](https://github.com/mherrmann/matrixlock) - Replace i3's lock screen by the Matrix.
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [hoochanlon/w3-goto-world](https://github.com/hoochanlon/w3-goto-world) - 🍅 Git/AWS/Google 镜像 ,SS/SSR/VMESS节点,WireGuard,IPFS, DeepWeb,Capitalism 、行业研究报告的知识储备库
@@ -572,6 +571,7 @@
 - [gohugoio/hugoThemes](https://github.com/gohugoio/hugoThemes) - A curated directory of Hugo themes
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
 - [Zeioth/rofi-shortcuts](https://github.com/Zeioth/rofi-shortcuts) - The ultimate shortcuts cheatsheet
+- [creio/dots](https://github.com/creio/dots) - Alex Creio dots
 - [rememberYou/dotfiles](https://github.com/rememberYou/dotfiles) - 🏡 Personal dotfiles configuration
 - [valerie-makes/notion-linux](https://github.com/valerie-makes/notion-linux) - Native Notion packages for Linux
 - [geeks-r-us/anbox-playstore-installer](https://github.com/geeks-r-us/anbox-playstore-installer) - Install script that automates installation of googles playstore in anbox
