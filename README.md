@@ -229,7 +229,6 @@
 
 ## Java 
 
-- [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分离设置「软件 / 资料」榜单，精准定位中文好项目。各取所需，互不干扰，高效学习。
 - [dunwu/java-tutorial](https://github.com/dunwu/java-tutorial) - :coffee: 老司机在 Java 技术领域的十年积累。
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [torakiki/sejda](https://github.com/torakiki/sejda) - An extendible and configurable PDF manipulation layer library written in java.
@@ -308,6 +307,7 @@
 - [bmpi-dev/logseq.xyz](https://github.com/bmpi-dev/logseq.xyz) - logseq self-host with github feature
 - [sheoak/neomutt-powerline-nerdfonts](https://github.com/sheoak/neomutt-powerline-nerdfonts) - Powerline and nerd fonts configuration files for neomutt
 - [Murzchnvok/rofi-collection](https://github.com/Murzchnvok/rofi-collection) - Beautiful collection of Rofi themes
+- [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分离设置「软件 / 资料」榜单，精准定位中文好项目。各取所需，互不干扰，高效学习。
 - [xaizek/dotvifm](https://github.com/xaizek/dotvifm) - Vifm configuration files
 - [Jenyay/vifmrc](https://github.com/Jenyay/vifmrc) - My settings file for vifm
 - [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux
