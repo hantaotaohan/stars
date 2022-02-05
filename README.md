@@ -351,6 +351,7 @@
 
 ## Python 
 
+- [wustho/epy](https://github.com/wustho/epy) - CLI Ebook (epub2, epub3, fb2, mobi) Reader
 - [achembarpu/pockyt](https://github.com/achembarpu/pockyt) - Automate & manage your Pocket.com collection.
 - [lord63/tldr.py](https://github.com/lord63/tldr.py) - A python client for tldr: simplified and community-driven man pages.
 - [axiros/terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
@@ -520,6 +521,7 @@
 
 ## Shell 
 
+- [BachoSeven/dotfiles](https://github.com/BachoSeven/dotfiles) - rice repo
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [DanielFGray/fzf-scripts](https://github.com/DanielFGray/fzf-scripts) - a collection of scripts that rely on https://github.com/junegunn/fzf
 - [meribold/dotfiles](https://github.com/meribold/dotfiles) - Dotfiles for Vim, Neovim, i3-gaps, NeoMutt, Bash, … :penguin:
