@@ -499,7 +499,7 @@
 - [rhysd/hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search results
 - [isamert/marks](https://github.com/isamert/marks) - A reasonably fast markup semantic search tool
 - [DreamSaddle/youdao-dict](https://github.com/DreamSaddle/youdao-dict) - YDict is a dictionary/translation tool developed by Rust+Qt
-- [atanunq/viu](https://github.com/atanunq/viu) - Simple terminal image viewer written in Rust.
+- [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [zu1k/copy-translator](https://github.com/zu1k/copy-translator) - 简单、轻量、好用的划词翻译软件，利用DeepL翻译，无需注册api token
 - [blahgeek/Minions](https://github.com/blahgeek/Minions) - Minions is a productive tool for Linux, inspired by LaunchBar in macOS
