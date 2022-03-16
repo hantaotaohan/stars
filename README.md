@@ -204,7 +204,7 @@
 - [cespare/reflex](https://github.com/cespare/reflex) - Run a command when files change
 - [isacikgoz/tldr](https://github.com/isacikgoz/tldr) - fast and interactive tldr client written with  go
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
-- [termhn/i3-vim-nav](https://github.com/termhn/i3-vim-nav) - Seamlessly navigate i3 windows and vim splits
+- [fu5ha/i3-vim-nav](https://github.com/fu5ha/i3-vim-nav) - Seamlessly navigate i3 windows and vim splits
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [3e849f2e5c/i3blocks-mozc](https://github.com/3e849f2e5c/i3blocks-mozc) - i3blocks Mozc status
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
