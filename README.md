@@ -359,6 +359,7 @@
 
 ## Python 
 
+- [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [wustho/epy](https://github.com/wustho/epy) - CLI Ebook (epub2, epub3, fb2, mobi) Reader
 - [achembarpu/pockyt](https://github.com/achembarpu/pockyt) - Automate & manage your Pocket.com collection.
@@ -651,6 +652,7 @@
 
 ## Vim script 
 
+- [junegunn/vim-journal](https://github.com/junegunn/vim-journal) - :memo:
 - [alok/notational-fzf-vim](https://github.com/alok/notational-fzf-vim) - Notational velocity for vim.
 - [tpope/vim-sleuth](https://github.com/tpope/vim-sleuth) - sleuth.vim: Heuristically set buffer options
 - [PegasusWang/vim-config](https://github.com/PegasusWang/vim-config) - Lean mean (Neo)Vim machine, carefully crafted with :heart: Use with Neovim v0.1.5+ or Vim v7.4+
