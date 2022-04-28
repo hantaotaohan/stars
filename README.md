@@ -361,6 +361,7 @@
 
 ## Python 
 
+- [mtianyan/django-react-tyadmin](https://github.com/mtianyan/django-react-tyadmin) - 支持Python3.9,Django4! 类似 xadmin 的基于Model 快速生成前后台管理增删改查，筛选，搜索的后台管理自动化工具。Antd 界面好看现代化！前后端分离！无损二次开发！由Django Restful Framework 和 Ant Design Pro V4 驱动
 - [richcat-dev/richcat](https://github.com/richcat-dev/richcat) - rich cat command working on Python
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
