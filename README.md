@@ -160,6 +160,7 @@
 
 ## CSS 
 
+- [viewflow/django-material](https://github.com/viewflow/django-material) - Material Design for Django
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [cannibalox/logseq-dark-hpx](https://github.com/cannibalox/logseq-dark-hpx) - CSS snippets and themes for www.logseq.com
 - [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
@@ -567,7 +568,7 @@
 - [makccr/dot](https://github.com/makccr/dot) - My dotfiles / default location for ricing configs.
 - [jeffmhubbard/menuz](https://github.com/jeffmhubbard/menuz) - Menus with rofi, fzf, and zsh
 - [abdrysdale/fzfmenu](https://github.com/abdrysdale/fzfmenu) - An fzf application menu
-- [zacanger/dotfiles](https://github.com/zacanger/dotfiles) - scripts and configs for bash, vim, linux, mac, i3, etc.
+- [zacanger/dotfiles](https://github.com/zacanger/dotfiles) - scripts and configs for mac, bash, python, node, go, etc
 - [salman-abedin/amenu](https://github.com/salman-abedin/amenu) - Fuzzy Finder Dynamic GUI Menu
 - [spikegrobstein/fzf-menu](https://github.com/spikegrobstein/fzf-menu) - A simple fzf wrapper to replace dmenu
 - [infokiller/config-public](https://github.com/infokiller/config-public) - Linux/WSL config to optimize ergonomics, security, and productivity: vim/neovim, zsh, tmux, i3, emacs, vscode, ipython, jupyter, ranger, fzf, kitty, xkb, selfquant, firejail, systemd, etc
@@ -627,6 +628,7 @@
 
 ## TypeScript 
 
+- [inventare/django-image-uploader-widget](https://github.com/inventare/django-image-uploader-widget) - A beautiful image uploader widget for django and django-admin
 - [vipzhicheng/logseq-plugin-vim-shortcuts](https://github.com/vipzhicheng/logseq-plugin-vim-shortcuts) - Add part of VIM key bindings experience to Logseq
 - [aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.
 - [dephraiim/termd](https://github.com/dephraiim/termd) - Render markdown in the terminal
