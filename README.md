@@ -361,6 +361,7 @@
 
 ## Python 
 
+- [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
 - [zostera/django-bootstrap5](https://github.com/zostera/django-bootstrap5) - Bootstrap 5 for Django
 - [jieter/django-tables2](https://github.com/jieter/django-tables2) - django-tables2 - An app for creating HTML tables
 - [asyncee/django-easy-select2](https://github.com/asyncee/django-easy-select2) - Select2 input widget for django selectable fields.
