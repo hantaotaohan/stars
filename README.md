@@ -91,7 +91,7 @@
 - [siduck/st](https://github.com/siduck/st) - snazzy terminal (suckless + lightweight)
 - [vilari-mickopf/st](https://github.com/vilari-mickopf/st) - Fork of the suckless simple terminal (st)
 - [gnotclub/xst](https://github.com/gnotclub/xst) - st fork that uses Xresources and some pretty good patches
-- [nsxiv/nsxiv](https://github.com/nsxiv/nsxiv) - Neo Simple X Image Viewer
+- [nsxiv/nsxiv](https://github.com/nsxiv/nsxiv) - Read-only mirror of Neo Simple X Image Viewer
 - [fanglingsu/vimb](https://github.com/fanglingsu/vimb) - Vimb - the vim like browser is a webkit based web browser that behaves like the vimperator plugin for the firefox and usage paradigms from the great editor vim. The goal of vimb is to build a complete
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon
 - [Cloudef/bemenu](https://github.com/Cloudef/bemenu) - Dynamic menu library and client program inspired by dmenu
@@ -161,6 +161,7 @@
 
 ## CSS 
 
+- [fabiocaccamo/django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) - :mage::zap: django's default admin interface made customizable. popup windows replaced by modals.
 - [viewflow/django-material](https://github.com/viewflow/django-material) - Material Design for Django
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [cannibalox/logseq-dark-hpx](https://github.com/cannibalox/logseq-dark-hpx) - CSS snippets and themes for www.logseq.com
@@ -214,6 +215,7 @@
 
 ## HTML 
 
+- [sehmaschine/django-grappelli](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the Django Admin-Interface (official repository).
 - [wenzhixin/bootstrap-table-examples](https://github.com/wenzhixin/bootstrap-table-examples) - Bootstrap table examples
 - [farridav/django-jazzmin](https://github.com/farridav/django-jazzmin) - Jazzy theme for Django
 - [xfirefly/Airplay-SDK](https://github.com/xfirefly/Airplay-SDK) - Airplay Receiver SDK supports Airplay Mirroring and AirPlay Casting to a receiver device.
@@ -361,6 +363,7 @@
 
 ## Python 
 
+- [python-openxml/python-docx](https://github.com/python-openxml/python-docx) - Create and modify Word documents with Python
 - [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
 - [zostera/django-bootstrap5](https://github.com/zostera/django-bootstrap5) - Bootstrap 5 for Django
 - [jieter/django-tables2](https://github.com/jieter/django-tables2) - django-tables2 - An app for creating HTML tables
@@ -532,6 +535,7 @@
 
 ## SCSS 
 
+- [django-cms/djangocms-admin-style](https://github.com/django-cms/djangocms-admin-style) - django CMS Admin Style is a Django Theme tailored to the needs of django CMS.
 - [zzossig/hugo-theme-zzo](https://github.com/zzossig/hugo-theme-zzo) - Make a blog with hugo zzo theme!
 - [sivan/heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 
