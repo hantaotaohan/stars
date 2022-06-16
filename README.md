@@ -399,7 +399,7 @@
 - [awesto/cookiecutter-django-shop](https://github.com/awesto/cookiecutter-django-shop) - Cookiecutter django-SHOP is a blueprint for an e-commerce site based on django-CMS.
 - [LimoYuan/i3ForDebianBuster](https://github.com/LimoYuan/i3ForDebianBuster) - i3, debian10, debian buster, dotfiles
 - [universal-ctags/ctags-win32](https://github.com/universal-ctags/ctags-win32) - Universal Ctags Win32 daily builds
-- [Ryauou/MicrosoftHostsPicker](https://github.com/Ryauou/MicrosoftHostsPicker) - A simple hosts picker for Microsoft Services
+- [ButaiKirin/MicrosoftHostsPicker](https://github.com/ButaiKirin/MicrosoftHostsPicker) - A simple hosts picker for Microsoft Services
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
 - [2Dou/watermarker](https://github.com/2Dou/watermarker) - 使用python脚本为图片添加文字水印
 - [ivansurov/django-admin-display-fields-settings](https://github.com/ivansurov/django-admin-display-fields-settings) - Django application. The application adds in the admin form to control the views column.
