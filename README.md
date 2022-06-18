@@ -414,7 +414,7 @@
 - [nwg-piotr/nwg-panel](https://github.com/nwg-piotr/nwg-panel) - GTK3-based panel for sway window manager
 - [django-extensions/django-extensions](https://github.com/django-extensions/django-extensions) - This is a repository for collecting global custom management extensions for the Django Framework.
 - [mtianyan/VueDjangoAntdProBookShop](https://github.com/mtianyan/VueDjangoAntdProBookShop) - Vue前台 + Django3.1 + DjangoRestful Framework + Ant Design Pro V4 开发的二手书商城网站及后台管理
-- [JamesRamm/longclaw](https://github.com/JamesRamm/longclaw) - A shop for Wagtail CMS
+- [longclawshop/longclaw](https://github.com/longclawshop/longclaw) - A shop for Wagtail CMS
 - [diefenbach/django-lfs](https://github.com/diefenbach/django-lfs) - An online-shop based on Django
 - [saleor/saleor](https://github.com/saleor/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
 - [awesto/django-shop](https://github.com/awesto/django-shop) - A Django based shop system
