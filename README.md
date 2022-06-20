@@ -376,6 +376,7 @@
 - [newpanjing/simpleui](https://github.com/newpanjing/simpleui) - A modern theme based on vue+element-ui for django admin.一款基于vue+element-ui的django admin现代化主题。全球20000+网站都在使用！喜欢可以点个star✨
 - [mtianyan/django-react-tyadmin](https://github.com/mtianyan/django-react-tyadmin) - 支持Python3.9,Django4! 类似 xadmin 的基于Model 快速生成前后台管理增删改查，筛选，搜索的后台管理自动化工具。Antd 界面好看现代化！前后端分离！无损二次开发！由Django Restful Framework 和 Ant Design Pro V4 驱动
 - [richcat-dev/richcat](https://github.com/richcat-dev/richcat) - rich cat command working on Python
+- [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [wustho/epy](https://github.com/wustho/epy) - CLI Ebook (epub2, epub3, fb2, mobi) Reader
 - [achembarpu/pockyt](https://github.com/achembarpu/pockyt) - Automate & manage your Pocket.com collection.
@@ -510,7 +511,6 @@
 ## Rust 
 
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
-- [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [Canop/clima](https://github.com/Canop/clima) - A minimal viewer for Termimad
 - [lunaryorn/mdcat](https://github.com/lunaryorn/mdcat) - cat for markdown
