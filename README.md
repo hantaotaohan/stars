@@ -332,7 +332,7 @@
 - [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
 - [yohasebe/fzf-alfred-workflow](https://github.com/yohasebe/fzf-alfred-workflow) - An Alfred workflow fo fuzzy find files/directories using fzf and fd.
 - [changeforan/xnhe](https://github.com/changeforan/xnhe) - 
-- [apppay/pay](https://github.com/apppay/pay) - 微信支付宝个人免签系统
+- [apppay/pay](https://github.com/apppay/pay) - 微信/支付宝/h5/收款监控/个人收款,无需签约支付宝/微信支付,支付宝支付/微信支付的个人账户，提供即时到账收款API接口
 - [whitelok/watermark-remover](https://github.com/whitelok/watermark-remover) - Remove watermark automatically(Just can use for fixed position watermark till now). 自动水印消除算法的实现（目前只支持固定水印位置）。
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [mcchrish/vim-no-color-collections](https://github.com/mcchrish/vim-no-color-collections) - Collection of Vim themes with barely any colors
