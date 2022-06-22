@@ -245,6 +245,7 @@
 
 ## JavaScript 
 
+- [shkreios/django-admin-multiselect](https://github.com/shkreios/django-admin-multiselect) - 
 - [pengx17/logseq-publish](https://github.com/pengx17/logseq-publish) - Logseq Publish Action
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.
 - [njleonzhang/docsify-edit-on-github](https://github.com/njleonzhang/docsify-edit-on-github) - 
@@ -365,6 +366,10 @@
 
 ## Python 
 
+- [shamanu4/dal_admin_filters](https://github.com/shamanu4/dal_admin_filters) - Django autocomplete light filters for django admin
+- [mrts/django-admin-list-filter-dropdown](https://github.com/mrts/django-admin-list-filter-dropdown) - Use dropdowns in Django admin list filter
+- [carltongibson/django-filter](https://github.com/carltongibson/django-filter) - A generic system for filtering Django QuerySets based on user selections
+- [Alir3z4/django-cuser](https://github.com/Alir3z4/django-cuser) - Middleware to make authentication data easily available to all parts of a django project
 - [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
 - [python-openxml/python-docx](https://github.com/python-openxml/python-docx) - Create and modify Word documents with Python
 - [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
@@ -376,7 +381,6 @@
 - [newpanjing/simpleui](https://github.com/newpanjing/simpleui) - A modern theme based on vue+element-ui for django admin.一款基于vue+element-ui的django admin现代化主题。全球20000+网站都在使用！喜欢可以点个star✨
 - [mtianyan/django-react-tyadmin](https://github.com/mtianyan/django-react-tyadmin) - 支持Python3.9,Django4! 类似 xadmin 的基于Model 快速生成前后台管理增删改查，筛选，搜索的后台管理自动化工具。Antd 界面好看现代化！前后端分离！无损二次开发！由Django Restful Framework 和 Ant Design Pro V4 驱动
 - [richcat-dev/richcat](https://github.com/richcat-dev/richcat) - rich cat command working on Python
-- [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [wustho/epy](https://github.com/wustho/epy) - CLI Ebook (epub2, epub3, fb2, mobi) Reader
 - [achembarpu/pockyt](https://github.com/achembarpu/pockyt) - Automate & manage your Pocket.com collection.
@@ -511,6 +515,7 @@
 ## Rust 
 
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
+- [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [Canop/clima](https://github.com/Canop/clima) - A minimal viewer for Termimad
 - [lunaryorn/mdcat](https://github.com/lunaryorn/mdcat) - cat for markdown
