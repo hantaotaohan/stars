@@ -366,6 +366,7 @@
 
 ## Python 
 
+- [alexsilva/django-xadmin](https://github.com/alexsilva/django-xadmin) - Drop-in replacement of Django admin comes with lots of goodies, fully extensible with plugin support, pretty UI based on Twitter Bootstrap.
 - [shamanu4/dal_admin_filters](https://github.com/shamanu4/dal_admin_filters) - Django autocomplete light filters for django admin
 - [mrts/django-admin-list-filter-dropdown](https://github.com/mrts/django-admin-list-filter-dropdown) - Use dropdowns in Django admin list filter
 - [carltongibson/django-filter](https://github.com/carltongibson/django-filter) - A generic system for filtering Django QuerySets based on user selections
