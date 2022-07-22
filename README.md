@@ -678,6 +678,8 @@
 
 ## Vim script 
 
+- [lambdalisue/fern-git-status.vim](https://github.com/lambdalisue/fern-git-status.vim) - 🌿  Add Git status badge integration on file:// scheme on fern.vim
+- [lambdalisue/fern.vim](https://github.com/lambdalisue/fern.vim) - 🌿 General purpose asynchronous tree viewer written in Pure Vim script
 - [tsony-tsonev/nerdtree-git-plugin](https://github.com/tsony-tsonev/nerdtree-git-plugin) - A plugin of NERDTree showing git status
 - [dkarter/bullets.vim](https://github.com/dkarter/bullets.vim) - 🔫 Bullets.vim is a Vim/NeoVim plugin for automated bullet lists.
 - [junegunn/vim-journal](https://github.com/junegunn/vim-journal) - :memo:
