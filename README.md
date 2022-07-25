@@ -678,6 +678,7 @@
 
 ## Vim script 
 
+- [svermeulen/vim-subversive](https://github.com/svermeulen/vim-subversive) - Vim plugin providing operator motions to quickly replace text
 - [lambdalisue/fern-git-status.vim](https://github.com/lambdalisue/fern-git-status.vim) - 🌿  Add Git status badge integration on file:// scheme on fern.vim
 - [lambdalisue/fern.vim](https://github.com/lambdalisue/fern.vim) - 🌿 General purpose asynchronous tree viewer written in Pure Vim script
 - [tsony-tsonev/nerdtree-git-plugin](https://github.com/tsony-tsonev/nerdtree-git-plugin) - A plugin of NERDTree showing git status
