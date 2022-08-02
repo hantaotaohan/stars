@@ -298,6 +298,7 @@
 
 ## Lua 
 
+- [vietanhvo/nvim](https://github.com/vietanhvo/nvim) - Neovim setup in my WSL
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 20ms to 70ms
 - [ecosse3/nvim](https://github.com/ecosse3/nvim) - A non-minimal Neovim config built to work most efficiently with Frontend Development - React & Vue.js
 - [glepnir/nvim](https://github.com/glepnir/nvim) - neovim configuration written in lua
