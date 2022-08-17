@@ -298,6 +298,7 @@
 
 ## Lua 
 
+- [petertriho/nvim-scrollbar](https://github.com/petertriho/nvim-scrollbar) - Extensible Neovim Scrollbar
 - [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
 - [imbacraft/dusk.nvim](https://github.com/imbacraft/dusk.nvim) - Dusk is a lightweight, aesthetically minimal Neovim config, written in Lua, able to provide for web and Java development.
 - [artart222/CodeArt](https://github.com/artart222/CodeArt) - Use NeoVim as general purpose IDE
@@ -494,7 +495,7 @@
 - [jszakmeister/markdown2ctags](https://github.com/jszakmeister/markdown2ctags) - Generate ctags-compatible tags files for Markdown documents.
 - [b-ryan/powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
 - [wistbean/learn_python3_spider](https://github.com/wistbean/learn_python3_spider) - python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式
-- [the0demiurge/ShadowSocksShare](https://github.com/the0demiurge/ShadowSocksShare) - Python爬虫/Flask网站/免费ShadowSocks账号/ssr订阅/json 订阅
+- [the0demiurge/ShadowSocksShare](https://github.com/the0demiurge/ShadowSocksShare) - (No longer maintained owing to the  lack of sufficient free ss accounts)Python爬虫/Flask网站/免费ShadowSocks账号/ssr订阅/json 订阅
 - [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
 - [NyanKiyoshi/SendKeys](https://github.com/NyanKiyoshi/SendKeys) - Original SendKeys project ported to Python3.4+
 - [SirVer/ultisnips](https://github.com/SirVer/ultisnips) - UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
