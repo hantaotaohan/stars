@@ -298,6 +298,7 @@
 
 ## Lua 
 
+- [aserowy/tmux.nvim](https://github.com/aserowy/tmux.nvim) - tmux integration for nvim features pane movement and resizing from within nvim.
 - [shaunsingh/nord.nvim](https://github.com/shaunsingh/nord.nvim) - Neovim theme based off of the Nord Color Palette, written in lua with tree sitter support
 - [nvim-pack/nvim-spectre](https://github.com/nvim-pack/nvim-spectre) - Find the enemy and replace them with dark power.
 - [ruifm/gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim) - A lua neovim plugin to generate shareable file permalinks (with line ranges) for several git web frontend hosts. Inspired by tpope/vim-fugitive's :GBrowse
@@ -313,7 +314,7 @@
 - [artart222/CodeArt](https://github.com/artart222/CodeArt) - Use NeoVim as general purpose IDE
 - [LunarVim/nvim-basic-ide](https://github.com/LunarVim/nvim-basic-ide) - This is my attempt at a basic stable starting point for a Neovim IDE.
 - [itsuki0927/SkCode](https://github.com/itsuki0927/SkCode) - SkCode = neovim + lua + vscode
-- [SebTalbot/NvComfyGuration](https://github.com/SebTalbot/NvComfyGuration) - Based on NvChad structural concepts
+- [SebTalbot/NvComfyGuration](https://github.com/SebTalbot/NvComfyGuration) - Lua configurations for Neovim
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - A Neovim config designed from scratch to be understandable
 - [vietanhvo/nvim](https://github.com/vietanhvo/nvim) - Neovim setup in my WSL
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms
