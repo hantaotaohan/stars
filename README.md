@@ -40,7 +40,7 @@
 - [TypeScript](#typescript)
 - [VBA](#vba)
 - [Vala](#vala)
-- [Vim script](#vim-script)
+- [Vim Script](#vim-script)
 - [Visual Basic](#visual-basic)
 - [Vue](#vue)
 
@@ -298,6 +298,8 @@
 
 ## Lua 
 
+- [Allaman/nvim](https://github.com/Allaman/nvim) - Straight forward and pure Lua based Neovim configuration for my work as DevOps/Cloud Engineer with batteries included for Python and Golang
+- [chentoast/marks.nvim](https://github.com/chentoast/marks.nvim) - A better user experience for viewing and interacting with Vim marks.
 - [aserowy/tmux.nvim](https://github.com/aserowy/tmux.nvim) - tmux integration for nvim features pane movement and resizing from within nvim.
 - [shaunsingh/nord.nvim](https://github.com/shaunsingh/nord.nvim) - Neovim theme based off of the Nord Color Palette, written in lua with tree sitter support
 - [nvim-pack/nvim-spectre](https://github.com/nvim-pack/nvim-spectre) - Find the enemy and replace them with dark power.
@@ -392,7 +394,6 @@
 
 ## Python 
 
-- [alexsilva/xadmin-gsearch-plugin](https://github.com/alexsilva/xadmin-gsearch-plugin) - global search for xadmin
 - [hakib/django-admin-lightweight-date-hierarchy](https://github.com/hakib/django-admin-lightweight-date-hierarchy) - Django Admin date_hierarchy with zero queries
 - [whoisashish/django-admin-searchable-dropdown](https://github.com/whoisashish/django-admin-searchable-dropdown) - A PyPi Project with a Django admin filter implementation that renders as a searchable select field dropdown.
 - [alexsilva/django-xadmin](https://github.com/alexsilva/django-xadmin) - Drop-in replacement of Django admin comes with lots of goodies, fully extensible with plugin support, pretty UI based on Twitter Bootstrap.
@@ -583,6 +584,7 @@
 
 ## Shell 
 
+- [AhmedAbdulrahman/dotfiles](https://github.com/AhmedAbdulrahman/dotfiles) - ❤ ~/.🛠 macOS / Ubuntu  \[._.]/ files
 - [roosta/tmux-pop](https://github.com/roosta/tmux-pop) - Tmux plugin that flashes the active pane on change
 - [BachoSeven/dotfiles](https://github.com/BachoSeven/dotfiles) - rice repo
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
@@ -702,7 +704,7 @@
 - [teejee2008/timeshift](https://github.com/teejee2008/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be resto
 - [babluboy/bookworm](https://github.com/babluboy/bookworm) - A simple ebook reader for Elementary OS
 
-## Vim script 
+## Vim Script 
 
 - [morhetz/gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim
 - [svermeulen/vim-subversive](https://github.com/svermeulen/vim-subversive) - Vim plugin providing operator motions to quickly replace text
