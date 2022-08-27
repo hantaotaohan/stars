@@ -394,6 +394,7 @@
 
 ## Python 
 
+- [awnion/custom-iosevka-nerd-font](https://github.com/awnion/custom-iosevka-nerd-font) - Custom version of Iosevka font with Nerd Font Icons
 - [hakib/django-admin-lightweight-date-hierarchy](https://github.com/hakib/django-admin-lightweight-date-hierarchy) - Django Admin date_hierarchy with zero queries
 - [whoisashish/django-admin-searchable-dropdown](https://github.com/whoisashish/django-admin-searchable-dropdown) - A PyPi Project with a Django admin filter implementation that renders as a searchable select field dropdown.
 - [alexsilva/django-xadmin](https://github.com/alexsilva/django-xadmin) - Drop-in replacement of Django admin comes with lots of goodies, fully extensible with plugin support, pretty UI based on Twitter Bootstrap.
@@ -726,7 +727,7 @@
 - [mhinz/vim-sayonara](https://github.com/mhinz/vim-sayonara) - :japanese_goblin: Sane buffer/window deletion.
 - [arcticicestudio/nord-vim](https://github.com/arcticicestudio/nord-vim) - An arctic, north-bluish clean and elegant Vim theme.
 - [andymass/vim-matchup](https://github.com/andymass/vim-matchup) - vim match-up: even better % :facepunch: navigate and highlight matching words :facepunch: modern matchit and matchparen
-- [smkent/vim-pipe-preview](https://github.com/smkent/vim-pipe-preview) - Pipe a vim buffer through an external command and view the results in a scrollbind split
+- [smkent/vim-pipe-preview](https://github.com/smkent/vim-pipe-preview) - 📝 🔍 Pipe a vim buffer through an external command and view the results in a scrollbind split
 - [jaredgorski/fogbell.vim](https://github.com/jaredgorski/fogbell.vim) - 
 - [brglng/vim-sidebar-manager](https://github.com/brglng/vim-sidebar-manager) - The missing sidebar manager for Vim/Neovim
 - [neomake/neomake](https://github.com/neomake/neomake) - Asynchronous linting and make framework for Neovim/Vim
