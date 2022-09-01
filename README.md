@@ -585,6 +585,7 @@
 
 ## Shell 
 
+- [laishulu/Sarasa-Mono-SC-Nerd](https://github.com/laishulu/Sarasa-Mono-SC-Nerd) - 简体中文等距更纱黑体+Nerd图标字体库。中英文宽度完美2:1，图标长宽经过调整，不会出现对齐问题，尤其适合作为终端字体。
 - [AhmedAbdulrahman/dotfiles](https://github.com/AhmedAbdulrahman/dotfiles) - ❤ ~/.🛠 macOS / Ubuntu  \[._.]/ files
 - [roosta/tmux-pop](https://github.com/roosta/tmux-pop) - Tmux plugin that flashes the active pane on change
 - [BachoSeven/dotfiles](https://github.com/BachoSeven/dotfiles) - rice repo
@@ -593,7 +594,6 @@
 - [meribold/dotfiles](https://github.com/meribold/dotfiles) - Dotfiles for Vim, Neovim, i3-gaps, NeoMutt, Bash, … :penguin:
 - [tj/mad](https://github.com/tj/mad) - mad(1) is a markdown manual page viewer
 - [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
-- [laishulu/Sarasa-Mono-SC-Nerd](https://github.com/laishulu/Sarasa-Mono-SC-Nerd) - 简体中文等距更纱黑体+Nerd图标字体库。中英文宽度完美2:1，图标长宽经过调整，不会出现对齐问题，尤其适合作为终端字体。
 - [trapd00r/LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
 - [sdushantha/farge](https://github.com/sdushantha/farge) - Click on a pixel on your screen and show its color value
 - [salman-abedin/bolt](https://github.com/salman-abedin/bolt) - Launcher wrapper for a lightning fast Unix workflow
@@ -675,6 +675,7 @@
 
 ## TypeScript 
 
+- [Mereithhh/van-blog](https://github.com/Mereithhh/van-blog) - 一款简洁实用优雅的高性能个人博客系统
 - [inventare/django-image-uploader-widget](https://github.com/inventare/django-image-uploader-widget) - A beautiful image uploader widget for django and django-admin
 - [vipzhicheng/logseq-plugin-vim-shortcuts](https://github.com/vipzhicheng/logseq-plugin-vim-shortcuts) - Add part of VIM key bindings experience to Logseq
 - [aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.
