@@ -298,6 +298,9 @@
 
 ## Lua 
 
+- [ChristianChiarulli/nvim](https://github.com/ChristianChiarulli/nvim) - My neovim config
+- [fgheng/winbar.nvim](https://github.com/fgheng/winbar.nvim) - winbar config for neovim
+- [b0o/incline.nvim](https://github.com/b0o/incline.nvim) - 🎈 Floating winbar statuslines for Neovim
 - [Allaman/nvim](https://github.com/Allaman/nvim) - Straight forward and pure Lua based Neovim configuration for my work as DevOps/Cloud Engineer with batteries included for Python and Golang
 - [chentoast/marks.nvim](https://github.com/chentoast/marks.nvim) - A better user experience for viewing and interacting with Vim marks.
 - [aserowy/tmux.nvim](https://github.com/aserowy/tmux.nvim) - tmux integration for nvim features pane movement and resizing from within nvim.
