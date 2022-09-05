@@ -298,6 +298,7 @@
 
 ## Lua 
 
+- [anuvyklack/pretty-fold.nvim](https://github.com/anuvyklack/pretty-fold.nvim) - Foldtext customization and folded region preview in Neovim
 - [ChristianChiarulli/nvim](https://github.com/ChristianChiarulli/nvim) - My neovim config
 - [fgheng/winbar.nvim](https://github.com/fgheng/winbar.nvim) - winbar config for neovim
 - [b0o/incline.nvim](https://github.com/b0o/incline.nvim) - 🎈 Floating winbar statuslines for Neovim
