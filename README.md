@@ -249,6 +249,7 @@
 
 - [shkreios/django-admin-multiselect](https://github.com/shkreios/django-admin-multiselect) - 
 - [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
+- [inventare/django-image-uploader-widget](https://github.com/inventare/django-image-uploader-widget) - A beautiful image uploader widget for django and django-admin
 - [pengx17/logseq-publish](https://github.com/pengx17/logseq-publish) - Logseq Publish Action
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.
 - [njleonzhang/docsify-edit-on-github](https://github.com/njleonzhang/docsify-edit-on-github) - 
@@ -298,6 +299,7 @@
 
 ## Lua 
 
+- [renerocksai/telekasten.nvim](https://github.com/renerocksai/telekasten.nvim) - A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim
 - [anuvyklack/pretty-fold.nvim](https://github.com/anuvyklack/pretty-fold.nvim) - Foldtext customization and folded region preview in Neovim
 - [ChristianChiarulli/nvim](https://github.com/ChristianChiarulli/nvim) - My neovim config
 - [fgheng/winbar.nvim](https://github.com/fgheng/winbar.nvim) - winbar config for neovim
@@ -327,7 +329,6 @@
 - [ecosse3/nvim](https://github.com/ecosse3/nvim) - A non-minimal Neovim config built to work most efficiently with Frontend Development - React & Vue.js
 - [glepnir/nvim](https://github.com/glepnir/nvim) - neovim configuration written in lua
 - [ayamir/nvimdots](https://github.com/ayamir/nvimdots) - A well configured and structured Neovim.
-- [renerocksai/telekasten.nvim](https://github.com/renerocksai/telekasten.nvim) - A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim
 - [knmac/.dotfiles](https://github.com/knmac/.dotfiles) - 
 - [foo-dogsquared/dotfiles](https://github.com/foo-dogsquared/dotfiles) - My dotfiles for my Linux-based system setup.
 - [luakit/luakit](https://github.com/luakit/luakit) - Fast, small, webkit based browser framework extensible by Lua.
@@ -680,7 +681,6 @@
 ## TypeScript 
 
 - [Mereithhh/van-blog](https://github.com/Mereithhh/van-blog) - 一款简洁实用优雅的高性能个人博客系统
-- [inventare/django-image-uploader-widget](https://github.com/inventare/django-image-uploader-widget) - A beautiful image uploader widget for django and django-admin
 - [vipzhicheng/logseq-plugin-vim-shortcuts](https://github.com/vipzhicheng/logseq-plugin-vim-shortcuts) - Add part of VIM key bindings experience to Logseq
 - [aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.
 - [dephraiim/termd](https://github.com/dephraiim/termd) - Render markdown in the terminal
