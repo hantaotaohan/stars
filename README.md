@@ -74,6 +74,7 @@
 
 ## C 
 
+- [mmhobi7/xwinwrap](https://github.com/mmhobi7/xwinwrap) - X11 Window in desktop enviroment background
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [resurrecting-open-source-projects/scrot](https://github.com/resurrecting-open-source-projects/scrot) - SCReenshOT - command line screen capture utility
 - [bakkeby/slock-flexipatch](https://github.com/bakkeby/slock-flexipatch) - An slock build with preprocessor directives to decide which patches to include during build time
@@ -299,6 +300,9 @@
 
 ## Lua 
 
+- [rafcamlet/simple-wiki.nvim](https://github.com/rafcamlet/simple-wiki.nvim) - Simple note system via linking markdown files in wiki style
+- [ayamir/nvimdots](https://github.com/ayamir/nvimdots) - A well configured and structured Neovim.
+- [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
 - [renerocksai/telekasten.nvim](https://github.com/renerocksai/telekasten.nvim) - A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim
 - [anuvyklack/pretty-fold.nvim](https://github.com/anuvyklack/pretty-fold.nvim) - Foldtext customization and folded region preview in Neovim
 - [ChristianChiarulli/nvim](https://github.com/ChristianChiarulli/nvim) - My neovim config
@@ -328,7 +332,6 @@
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms
 - [ecosse3/nvim](https://github.com/ecosse3/nvim) - A non-minimal Neovim config built to work most efficiently with Frontend Development - React & Vue.js
 - [glepnir/nvim](https://github.com/glepnir/nvim) - neovim configuration written in lua
-- [ayamir/nvimdots](https://github.com/ayamir/nvimdots) - A well configured and structured Neovim.
 - [knmac/.dotfiles](https://github.com/knmac/.dotfiles) - 
 - [foo-dogsquared/dotfiles](https://github.com/foo-dogsquared/dotfiles) - My dotfiles for my Linux-based system setup.
 - [luakit/luakit](https://github.com/luakit/luakit) - Fast, small, webkit based browser framework extensible by Lua.
