@@ -230,6 +230,7 @@
 
 ## Haskell 
 
+- [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote)
 - [phuhl/linux_notification_center](https://github.com/phuhl/linux_notification_center) - A notification daemon/center for linux
 
 ## Inno Setup 
@@ -300,6 +301,7 @@
 
 ## Lua 
 
+- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for NeoVim
 - [rafcamlet/simple-wiki.nvim](https://github.com/rafcamlet/simple-wiki.nvim) - Simple note system via linking markdown files in wiki style
 - [ayamir/nvimdots](https://github.com/ayamir/nvimdots) - A well configured and structured Neovim.
 - [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
