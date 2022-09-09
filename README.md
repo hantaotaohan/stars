@@ -251,7 +251,6 @@
 
 - [shkreios/django-admin-multiselect](https://github.com/shkreios/django-admin-multiselect) - 
 - [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
-- [inventare/django-image-uploader-widget](https://github.com/inventare/django-image-uploader-widget) - A beautiful image uploader widget for django and django-admin
 - [pengx17/logseq-publish](https://github.com/pengx17/logseq-publish) - Logseq Publish Action
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.
 - [njleonzhang/docsify-edit-on-github](https://github.com/njleonzhang/docsify-edit-on-github) - 
@@ -301,6 +300,8 @@
 
 ## Lua 
 
+- [askfiy/nvim](https://github.com/askfiy/nvim) - An excellent Neovim configuration, which is as powerful as Vscode, is lightning fast ⚡
+- [edluffy/specs.nvim](https://github.com/edluffy/specs.nvim) - 👓 A fast and lightweight Neovim lua plugin to keep an eye on where your cursor has jumped.
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for NeoVim
 - [rafcamlet/simple-wiki.nvim](https://github.com/rafcamlet/simple-wiki.nvim) - Simple note system via linking markdown files in wiki style
 - [ayamir/nvimdots](https://github.com/ayamir/nvimdots) - A well configured and structured Neovim.
@@ -414,6 +415,7 @@
 - [Alir3z4/django-cuser](https://github.com/Alir3z4/django-cuser) - Middleware to make authentication data easily available to all parts of a django project
 - [python-openxml/python-docx](https://github.com/python-openxml/python-docx) - Create and modify Word documents with Python
 - [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
+- [inventare/django-image-uploader-widget](https://github.com/inventare/django-image-uploader-widget) - A beautiful image uploader widget for django and django-admin
 - [zostera/django-bootstrap5](https://github.com/zostera/django-bootstrap5) - Bootstrap 5 for Django
 - [jieter/django-tables2](https://github.com/jieter/django-tables2) - django-tables2 - An app for creating HTML tables
 - [asyncee/django-easy-select2](https://github.com/asyncee/django-easy-select2) - Select2 input widget for django selectable fields.
