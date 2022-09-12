@@ -296,7 +296,7 @@
 - [yeayee/joyful-pandas](https://github.com/yeayee/joyful-pandas) - Pandas中文教程
 - [DonaldDai/Bokeh-CN](https://github.com/DonaldDai/Bokeh-CN) - Bokeh中文文档（翻译中）
 - [weidylan/Office_Automation_by_Using_Python](https://github.com/weidylan/Office_Automation_by_Using_Python) - Office Automation by Using Pythonf (For Excel, Word, PPT and PDF .....)
-- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly deliver value with ML.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly deliver value with machine learning.
 
 ## Lua 
 
