@@ -300,6 +300,9 @@
 
 ## Lua 
 
+- [lukas-reineke/headlines.nvim](https://github.com/lukas-reineke/headlines.nvim) - This plugin adds horizontal highlights for text filetypes, like markdown, orgmode, and neorg.
+- [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context
+- [zhaozg/neospace](https://github.com/zhaozg/neospace) - 
 - [Pocco81/true-zen.nvim](https://github.com/Pocco81/true-zen.nvim) - 🦝 Clean and elegant distraction-free writing for NeoVim
 - [keaising/im-select.nvim](https://github.com/keaising/im-select.nvim) - Switch Input Method automatically depends on Neovim's edit mode
 - [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim) - Neovim motions on speed!
@@ -316,7 +319,7 @@
 - [ayamir/nvimdots](https://github.com/ayamir/nvimdots) - A well configured and structured Neovim.
 - [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
 - [renerocksai/telekasten.nvim](https://github.com/renerocksai/telekasten.nvim) - A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim
-- [anuvyklack/pretty-fold.nvim](https://github.com/anuvyklack/pretty-fold.nvim) - Foldtext customization and folded region preview in Neovim
+- [anuvyklack/pretty-fold.nvim](https://github.com/anuvyklack/pretty-fold.nvim) - Foldtext customization in Neovim
 - [ChristianChiarulli/nvim](https://github.com/ChristianChiarulli/nvim) - My neovim config
 - [fgheng/winbar.nvim](https://github.com/fgheng/winbar.nvim) - winbar config for neovim
 - [b0o/incline.nvim](https://github.com/b0o/incline.nvim) - 🎈 Floating winbar statuslines for Neovim
@@ -349,7 +352,6 @@
 - [luakit/luakit](https://github.com/luakit/luakit) - Fast, small, webkit based browser framework extensible by Lua.
 - [romgrk/barbar.nvim](https://github.com/romgrk/barbar.nvim) - The neovim tabline plugin.
 - [Xuyuanp/scrollbar.nvim](https://github.com/Xuyuanp/scrollbar.nvim) - scrollbar for neovim
-- [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context
 - [nacro90/numb.nvim](https://github.com/nacro90/numb.nvim) - Peek lines just when you intend
 - [RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate) - illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the cursor using either LSP, Tree-sitter, or regex matching.
 - [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim) - vim dashboard
