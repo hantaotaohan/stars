@@ -162,7 +162,7 @@
 
 ## CSS 
 
-- [fabiocaccamo/django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) - :mage::zap: django's default admin interface made customizable. popup windows replaced by modals.
+- [fabiocaccamo/django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) - :mage: :zap: django's default admin interface made customizable. popup windows replaced by modals.
 - [viewflow/django-material](https://github.com/viewflow/django-material) - Material Design for Django
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [cannibalox/logseq-dark-hpx](https://github.com/cannibalox/logseq-dark-hpx) - CSS snippets and themes for www.logseq.com
@@ -199,6 +199,7 @@
 
 ## Go 
 
+- [git-cloner/gitcache](https://github.com/git-cloner/gitcache) - When clone from github.com, build mirror cache to improve clone speed
 - [mickael-menu/zk](https://github.com/mickael-menu/zk) - A plain text note-taking assistant
 - [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀
 - [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
