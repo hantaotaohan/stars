@@ -301,6 +301,7 @@
 
 ## Lua 
 
+- [gen740/config.nvim](https://github.com/gen740/config.nvim) - 
 - [mnowotnik/noteflow.nvim](https://github.com/mnowotnik/noteflow.nvim) - Neovim plugin that streamlines taking notes
 - [lukas-reineke/headlines.nvim](https://github.com/lukas-reineke/headlines.nvim) - This plugin adds horizontal highlights for text filetypes, like markdown, orgmode, and neorg.
 - [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context
@@ -421,7 +422,7 @@
 ## Python 
 
 - [yihong0618/Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper) - Download all your kindle books script.
-- [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR批量图片转文字识别软件，带界面，离线运行。可排除图片中水印区域的干扰，提取干净的文本。基于 PaddleOCR 。
+- [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR批量图片转文字识别软件，带界面，离线运行。可排除图片中水印区域的干扰，提取干净的文本。可智能合并段落。基于 PaddleOCR 。
 - [awnion/custom-iosevka-nerd-font](https://github.com/awnion/custom-iosevka-nerd-font) - Custom version of Iosevka font with Nerd Font Icons
 - [hakib/django-admin-lightweight-date-hierarchy](https://github.com/hakib/django-admin-lightweight-date-hierarchy) - Django Admin date_hierarchy with zero queries
 - [whoisashish/django-admin-searchable-dropdown](https://github.com/whoisashish/django-admin-searchable-dropdown) - A PyPi Project with a Django admin filter implementation that renders as a searchable select field dropdown.
