@@ -51,6 +51,7 @@
 
 ## AutoHotkey 
 
+- [FelixBrendel/pok3r](https://github.com/FelixBrendel/pok3r) - Use a normal Keyboard as if it was a Vortex Poker 3
 - [fuhsjr00/bug.n](https://github.com/fuhsjr00/bug.n) - Tiling Window Manager for Windows
 - [majorworld/Pet](https://github.com/majorworld/Pet) - 键盘代替鼠标
 - [victorwoo/vimdesktop](https://github.com/victorwoo/vimdesktop) - 让所有 Windows 桌面程序拥有 Vim 操作风格的辅助工具
