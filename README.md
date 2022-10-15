@@ -804,7 +804,7 @@
 - [bagrat/vim-buffet](https://github.com/bagrat/vim-buffet) - IDE-like Vim tabline
 - [tyru/closesubwin.vim](https://github.com/tyru/closesubwin.vim) - Close sub window without jumping to the window (help,quickfix,unlisted buffer supported)
 - [Asheq/close-buffers.vim](https://github.com/Asheq/close-buffers.vim) - :book: Quickly close (bdelete) several buffers at once 📕
-- [aonemd/kuroi.vim](https://github.com/aonemd/kuroi.vim) - A very dark colorscheme for Vim
+- [aonemd/kuroi.vim](https://github.com/aonemd/kuroi.vim) - A very dark colorscheme for Vim. JOIN THE DARK SIDE!
 - [eugen0329/vim-esearch](https://github.com/eugen0329/vim-esearch) - Perform search in files easily
 - [HustLion/q-quit](https://github.com/HustLion/q-quit) - q to smart quit.
 - [pacha/vem-tabline](https://github.com/pacha/vem-tabline) - A lightweight Vim/Neovim plugin to display buffers and tabs in the tabline
