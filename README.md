@@ -626,6 +626,7 @@
 
 ## Shell 
 
+- [CharlesChiuGit/Logseq-Git-Sync-101](https://github.com/CharlesChiuGit/Logseq-Git-Sync-101) - This repo aims to help Logseq users to sync their data with Git and GitHub.
 - [laishulu/Sarasa-Mono-SC-Nerd](https://github.com/laishulu/Sarasa-Mono-SC-Nerd) - 简体中文等距更纱黑体+Nerd图标字体库。中英文宽度完美2:1，图标长宽经过调整，不会出现对齐问题，尤其适合作为终端字体。
 - [AhmedAbdulrahman/dotfiles](https://github.com/AhmedAbdulrahman/dotfiles) - ❤ ~/.🛠 macOS / Ubuntu  \[._.]/ files
 - [roosta/tmux-pop](https://github.com/roosta/tmux-pop) - Tmux plugin that flashes the active pane on change
