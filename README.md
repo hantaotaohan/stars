@@ -430,6 +430,7 @@
 
 ## Python 
 
+- [Algebra-FUN/WeReadScan](https://github.com/Algebra-FUN/WeReadScan) - 扫描“微信读书”已购图书并下载本地PDF的爬虫
 - [blackholll/loonflow](https://github.com/blackholll/loonflow) - 基于django的工作流引擎,工单(a workflow engine base on django python)
 - [yihong0618/Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper) - Download all your kindle books script.
 - [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、智能排版合并段落、适应横/竖排文字。可排除水印区域，提取干净的文本。基于 PaddleOCR 。
