@@ -258,6 +258,7 @@
 
 ## JavaScript 
 
+- [hedongshu/miniapp-coupons](https://github.com/hedongshu/miniapp-coupons) - 原生小程序云开发，别人领外卖券，你拿佣金，轻松赚个零花钱
 - [HunterXuan/E-Coupon](https://github.com/HunterXuan/E-Coupon) - 基于淘客助手API和淘宝官方API的领优惠券小程序
 - [shkreios/django-admin-multiselect](https://github.com/shkreios/django-admin-multiselect) - 
 - [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
@@ -273,7 +274,6 @@
 - [bayleeadamoss/zazu](https://github.com/bayleeadamoss/zazu) - :rocket: A fully extensible and open source launcher for hackers, creators and dabblers.
 - [linonetwo/zazu](https://github.com/linonetwo/zazu) - :rocket: A fully extensible and open source launcher for hackers, creators and dabblers. (my PR is merged! download latest one in the website!)
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
-- [hedongshu/miniapp-coupons](https://github.com/hedongshu/miniapp-coupons) - 原生小程序云开发，别人领外卖券，你拿佣金，轻松赚个零花钱
 - [djk2/django-tables2-column-shifter](https://github.com/djk2/django-tables2-column-shifter) - Simple extension for django-tables2 can dynamically show or hide columns. Using JQuery, Bootstrap 3, Bootstrap 4, Bootstrap 5 and Django &gt;=1.9
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - Open-source productivity booster with a brain
 - [zenghongtu/saladict-desktop](https://github.com/zenghongtu/saladict-desktop) - ✨✨桌面划词与翻译工具，聚合了 N 多词典，功能强大，支持 Windows 、 Mac 和 Linux。
