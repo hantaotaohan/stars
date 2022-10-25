@@ -310,6 +310,7 @@
 
 ## Lua 
 
+- [lewis6991/satellite.nvim](https://github.com/lewis6991/satellite.nvim) - Decorate scrollbar for Neovim
 - [ginsburgnm/rich.nvim](https://github.com/ginsburgnm/rich.nvim) - A rich-cli preview directly in your neovim buffer.
 - [sunjon/Shade.nvim](https://github.com/sunjon/Shade.nvim) - An Nvim lua plugin that dims your inactive windows
 - [gen740/config.nvim](https://github.com/gen740/config.nvim) - 
@@ -835,7 +836,7 @@
 - [lukhio/vim-mapping-conflicts](https://github.com/lukhio/vim-mapping-conflicts) - A Vim plugin to detect conflicts in key mapping
 - [ppwwyyxx/vim-PinyinSearch](https://github.com/ppwwyyxx/vim-PinyinSearch) - help vim search Chinese by Pinyin
 - [fgheng/vime](https://github.com/fgheng/vime) - vime, an easy and structural config for (neo)vim users
-- [md-img-paste-devs/md-img-paste.vim](https://github.com/md-img-paste-devs/md-img-paste.vim) - paste image to markdown
+- [img-paste-devs/img-paste.vim](https://github.com/img-paste-devs/img-paste.vim) - paste image to markdown
 - [brooth/far.vim](https://github.com/brooth/far.vim) - Find And Replace Vim plugin
 - [vimoutliner/vimoutliner](https://github.com/vimoutliner/vimoutliner) - Work fast, think well.
 - [easymotion/vim-easymotion](https://github.com/easymotion/vim-easymotion) - Vim motions on speed!
