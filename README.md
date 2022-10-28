@@ -258,6 +258,7 @@
 
 ## JavaScript 
 
+- [Yonatan-D/WiFiConnector](https://github.com/Yonatan-D/WiFiConnector) - 📱一个简单的扫码连接WiFi的微信小程序
 - [oubingbing/screenshots](https://github.com/oubingbing/screenshots) - 恶搞截图，一个可以生成微信聊天或者红包等功能的微信小程序
 - [kesixin/ReadWechatApp](https://github.com/kesixin/ReadWechatApp) - 免费小说阅读小程序
 - [sesine/wechat-weapp-movie](https://github.com/sesine/wechat-weapp-movie) - 🎬电影推荐 - 微信小程序
