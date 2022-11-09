@@ -439,6 +439,7 @@
 
 ## Python 
 
+- [adamchainz/django-browser-reload](https://github.com/adamchainz/django-browser-reload) - Automatically reload your browser in development.
 - [Algebra-FUN/WeReadScan](https://github.com/Algebra-FUN/WeReadScan) - 扫描“微信读书”已购图书并下载本地PDF的爬虫
 - [blackholll/loonflow](https://github.com/blackholll/loonflow) - 基于django的工作流引擎,工单(a workflow engine base on django python)
 - [yihong0618/Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper) - Download all your kindle books script.
