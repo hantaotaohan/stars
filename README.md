@@ -406,6 +406,7 @@
 - [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) - Awesome Logseq resources created by the community &lt;3
 - [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
 - [yohasebe/fzf-alfred-workflow](https://github.com/yohasebe/fzf-alfred-workflow) - An Alfred workflow fo fuzzy find files/directories using fzf and fd.
+- [seebye/ueberzug](https://github.com/seebye/ueberzug) - 
 - [changeforan/xnhe](https://github.com/changeforan/xnhe) - 
 - [apppay/pay](https://github.com/apppay/pay) - 微信/支付宝/h5/收款监控/个人收款,无需签约支付宝/微信支付,支付宝支付/微信支付的个人账户，提供即时到账收款API接口
 - [whitelok/watermark-remover](https://github.com/whitelok/watermark-remover) - Remove watermark automatically(Just can use for fixed position watermark till now). 自动水印消除算法的实现（目前只支持固定水印位置）。
@@ -500,7 +501,6 @@
 - [mjohanning99/dotfiles](https://github.com/mjohanning99/dotfiles) - 
 - [eihli/image-table-ocr](https://github.com/eihli/image-table-ocr) - Turn images of tables into CSV data. Detect tables from images and run OCR on the cells.
 - [trmckay/fzf-open](https://github.com/trmckay/fzf-open) - Use fzf to open files in appropriate applications (a la macOS Spotlight)
-- [seebye/ueberzug](https://github.com/seebye/ueberzug) - ueberzug is a command line util which allows to display images in combination with X11. The user is expected to have knowledge of theoretical computer science. https://github.com/seebye/ueberzug/wiki/
 - [nwg-piotr/nwg-panel](https://github.com/nwg-piotr/nwg-panel) - GTK3-based panel for sway window manager
 - [django-extensions/django-extensions](https://github.com/django-extensions/django-extensions) - This is a repository for collecting global custom management extensions for the Django Framework.
 - [mtianyan/VueDjangoAntdProBookShop](https://github.com/mtianyan/VueDjangoAntdProBookShop) - Vue前台 + Django3.1 + DjangoRestful Framework + Ant Design Pro V4 开发的二手书商城网站及后台管理
