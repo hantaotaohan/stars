@@ -767,7 +767,7 @@
 
 ## Vim Script 
 
-- [brglng/vim-im-select](https://github.com/brglng/vim-im-select) - Improve Vim/Neovim experience with input methods.
+- [zhaosheng-pan/vim-im-select](https://github.com/zhaosheng-pan/vim-im-select) - Improve Vim/Neovim experience with input methods.
 - [hotoo/pangu.vim](https://github.com/hotoo/pangu.vim) - 『盘古之白』中文排版自动规范化的 Vim 插件
 - [morhetz/gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim
 - [svermeulen/vim-subversive](https://github.com/svermeulen/vim-subversive) - Vim plugin providing operator motions to quickly replace text
@@ -791,7 +791,7 @@
 - [andymass/vim-matchup](https://github.com/andymass/vim-matchup) - vim match-up: even better % :facepunch: navigate and highlight matching words :facepunch: modern matchit and matchparen.  Supports both vim and neovim + tree-sitter.
 - [smkent/vim-pipe-preview](https://github.com/smkent/vim-pipe-preview) - 📝 🔍 Pipe a vim buffer through an external command and view the results in a scrollbind split
 - [jaredgorski/fogbell.vim](https://github.com/jaredgorski/fogbell.vim) - 
-- [brglng/vim-sidebar-manager](https://github.com/brglng/vim-sidebar-manager) - The missing sidebar manager for Vim/Neovim
+- [zhaosheng-pan/vim-sidebar-manager](https://github.com/zhaosheng-pan/vim-sidebar-manager) - The missing sidebar manager for Vim/Neovim
 - [neomake/neomake](https://github.com/neomake/neomake) - Asynchronous linting and make framework for Neovim/Vim
 - [romgrk/doom-one.vim](https://github.com/romgrk/doom-one.vim) - A dark colorschme for vim, ported from doom-emacs' doom-one theme.
 - [simeji/winresizer](https://github.com/simeji/winresizer) - very simple vim plugin for easy resizing of your vim windows
