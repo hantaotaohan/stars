@@ -442,6 +442,7 @@
 
 ## Python 
 
+- [tldr-pages/tldr-python-client](https://github.com/tldr-pages/tldr-python-client) - Python command-line client for tldr pages
 - [smahesh29/Django-WebApp](https://github.com/smahesh29/Django-WebApp) - This is a web-app created using Python, Django. By using this user can login, upload files and also can view and download files uploaded by other users.
 - [adamchainz/django-browser-reload](https://github.com/adamchainz/django-browser-reload) - Automatically reload your browser in development.
 - [Algebra-FUN/WeReadScan](https://github.com/Algebra-FUN/WeReadScan) - 扫描“微信读书”已购图书并下载本地PDF的爬虫
@@ -598,6 +599,7 @@
 
 ## Rust 
 
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [wfxr/code-minimap](https://github.com/wfxr/code-minimap) - 🛰  A high performance code minimap render.
