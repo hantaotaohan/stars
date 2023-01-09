@@ -663,14 +663,14 @@
 - [ArnaudLevaufre/dotfiles](https://github.com/ArnaudLevaufre/dotfiles) - Configuration files I use to setup my workstations
 - [czardien/fmenu](https://github.com/czardien/fmenu) - A fzf-based implementation of a dmenu application.
 - [apathor/cz](https://github.com/apathor/cz) - Abstraction over line selection utilities - plus handy plugins!
-- [cirala/vifmimg](https://github.com/cirala/vifmimg) - Image previews for Vifm (vi file manager) using Überzug
+- [thimc/vifmimg](https://github.com/thimc/vifmimg) - Image previews for Vifm (vi file manager) using Überzug
 - [gerardbm/dotfiles](https://github.com/gerardbm/dotfiles) - My *NIX dotfiles [i3wm, URxvt, tmux, zsh, rofi, cmus, irssi, vifm, mutt, feh, mpv, newsbeuter]
 - [Chrysostomus/bspwm-scripts](https://github.com/Chrysostomus/bspwm-scripts) - 
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [nvim-telescope/telescope-media-files.nvim](https://github.com/nvim-telescope/telescope-media-files.nvim) - Telescope extension to preview media files using Ueberzug.
 - [noctuid/tdrop](https://github.com/noctuid/tdrop) - A Glorified WM-Independent Dropdown Creator
 - [Epictek/Fuzzy-CEDICT](https://github.com/Epictek/Fuzzy-CEDICT) - Basic English to Chinese Dictionary viewer for bash using the CC-CEDICT database with a choice of frontends including rofi and fzf.
-- [cirala/lfimg](https://github.com/cirala/lfimg) - Image preview support for lf (list files) using Überzug
+- [thimc/lfimg](https://github.com/thimc/lfimg) - Image preview support for lf (list files) using Überzug
 - [matclab/rofi-file-selector](https://github.com/matclab/rofi-file-selector) - A script to quickly search and open a file with Rofi. Mirror of https://gitlab.com/matclab/rofi-file-selector
 - [alansarkar/Rofi-fuzzy-finder-Launcher-](https://github.com/alansarkar/Rofi-fuzzy-finder-Launcher-) - Search  and launch applications from command-line or desktop keybinding.
 - [chmouel/batzconverter](https://github.com/chmouel/batzconverter) - If batman needed a tz converter to show times between different timezones that would be it 🦇
