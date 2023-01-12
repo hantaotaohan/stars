@@ -599,6 +599,7 @@
 
 ## Rust 
 
+- [rhysd/hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search results
 - [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
@@ -613,7 +614,6 @@
 - [foxfriends/paper-terminal](https://github.com/foxfriends/paper-terminal) - Print Markdown to a paper in your terminal
 - [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
 - [Canop/termimad](https://github.com/Canop/termimad) - A library to display rich (Markdown) snippets and texts in a rust terminal application
-- [rhysd/hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search results
 - [isamert/marks](https://github.com/isamert/marks) - A reasonably fast markup semantic search tool
 - [DreamSaddle/youdao-dict](https://github.com/DreamSaddle/youdao-dict) - YDict is a dictionary/translation tool developed by Rust+Qt
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
