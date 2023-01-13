@@ -76,6 +76,7 @@
 
 ## C 
 
+- [rdfewxf/xcape](https://github.com/rdfewxf/xcape) - Linux utility to configure modifier keys to act as other keys when pressed and released on their own.
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
 - [mmhobi7/xwinwrap](https://github.com/mmhobi7/xwinwrap) - X11 Window in desktop enviroment background
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -644,6 +645,7 @@
 
 ## Shell 
 
+- [alexandre-labs/caps2esc](https://github.com/alexandre-labs/caps2esc) - A lazy way to configure the capslock key as ESC + Ctrl
 - [dianariyanto/virtual-display-linux](https://github.com/dianariyanto/virtual-display-linux) - Create virtual display / monitor on linux OS for extended display via teamviewer or vnc server without any real Monitor is Plugged In.
 - [kazhala/dotbare](https://github.com/kazhala/dotbare) - Manage dotfiles and any git directories interactively with fzf
 - [sainnhe/dotfiles](https://github.com/sainnhe/dotfiles) - My Dotfiles (Containerized)
