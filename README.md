@@ -645,6 +645,7 @@
 
 ## Shell 
 
+- [pipeseroni/pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver
 - [alexandre-labs/caps2esc](https://github.com/alexandre-labs/caps2esc) - A lazy way to configure the capslock key as ESC + Ctrl
 - [dianariyanto/virtual-display-linux](https://github.com/dianariyanto/virtual-display-linux) - Create virtual display / monitor on linux OS for extended display via teamviewer or vnc server without any real Monitor is Plugged In.
 - [kazhala/dotbare](https://github.com/kazhala/dotbare) - Manage dotfiles and any git directories interactively with fzf
