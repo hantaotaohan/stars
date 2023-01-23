@@ -443,6 +443,7 @@
 
 ## Python 
 
+- [nikhgupta/dotfiles](https://github.com/nikhgupta/dotfiles) - My Dot Castle
 - [tldr-pages/tldr-python-client](https://github.com/tldr-pages/tldr-python-client) - Python command-line client for tldr pages
 - [smahesh29/Django-WebApp](https://github.com/smahesh29/Django-WebApp) - This is a web-app created using Python, Django. By using this user can login, upload files and also can view and download files uploaded by other users.
 - [adamchainz/django-browser-reload](https://github.com/adamchainz/django-browser-reload) - Automatically reload your browser in development.
@@ -646,6 +647,7 @@
 
 ## Shell 
 
+- [pollev/bash_progress_bar](https://github.com/pollev/bash_progress_bar) - APT like progress bar
 - [pipeseroni/pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver
 - [alexandre-labs/caps2esc](https://github.com/alexandre-labs/caps2esc) - A lazy way to configure the capslock key as ESC + Ctrl
 - [dianariyanto/virtual-display-linux](https://github.com/dianariyanto/virtual-display-linux) - Create virtual display / monitor on linux OS for extended display via teamviewer or vnc server without any real Monitor is Plugged In.
@@ -667,6 +669,7 @@
 - [ArnaudLevaufre/dotfiles](https://github.com/ArnaudLevaufre/dotfiles) - Configuration files I use to setup my workstations
 - [czardien/fmenu](https://github.com/czardien/fmenu) - A fzf-based implementation of a dmenu application.
 - [apathor/cz](https://github.com/apathor/cz) - Abstraction over line selection utilities - plus handy plugins!
+- [petejodo/dotfiles](https://github.com/petejodo/dotfiles) - 
 - [thimc/vifmimg](https://github.com/thimc/vifmimg) - Image previews for Vifm (vi file manager) using Überzug
 - [gerardbm/dotfiles](https://github.com/gerardbm/dotfiles) - My *NIX dotfiles [i3wm, URxvt, tmux, zsh, rofi, cmus, irssi, vifm, mutt, feh, mpv, newsbeuter]
 - [Chrysostomus/bspwm-scripts](https://github.com/Chrysostomus/bspwm-scripts) - 
@@ -791,7 +794,6 @@
 - [skanehira/preview-markdown.vim](https://github.com/skanehira/preview-markdown.vim) - Markdown preview plugin for Vim
 - [lacygoill/vim-lg-lib](https://github.com/lacygoill/vim-lg-lib) - 
 - [lacygoill/config](https://github.com/lacygoill/config) - 
-- [petejodo/dotfiles](https://github.com/petejodo/dotfiles) - 
 - [rashil2000/dotfiles](https://github.com/rashil2000/dotfiles) - Configuration files
 - [mwgkgk/dotfiles](https://github.com/mwgkgk/dotfiles) - vim, vifm, tmux, fzf, fish, sxhkd, kmonad
 - [rlue/vim-barbaric](https://github.com/rlue/vim-barbaric) - Automatic input method switching for vim
