@@ -510,7 +510,7 @@
 - [mtianyan/VueDjangoAntdProBookShop](https://github.com/mtianyan/VueDjangoAntdProBookShop) - Vue前台 + Django3.1 + DjangoRestful Framework + Ant Design Pro V4 开发的二手书商城网站及后台管理
 - [longclawshop/longclaw](https://github.com/longclawshop/longclaw) - A shop for Wagtail CMS
 - [diefenbach/django-lfs](https://github.com/diefenbach/django-lfs) - An online-shop based on Django
-- [saleor/saleor](https://github.com/saleor/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
+- [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
 - [awesto/django-shop](https://github.com/awesto/django-shop) - A Django based shop system
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
 - [stephenmcd/mezzanine](https://github.com/stephenmcd/mezzanine) - CMS framework for Django
