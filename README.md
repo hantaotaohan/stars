@@ -51,6 +51,7 @@
 
 ## AutoHotkey 
 
+- [Liu233w/CapsLocKeys.ahk](https://github.com/Liu233w/CapsLocKeys.ahk) - An autohotkey's script that makes your capslock more powerful
 - [FelixBrendel/pok3r](https://github.com/FelixBrendel/pok3r) - Use a normal Keyboard as if it was a Vortex Poker 3
 - [fuhsjr00/bug.n](https://github.com/fuhsjr00/bug.n) - Tiling Window Manager for Windows
 - [majorworld/Pet](https://github.com/majorworld/Pet) - 键盘代替鼠标
