@@ -782,6 +782,7 @@
 
 ## Vim Script 
 
+- [chenxuan520/vim-fast](https://github.com/chenxuan520/vim-fast) - Vim快速配置
 - [pirey/dotfiles](https://github.com/pirey/dotfiles) - personalized vim and other configurations.
 - [yegappan/lsp](https://github.com/yegappan/lsp) - Language Server Protocol (LSP) plugin for Vim9
 - [zhaosheng-pan/vim-im-select](https://github.com/zhaosheng-pan/vim-im-select) - Improve Vim/Neovim experience with input methods.
