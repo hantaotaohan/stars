@@ -782,6 +782,7 @@
 
 ## Vim Script 
 
+- [deponian/vim-onedark](https://github.com/deponian/vim-onedark) - Faster version of onedark.vim
 - [chenxuan520/vim-fast](https://github.com/chenxuan520/vim-fast) - Vim快速配置
 - [pirey/dotfiles](https://github.com/pirey/dotfiles) - personalized vim and other configurations.
 - [yegappan/lsp](https://github.com/yegappan/lsp) - Language Server Protocol (LSP) plugin for Vim9
