@@ -94,7 +94,7 @@
 - [yungcheeze/surf](https://github.com/yungcheeze/surf) - my surf fork
 - [rahul13ramesh/suckless_patched](https://github.com/rahul13ramesh/suckless_patched) - Patched version of st, surf, tabbed and dmenu
 - [bakkeby/st-flexipatch](https://github.com/bakkeby/st-flexipatch) - An st build with preprocessor directives to decide which patches to include during build time
-- [siduck/st](https://github.com/siduck/st) - snazzy terminal (suckless + lightweight)
+- [siduck/st](https://github.com/siduck/st) - snazzy terminal (suckless + beautiful)
 - [vilari-mickopf/st](https://github.com/vilari-mickopf/st) - Fork of the suckless simple terminal (st)
 - [gnotclub/xst](https://github.com/gnotclub/xst) - st fork that uses Xresources and some pretty good patches
 - [nsxiv/nsxiv](https://github.com/nsxiv/nsxiv) - Read-only mirror of Neo Simple X Image Viewer
@@ -320,6 +320,8 @@
 
 ## Lua 
 
+- [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
 - [monsonjeremy/onedark.nvim](https://github.com/monsonjeremy/onedark.nvim) - OneDark NeoVim theme written in Lua
 - [lewis6991/satellite.nvim](https://github.com/lewis6991/satellite.nvim) - Decorate scrollbar for Neovim
 - [ginsburgnm/rich.nvim](https://github.com/ginsburgnm/rich.nvim) - A rich-cli preview directly in your neovim buffer.
