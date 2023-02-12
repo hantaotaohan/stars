@@ -447,7 +447,6 @@
 
 ## Python 
 
-- [nikhgupta/dotfiles](https://github.com/nikhgupta/dotfiles) - My Dot Castle
 - [tldr-pages/tldr-python-client](https://github.com/tldr-pages/tldr-python-client) - Python command-line client for tldr pages
 - [smahesh29/Django-WebApp](https://github.com/smahesh29/Django-WebApp) - This is a web-app created using Python, Django. By using this user can login, upload files and also can view and download files uploaded by other users.
 - [adamchainz/django-browser-reload](https://github.com/adamchainz/django-browser-reload) - Automatically reload your browser in development.
@@ -652,6 +651,7 @@
 ## Shell 
 
 - [pollev/bash_progress_bar](https://github.com/pollev/bash_progress_bar) - APT like progress bar
+- [nikhgupta/dotfiles](https://github.com/nikhgupta/dotfiles) - My Dot Castle
 - [pipeseroni/pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver
 - [alexandre-labs/caps2esc](https://github.com/alexandre-labs/caps2esc) - A lazy way to configure the capslock key as ESC + Ctrl
 - [dianariyanto/virtual-display-linux](https://github.com/dianariyanto/virtual-display-linux) - Create virtual display / monitor on linux OS for extended display via teamviewer or vnc server without any real Monitor is Plugged In.
