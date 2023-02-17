@@ -48,6 +48,7 @@
 ## Assembly 
 
 - [pok3r-custom/pok3r_re_firmware](https://github.com/pok3r-custom/pok3r_re_firmware) - Reverse engineering project for the POK3R and related keyboards.
+- [hoochanlon/w3-goto-world](https://github.com/hoochanlon/w3-goto-world) - 🍅 Git/AWS/Google 镜像 ,SS/SSR/VMESS节点,WireGuard,IPFS, DeepWeb,Capitalism 、行业研究报告的知识储备库
 
 ## AutoHotkey 
 
@@ -448,6 +449,7 @@
 
 ## Python 
 
+- [jonz94/Sarasa-Gothic-Nerd-Fonts](https://github.com/jonz94/Sarasa-Gothic-Nerd-Fonts) - Nerd fonts patched Sarasa Gothic font.
 - [tldr-pages/tldr-python-client](https://github.com/tldr-pages/tldr-python-client) - Python command-line client for tldr pages
 - [smahesh29/Django-WebApp](https://github.com/smahesh29/Django-WebApp) - This is a web-app created using Python, Django. By using this user can login, upload files and also can view and download files uploaded by other users.
 - [adamchainz/django-browser-reload](https://github.com/adamchainz/django-browser-reload) - Automatically reload your browser in development.
@@ -455,7 +457,6 @@
 - [blackholll/loonflow](https://github.com/blackholll/loonflow) - 基于django的工作流引擎,工单(a workflow engine base on django python)
 - [yihong0618/Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper) - Download all your kindle books script.
 - [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。基于 PaddleOCR 。
-- [awnion/custom-iosevka-nerd-font](https://github.com/awnion/custom-iosevka-nerd-font) - Custom version of Iosevka font with Nerd Font Icons
 - [hakib/django-admin-lightweight-date-hierarchy](https://github.com/hakib/django-admin-lightweight-date-hierarchy) - Django Admin date_hierarchy with zero queries
 - [whoisashish/django-admin-searchable-dropdown](https://github.com/whoisashish/django-admin-searchable-dropdown) - A PyPi Project with a Django admin filter implementation that renders as a searchable select field dropdown.
 - [alexsilva/django-xadmin](https://github.com/alexsilva/django-xadmin) - Drop-in replacement of Django admin comes with lots of goodies, fully extensible with plugin support, pretty UI based on Twitter Bootstrap.
@@ -538,8 +539,6 @@
 - [miseran/i3-tools](https://github.com/miseran/i3-tools) - Some of my personal tools for the i3 window manager.
 - [meelkor/polybar-i3-windows](https://github.com/meelkor/polybar-i3-windows) - 
 - [mherrmann/matrixlock](https://github.com/mherrmann/matrixlock) - Replace i3's lock screen by the Matrix.
-- [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
-- [hoochanlon/w3-goto-world](https://github.com/hoochanlon/w3-goto-world) - 🍅 Git/AWS/Google 镜像 ,SS/SSR/VMESS节点,WireGuard,IPFS, DeepWeb,Capitalism 、行业研究报告的知识储备库
 - [open-dynaMIX/raiseorlaunch](https://github.com/open-dynaMIX/raiseorlaunch) - A run-or-raise-application-launcher for i3 window manager.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [altdesktop/i3ipc-python](https://github.com/altdesktop/i3ipc-python) - 🐍 An improved Python library to control i3wm and sway.
