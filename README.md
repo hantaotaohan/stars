@@ -48,7 +48,7 @@
 ## Assembly 
 
 - [pok3r-custom/pok3r_re_firmware](https://github.com/pok3r-custom/pok3r_re_firmware) - Reverse engineering project for the POK3R and related keyboards.
-- [hoochanlon/w3-goto-world](https://github.com/hoochanlon/w3-goto-world) - 🍅 Git/AWS/Google 镜像 ,SS/SSR/VMESS节点,WireGuard,IPFS, DeepWeb,Capitalism 、行业研究报告的知识储备库
+- [hoochanlon/w3-goto-world](https://github.com/hoochanlon/w3-goto-world) - 🥤 Git/AWS/Google 镜像 ,行业研究报告的知识储备库
 
 ## AutoHotkey 
 
