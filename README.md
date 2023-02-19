@@ -48,7 +48,6 @@
 ## Assembly 
 
 - [pok3r-custom/pok3r_re_firmware](https://github.com/pok3r-custom/pok3r_re_firmware) - Reverse engineering project for the POK3R and related keyboards.
-- [hoochanlon/w3-goto-world](https://github.com/hoochanlon/w3-goto-world) - 🥤 Git/AWS/Google 镜像 ,行业研究报告的知识储备库
 
 ## AutoHotkey 
 
@@ -539,6 +538,7 @@
 - [miseran/i3-tools](https://github.com/miseran/i3-tools) - Some of my personal tools for the i3 window manager.
 - [meelkor/polybar-i3-windows](https://github.com/meelkor/polybar-i3-windows) - 
 - [mherrmann/matrixlock](https://github.com/mherrmann/matrixlock) - Replace i3's lock screen by the Matrix.
+- [hoochanlon/w3-goto-world](https://github.com/hoochanlon/w3-goto-world) - 💾 Git/AWS/Google镜像与S/V/C网络链，行业研究报告的知识储备库
 - [open-dynaMIX/raiseorlaunch](https://github.com/open-dynaMIX/raiseorlaunch) - A run-or-raise-application-launcher for i3 window manager.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [altdesktop/i3ipc-python](https://github.com/altdesktop/i3ipc-python) - 🐍 An improved Python library to control i3wm and sway.
@@ -642,7 +642,7 @@
 - [django-cms/djangocms-admin-style](https://github.com/django-cms/djangocms-admin-style) - django CMS Admin Style is a Django Theme tailored to the needs of django CMS.
 - [zzossig/hugo-theme-zzo](https://github.com/zzossig/hugo-theme-zzo) - Make a blog with hugo zzo theme!
 - [sivan/heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
-- [arcticicestudio/nord](https://github.com/arcticicestudio/nord) - An arctic, north-bluish color palette.
+- [nordtheme/nord](https://github.com/nordtheme/nord) - An arctic, north-bluish color palette.
 
 ## Scheme 
 
