@@ -378,6 +378,7 @@
 - [glepnir/nvim](https://github.com/glepnir/nvim) - neovim configuration written in lua
 - [knmac/.dotfiles](https://github.com/knmac/.dotfiles) - 
 - [foo-dogsquared/dotfiles](https://github.com/foo-dogsquared/dotfiles) - My dotfiles for my Linux-based system setup.
+- [nvim-telescope/telescope-media-files.nvim](https://github.com/nvim-telescope/telescope-media-files.nvim) - Telescope extension to preview media files using Ueberzug.
 - [luakit/luakit](https://github.com/luakit/luakit) - Fast, small, webkit based browser framework extensible by Lua.
 - [romgrk/barbar.nvim](https://github.com/romgrk/barbar.nvim) - The neovim tabline plugin.
 - [Xuyuanp/scrollbar.nvim](https://github.com/Xuyuanp/scrollbar.nvim) - scrollbar for neovim
@@ -677,7 +678,6 @@
 - [gerardbm/dotfiles](https://github.com/gerardbm/dotfiles) - My *NIX dotfiles [i3wm, URxvt, tmux, zsh, rofi, cmus, irssi, vifm, mutt, feh, mpv, newsbeuter]
 - [Chrysostomus/bspwm-scripts](https://github.com/Chrysostomus/bspwm-scripts) - 
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
-- [nvim-telescope/telescope-media-files.nvim](https://github.com/nvim-telescope/telescope-media-files.nvim) - Telescope extension to preview media files using Ueberzug.
 - [noctuid/tdrop](https://github.com/noctuid/tdrop) - A Glorified WM-Independent Dropdown Creator
 - [Epictek/Fuzzy-CEDICT](https://github.com/Epictek/Fuzzy-CEDICT) - Basic English to Chinese Dictionary viewer for bash using the CC-CEDICT database with a choice of frontends including rofi and fzf.
 - [thimc/lfimg](https://github.com/thimc/lfimg) - Image preview support for lf (list files) using Überzug
