@@ -320,6 +320,7 @@
 
 ## Lua 
 
+- [famiu/bufdelete.nvim](https://github.com/famiu/bufdelete.nvim) - Delete Neovim buffers without losing window layout
 - [wangl-cc/dotfiles](https://github.com/wangl-cc/dotfiles) - Dotfiles for myself.
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
