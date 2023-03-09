@@ -320,6 +320,7 @@
 
 ## Lua 
 
+- [kiyoon/telescope-insert-path.nvim](https://github.com/kiyoon/telescope-insert-path.nvim) - Insert file path on the current buffer using Telescope.nvim
 - [rebelot/dotfiles](https://github.com/rebelot/dotfiles) - my configuration files
 - [famiu/bufdelete.nvim](https://github.com/famiu/bufdelete.nvim) - Delete Neovim buffers without losing window layout
 - [wangl-cc/dotfiles](https://github.com/wangl-cc/dotfiles) - Dotfiles for myself.
