@@ -658,6 +658,7 @@
 
 ## Shell 
 
+- [anurag3301/my-linux-setup](https://github.com/anurag3301/my-linux-setup) - Here I store all the Linux dotfiles and installation stuff.
 - [pollev/bash_progress_bar](https://github.com/pollev/bash_progress_bar) - APT like progress bar
 - [nikhgupta/dotfiles](https://github.com/nikhgupta/dotfiles) - My Dot Castle
 - [pipeseroni/pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver
