@@ -823,7 +823,6 @@
 - [tpope/vim-sleuth](https://github.com/tpope/vim-sleuth) - sleuth.vim: Heuristically set buffer options
 - [PegasusWang/vim-config](https://github.com/PegasusWang/vim-config) - Lean mean (Neo)Vim machine, carefully crafted with :heart: Use with Neovim v0.1.5+ or Vim v7.4+
 - [skanehira/preview-markdown.vim](https://github.com/skanehira/preview-markdown.vim) - Markdown preview plugin for Vim
-- [lacygoill/config](https://github.com/lacygoill/config) - 
 - [rashil2000/dotfiles](https://github.com/rashil2000/dotfiles) - Configuration files
 - [mwgkgk/dotfiles](https://github.com/mwgkgk/dotfiles) - vim, vifm, tmux, fzf, fish, sxhkd, kmonad
 - [rlue/vim-barbaric](https://github.com/rlue/vim-barbaric) - Automatic input method switching for vim
