@@ -210,6 +210,7 @@
 
 ## Go 
 
+- [LearnGolang/365Golang](https://github.com/LearnGolang/365Golang) - 《365天深入理解Go语言》Deep understanding of Golang.
 - [git-cloner/gitcache](https://github.com/git-cloner/gitcache) - When clone from github.com, build mirror cache to improve clone speed
 - [mickael-menu/zk](https://github.com/mickael-menu/zk) - A plain text note-taking assistant
 - [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀
@@ -327,6 +328,7 @@
 
 ## Lua 
 
+- [dharmx/nvim](https://github.com/dharmx/nvim) - Blazingly fast SHUTTHEFUCKUP.
 - [aikow/dotfiles](https://github.com/aikow/dotfiles) - All o' me prrreferences and settings arrg
 - [Iamafnan/my-nvimrc](https://github.com/Iamafnan/my-nvimrc) - My Neovim configurations
 - [ja-ford/delaytrain.nvim](https://github.com/ja-ford/delaytrain.nvim) - Train yourself to stop repeating keys... gently
@@ -393,7 +395,7 @@
 - [SebTalbot/NvComfyGuration](https://github.com/SebTalbot/NvComfyGuration) - Lua configurations for Neovim
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - 📚 A Neovim config designed from scratch to be understandable
 - [vietanhvo/dotfiles](https://github.com/vietanhvo/dotfiles) - My neovim, zsh, tmux setup
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [ecosse3/nvim](https://github.com/ecosse3/nvim) - A non-minimal Neovim config built to work most efficiently with Frontend Development - React & Vue.js
 - [glepnir/nvim](https://github.com/glepnir/nvim) - neovim configuration written in lua
 - [knmac/.dotfiles](https://github.com/knmac/.dotfiles) - 
@@ -810,7 +812,7 @@
 - [chenxuan520/vim-fast](https://github.com/chenxuan520/vim-fast) - Vim快速配置
 - [pirey/dotfiles](https://github.com/pirey/dotfiles) - personalized vim and other configurations.
 - [yegappan/lsp](https://github.com/yegappan/lsp) - Language Server Protocol (LSP) plugin for Vim9
-- [zhaosheng-pan/vim-im-select](https://github.com/zhaosheng-pan/vim-im-select) - Improve Vim/Neovim experience with input methods.
+- [brglng/vim-im-select](https://github.com/brglng/vim-im-select) - Improve Vim/Neovim experience with input methods.
 - [hotoo/pangu.vim](https://github.com/hotoo/pangu.vim) - 『盘古之白』中文排版自动规范化的 Vim 插件
 - [morhetz/gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim
 - [svermeulen/vim-subversive](https://github.com/svermeulen/vim-subversive) - Vim plugin providing operator motions to quickly replace text
@@ -831,7 +833,7 @@
 - [andymass/vim-matchup](https://github.com/andymass/vim-matchup) - vim match-up: even better % :facepunch: navigate and highlight matching words :facepunch: modern matchit and matchparen.  Supports both vim and neovim + tree-sitter.
 - [smkent/vim-pipe-preview](https://github.com/smkent/vim-pipe-preview) - 📝 🔍 Pipe a vim buffer through an external command and view the results in a scrollbind split
 - [jaredgorski/fogbell.vim](https://github.com/jaredgorski/fogbell.vim) - 
-- [zhaosheng-pan/vim-sidebar-manager](https://github.com/zhaosheng-pan/vim-sidebar-manager) - The missing sidebar manager for Vim/Neovim
+- [brglng/vim-sidebar-manager](https://github.com/brglng/vim-sidebar-manager) - The missing sidebar manager for Vim/Neovim
 - [neomake/neomake](https://github.com/neomake/neomake) - Asynchronous linting and make framework for Neovim/Vim
 - [romgrk/doom-one.vim](https://github.com/romgrk/doom-one.vim) - A dark colorschme for vim, ported from doom-emacs' doom-one theme.
 - [simeji/winresizer](https://github.com/simeji/winresizer) - very simple vim plugin for easy resizing of your vim windows
