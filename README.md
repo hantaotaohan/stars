@@ -169,13 +169,14 @@
 
 ## CSS 
 
+- [subframe7536/Maple-font](https://github.com/subframe7536/Maple-font) - Open source monospace / Nerd-Font font with round corner and ligatures for IDE and command line. 带连字和圆角的等宽字体和控制台字体，中英文宽度完美2:1
 - [app-generator/django-datta-able](https://github.com/app-generator/django-datta-able) - Datta Able - Open-Source Django Dashboard | AppSeed
 - [liangjingkanji/DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) - 十二种主题风格 - Material Google JetBrains Vue Juejin Purple Ayu Dark
 - [fabiocaccamo/django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) - :superhero: :zap: django's default admin interface with superpowers - customizable themes, popup windows replaced by modals and many other features.
 - [viewflow/django-material](https://github.com/viewflow/django-material) - Material Design for Django
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [cannibalox/logseq-dark-hpx](https://github.com/cannibalox/logseq-dark-hpx) - CSS snippets and themes for www.logseq.com
-- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - 
+- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
 - [WnP/vimwiki_markdown](https://github.com/WnP/vimwiki_markdown) - vimwiki markdown file to html with syntax highlighting.
 - [chrisju/vimwikiblog](https://github.com/chrisju/vimwikiblog) - make vimwiki a blog
 - [deryrahman/jupyter-notebook-one-dark-theme](https://github.com/deryrahman/jupyter-notebook-one-dark-theme) - OneDark theme for Jupyter Notebook
@@ -328,6 +329,7 @@
 
 ## Lua 
 
+- [natecraddock/workspaces.nvim](https://github.com/natecraddock/workspaces.nvim) - a simple plugin to manage workspace directories in neovim
 - [dharmx/nvim](https://github.com/dharmx/nvim) - Blazingly fast SHUTTHEFUCKUP.
 - [aikow/dotfiles](https://github.com/aikow/dotfiles) - All o' me prrreferences and settings arrg
 - [Iamafnan/my-nvimrc](https://github.com/Iamafnan/my-nvimrc) - My Neovim configurations
