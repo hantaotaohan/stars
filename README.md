@@ -280,7 +280,7 @@
 - [shkreios/django-admin-multiselect](https://github.com/shkreios/django-admin-multiselect) - 
 - [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
 - [pengx17/logseq-publish](https://github.com/pengx17/logseq-publish) - Logseq Publish Action
-- [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.
+- [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
 - [njleonzhang/docsify-edit-on-github](https://github.com/njleonzhang/docsify-edit-on-github) - 
 - [lana-k/sqliteviz](https://github.com/lana-k/sqliteviz) - Instant offline SQL-powered data visualisation in your browser
 - [yoshuawuyts/vmd](https://github.com/yoshuawuyts/vmd) - :pray: preview markdown files
@@ -291,7 +291,6 @@
 - [bayleeadamoss/zazu](https://github.com/bayleeadamoss/zazu) - :rocket: A fully extensible and open source launcher for hackers, creators and dabblers.
 - [linonetwo/zazu](https://github.com/linonetwo/zazu) - :rocket: A fully extensible and open source launcher for hackers, creators and dabblers. (my PR is merged! download latest one in the website!)
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
-- [djk2/django-tables2-column-shifter](https://github.com/djk2/django-tables2-column-shifter) - Simple extension for django-tables2 can dynamically show or hide columns. Using JQuery, Bootstrap 3, Bootstrap 4, Bootstrap 5 and Django &gt;=1.9
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - 🔵 Cerebro is an open-source launcher to improve your productivity and efficiency
 - [zenghongtu/saladict-desktop](https://github.com/zenghongtu/saladict-desktop) - ✨✨桌面划词与翻译工具，聚合了 N 多词典，功能强大，支持 Windows 、 Mac 和 Linux。
 - [eNkru/freechat](https://github.com/eNkru/freechat) - 致力于打造macOS和Linux桌面下最好用的微信（wechat）客户端
@@ -329,6 +328,7 @@
 
 ## Lua 
 
+- [ray-x/nvim](https://github.com/ray-x/nvim) - Blazing fast neovim setup with 180+ plugins.
 - [natecraddock/workspaces.nvim](https://github.com/natecraddock/workspaces.nvim) - a simple plugin to manage workspace directories in neovim
 - [dharmx/nvim](https://github.com/dharmx/nvim) - Blazingly fast SHUTTHEFUCKUP.
 - [aikow/dotfiles](https://github.com/aikow/dotfiles) - All o' me prrreferences and settings arrg
@@ -473,7 +473,7 @@
 
 ## Python 
 
-- [HFrost0/bilix](https://github.com/HFrost0/bilix) - ⚡️Lightning-fast asynchronous download tool for bilibili and more
+- [HFrost0/bilix](https://github.com/HFrost0/bilix) - ⚡️Lightning-fast asynchronous download tool for bilibili and more | 快如闪电的异步下载工具，支持bilibili及更多
 - [jonz94/Sarasa-Gothic-Nerd-Fonts](https://github.com/jonz94/Sarasa-Gothic-Nerd-Fonts) - Nerd fonts patched Sarasa Gothic font.
 - [tldr-pages/tldr-python-client](https://github.com/tldr-pages/tldr-python-client) - Python command-line client for tldr pages
 - [smahesh29/Django-WebApp](https://github.com/smahesh29/Django-WebApp) - This is a web-app created using Python, Django. By using this user can login, upload files and also can view and download files uploaded by other users.
@@ -528,6 +528,7 @@
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
 - [2Dou/watermarker](https://github.com/2Dou/watermarker) - 使用python脚本为图片添加文字水印
 - [ivansurov/django-admin-display-fields-settings](https://github.com/ivansurov/django-admin-display-fields-settings) - Django application. The application adds in the admin form to control the views column.
+- [djk2/django-tables2-column-shifter](https://github.com/djk2/django-tables2-column-shifter) - Simple extension for django-tables2 can dynamically show or hide columns. Using JQuery, Bootstrap 3, Bootstrap 4, Bootstrap 5 and Django &gt;=1.9
 - [rupa/epub](https://github.com/rupa/epub) - python/curses cli epub reader
 - [MarkHedleyJones/dmenu-extended](https://github.com/MarkHedleyJones/dmenu-extended) - An extension to dmenu for quickly opening files and folders.
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
@@ -628,6 +629,7 @@
 
 ## Rust 
 
+- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [rhysd/hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search results
