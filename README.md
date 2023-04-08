@@ -408,6 +408,7 @@
 - [Xuyuanp/scrollbar.nvim](https://github.com/Xuyuanp/scrollbar.nvim) - scrollbar for neovim
 - [nacro90/numb.nvim](https://github.com/nacro90/numb.nvim) - Peek lines just when you intend
 - [RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate) - illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the cursor using either LSP, Tree-sitter, or regex matching.
+- [rafi/vim-config](https://github.com/rafi/vim-config) - Lean mean Neovim machine, carefully crafted with :heart:  Use with latest Neovim.
 - [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim) - vim dashboard
 - [szorfein/dotfiles](https://github.com/szorfein/dotfiles) - Dotfiles for unix, managed by GNU stow.
 - [skywind3000/z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
@@ -891,7 +892,6 @@
 - [itchyny/vim-closebuffer](https://github.com/itchyny/vim-closebuffer) - Close buffers in Vim
 - [scrooloose/vim-slumlord](https://github.com/scrooloose/vim-slumlord) - Inline previews for Plantuml sequence diagrams. OMG!
 - [k-takata/minpac](https://github.com/k-takata/minpac) - A minimal package manager for Vim 8 (and Neovim)
-- [rafi/vim-config](https://github.com/rafi/vim-config) - Lean mean Neovim machine, carefully crafted with :heart:  Use with latest Neovim.
 - [lukhio/vim-mapping-conflicts](https://github.com/lukhio/vim-mapping-conflicts) - A Vim plugin to detect conflicts in key mapping
 - [ppwwyyxx/vim-PinyinSearch](https://github.com/ppwwyyxx/vim-PinyinSearch) - help vim search Chinese by Pinyin
 - [fgheng/vime](https://github.com/fgheng/vime) - vime, an easy and structural config for (neo)vim users
