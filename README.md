@@ -630,6 +630,7 @@
 
 ## Rust 
 
+- [Percee/alacritty](https://github.com/Percee/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
