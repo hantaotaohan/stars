@@ -476,7 +476,7 @@
 
 ## Python 
 
-- [HFrost0/bilix](https://github.com/HFrost0/bilix) - ⚡️Lightning-fast asynchronous download tool for bilibili and more | 快如闪电的异步下载工具，支持bilibili及更多
+- [HFrost0/bilix](https://github.com/HFrost0/bilix) - ⚡️Lightning-fast async download tool for bilibili and more | 快如闪电的异步下载工具，支持bilibili及更多
 - [jonz94/Sarasa-Gothic-Nerd-Fonts](https://github.com/jonz94/Sarasa-Gothic-Nerd-Fonts) - Nerd fonts patched Sarasa Gothic font.
 - [tldr-pages/tldr-python-client](https://github.com/tldr-pages/tldr-python-client) - Python command-line client for tldr pages
 - [smahesh29/Django-WebApp](https://github.com/smahesh29/Django-WebApp) - This is a web-app created using Python, Django. By using this user can login, upload files and also can view and download files uploaded by other users.
