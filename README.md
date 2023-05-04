@@ -554,7 +554,7 @@
 - [mjohanning99/dotfiles](https://github.com/mjohanning99/dotfiles) - 
 - [eihli/image-table-ocr](https://github.com/eihli/image-table-ocr) - Turn images of tables into CSV data. Detect tables from images and run OCR on the cells.
 - [trmckay/fzf-open](https://github.com/trmckay/fzf-open) - Use fzf to open files in appropriate applications (a la macOS Spotlight)
-- [nwg-piotr/nwg-panel](https://github.com/nwg-piotr/nwg-panel) - GTK3-based panel for sway window manager
+- [nwg-piotr/nwg-panel](https://github.com/nwg-piotr/nwg-panel) - GTK3-based panel for sway and Hyprland Wayland compositors
 - [django-extensions/django-extensions](https://github.com/django-extensions/django-extensions) - This is a repository for collecting global custom management extensions for the Django Framework.
 - [mtianyan/VueDjangoAntdProBookShop](https://github.com/mtianyan/VueDjangoAntdProBookShop) - Vue前台 + Django3.1 + DjangoRestful Framework + Ant Design Pro V4 开发的二手书商城网站及后台管理
 - [longclawshop/longclaw](https://github.com/longclawshop/longclaw) - A shop for Wagtail CMS
@@ -577,7 +577,7 @@
 - [VOID001/graph-easy-vim](https://github.com/VOID001/graph-easy-vim) - Drawing ASCII digram in vim with dot syntax! Integrate graph-easy with vim
 - [pwxcoo/chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - :orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。
 - [apprenticeharper/DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) - DeDRM tools for ebooks
-- [nwg-piotr/azote](https://github.com/nwg-piotr/azote) - Wallpaper and colour manager for Sway, i3 and some other WMs
+- [nwg-piotr/azote](https://github.com/nwg-piotr/azote) - Wallpaper manager for wlroots-based compositors and some other WMs
 - [ziberna/i3-py](https://github.com/ziberna/i3-py) - Python based tools for i3 users and developers
 - [micahcc/i3-wm-scripts](https://github.com/micahcc/i3-wm-scripts) - i3 Window Manager Scripts
 - [miseran/i3-tools](https://github.com/miseran/i3-tools) - Some of my personal tools for the i3 window manager.
