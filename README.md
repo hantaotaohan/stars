@@ -840,7 +840,7 @@
 - [lervag/wiki.vim](https://github.com/lervag/wiki.vim) - A wiki plugin for Vim
 - [mcchrish/zenbones.nvim](https://github.com/mcchrish/zenbones.nvim) - 🪨 A collection of contrast-based Vim/Neovim colorschemes
 - [deponian/vim-onedark](https://github.com/deponian/vim-onedark) - Faster version of onedark.vim
-- [chenxuan520/vim-fast](https://github.com/chenxuan520/vim-fast) - Vim快速配置
+- [chenxuan520/vim-fast](https://github.com/chenxuan520/vim-fast) - A very fast Vim repository for C/C++,Go,Python,Rust
 - [pirey/dotfiles](https://github.com/pirey/dotfiles) - personalized vim and other configurations.
 - [yegappan/lsp](https://github.com/yegappan/lsp) - Language Server Protocol (LSP) plugin for Vim9
 - [brglng/vim-im-select](https://github.com/brglng/vim-im-select) - Improve Vim/Neovim experience with input methods.
