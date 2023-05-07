@@ -334,6 +334,7 @@
 
 ## Lua 
 
+- [ojroques/nvim-bufdel](https://github.com/ojroques/nvim-bufdel) - A Neovim plugin to improve buffer deletion
 - [nvim-zh/md-nanny](https://github.com/nvim-zh/md-nanny) - 
 - [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim) - Edit and review GitHub issues and pull requests from the comfort of your favorite editor
 - [akinsho/org-bullets.nvim](https://github.com/akinsho/org-bullets.nvim) - 
