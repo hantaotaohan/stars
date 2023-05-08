@@ -296,7 +296,7 @@
 - [ybz640919/jxd_helper](https://github.com/ybz640919/jxd_helper) - 京训钉视频助手
 - [bayleeadamoss/zazu](https://github.com/bayleeadamoss/zazu) - :rocket: A fully extensible and open source launcher for hackers, creators and dabblers.
 - [linonetwo/zazu](https://github.com/linonetwo/zazu) - :rocket: A fully extensible and open source launcher for hackers, creators and dabblers. (my PR is merged! download latest one in the website!)
-- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
+- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - 🔵 Cerebro is an open-source launcher to improve your productivity and efficiency
 - [zenghongtu/saladict-desktop](https://github.com/zenghongtu/saladict-desktop) - ✨✨桌面划词与翻译工具，聚合了 N 多词典，功能强大，支持 Windows 、 Mac 和 Linux。
 - [eNkru/freechat](https://github.com/eNkru/freechat) - 致力于打造macOS和Linux桌面下最好用的微信（wechat）客户端
@@ -654,7 +654,7 @@
 ## Rust 
 
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
-- [Percee/alacritty](https://github.com/Percee/alacritty) - A cross-platform, OpenGL terminal emulator.
+- [OrbitalHustler/alacritty](https://github.com/OrbitalHustler/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
@@ -842,7 +842,7 @@
 - [mcchrish/zenbones.nvim](https://github.com/mcchrish/zenbones.nvim) - 🪨 A collection of contrast-based Vim/Neovim colorschemes
 - [deponian/vim-onedark](https://github.com/deponian/vim-onedark) - Faster version of onedark.vim
 - [chenxuan520/vim-fast](https://github.com/chenxuan520/vim-fast) - A very fast Vim repository for C/C++,Go,Python,Rust
-- [pirey/dotfiles](https://github.com/pirey/dotfiles) - personalized vim and other configurations.
+- [pirey/dotfiles](https://github.com/pirey/dotfiles) - My personal computer configuration files
 - [yegappan/lsp](https://github.com/yegappan/lsp) - Language Server Protocol (LSP) plugin for Vim9
 - [brglng/vim-im-select](https://github.com/brglng/vim-im-select) - Improve Vim/Neovim experience with input methods.
 - [hotoo/pangu.vim](https://github.com/hotoo/pangu.vim) - 『盘古之白』中文排版自动规范化的 Vim 插件
@@ -982,6 +982,7 @@
 
 ## Vue 
 
+- [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
 - [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
 
 
