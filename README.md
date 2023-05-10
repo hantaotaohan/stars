@@ -273,6 +273,7 @@
 
 ## JavaScript 
 
+- [lin-xin/wxapp-mall](https://github.com/lin-xin/wxapp-mall) - 微信小程序 商城demo
 - [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [qiushi123/xiaochengxu_demos](https://github.com/qiushi123/xiaochengxu_demos) - 小程序优秀项目源码汇总，每个项目都有图有源码，零基础学微信小程序，小程序表格，小程序视频，小程序视频弹幕，小程序仿天猫大转盘抽奖等源码，小程序云开发，小程序发邮件，小程序支付，微信支付，持续更新。。。
