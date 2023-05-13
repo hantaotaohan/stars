@@ -148,6 +148,7 @@
 
 ## C++ 
 
+- [pit-ray/win-vind](https://github.com/pit-ray/win-vind) - You can operate Windows with key bindings like Vim.
 - [contour-terminal/contour](https://github.com/contour-terminal/contour) - Modern C++ Terminal Emulator
 - [HadesD/vim-power-mode](https://github.com/HadesD/vim-power-mode) - Power mode for Vim
 - [larygwil/FIM](https://github.com/larygwil/FIM) - Unofficial mirror of FIM ( fbi improved ) code
@@ -573,7 +574,6 @@
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [sio/bash-complete-partial-path](https://github.com/sio/bash-complete-partial-path) - Enhanced file path completion in bash (like in zsh)
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [TaDaa/vimade](https://github.com/TaDaa/vimade) - An eye friendly plugin that fades your inactive buffers and preserves your syntax highlighting!
 - [AlanDecode/Blog-With-GitHub-Boilerplate](https://github.com/AlanDecode/Blog-With-GitHub-Boilerplate) - 这是博客文章《完全用 GitHub 写博客》所提出流程的示例仓库。
 - [AlanDecode/Maverick](https://github.com/AlanDecode/Maverick) - 🏄‍ A static blog generator built with Python.
@@ -654,6 +654,7 @@
 
 ## Rust 
 
+- [Harunx9/sfm](https://github.com/Harunx9/sfm) - Simple two-panel file manager written in Rust inspired by vim and Total Commander
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [OrbitalHustler/alacritty](https://github.com/OrbitalHustler/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
