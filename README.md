@@ -172,7 +172,7 @@
 ## CSS 
 
 - [app-generator/django-material-dashboard](https://github.com/app-generator/django-material-dashboard) - Django Dashboard - Material Design | AppSeed
-- [subframe7536/Maple-font](https://github.com/subframe7536/Maple-font) - Open source monospace / Nerd-Font font with round corner and ligatures for IDE and command line. 带连字和圆角的等宽字体和控制台字体，中英文宽度完美2:1
+- [subframe7536/Maple-font](https://github.com/subframe7536/Maple-font) - Maple mono: Open source monospace / Nerd-Font font with round corner and ligatures for IDE and command line. 带连字和圆角的等宽字体和控制台字体，中英文宽度完美2:1
 - [app-generator/django-datta-able](https://github.com/app-generator/django-datta-able) - Datta Able - Open-Source Django Dashboard | AppSeed
 - [liangjingkanji/DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) - 十二种主题风格 - Material Google JetBrains Vue Juejin Purple Ayu Dark
 - [fabiocaccamo/django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) - :superhero: :zap: django's default admin interface with superpowers - customizable themes, popup windows replaced by modals and many other features.
