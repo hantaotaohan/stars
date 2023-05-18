@@ -273,6 +273,7 @@
 
 ## JavaScript 
 
+- [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译软件 | A cross-platform translation software
 - [lin-xin/wxapp-mall](https://github.com/lin-xin/wxapp-mall) - 微信小程序 商城demo
 - [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
