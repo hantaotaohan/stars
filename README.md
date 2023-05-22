@@ -139,7 +139,7 @@
 - [Dijji/FileMeta](https://github.com/Dijji/FileMeta) - Enable Explorer in Vista, Windows 7 and later to see, edit and search on tags and other metadata for any file type
 - [Y-Theta/ToastHelper](https://github.com/Y-Theta/ToastHelper) - Send Windows 10 Toast Notification
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
-- [Ruben2776/PicView](https://github.com/Ruben2776/PicView) - Fast Picture Viewer with compact UI that can be hidden. Features image effects, galleries, EXIF and more. The application can automatically adjusts itself to your screen.
+- [Ruben2776/PicView](https://github.com/Ruben2776/PicView) - A Windows 10/11 Fast Picture Viewer with a compact and clean user interface that can be easily hidden.  Features a vast range of file types, offers image effects, compression, and conversion capabilit
 - [pluveto/Caplos](https://github.com/pluveto/Caplos) - A tool to squeeze the power of your CapsLock key 一个充分利用你的大小写键的工具
 - [zsims/hunt-and-peck](https://github.com/zsims/hunt-and-peck) - Simple vimium/vimperator style navigation for Windows applications based on the UI Automation framework.
 - [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
@@ -330,6 +330,7 @@
 ## Jupyter Notebook 
 
 - [yeayee/joyful-pandas](https://github.com/yeayee/joyful-pandas) - Pandas中文教程
+- [hoochanlon/w3-goto-world](https://github.com/hoochanlon/w3-goto-world) - 🧠 ChatGPT、Windows/Mac/Linux各类运行环境镜像站，cnki、core.ac.uk、academia.edu、国立台湾大学、国立新加坡大学、中国内陆院校等研究机构行业研究报告智库收集
 - [DonaldDai/Bokeh-CN](https://github.com/DonaldDai/Bokeh-CN) - Bokeh中文文档（翻译中）
 - [weidylan/Office_Automation_by_Using_Python](https://github.com/weidylan/Office_Automation_by_Using_Python) - Office Automation by Using Pythonf (For Excel, Word, PPT and PDF .....)
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly develop, deploy and maintain production machine learning applications.
@@ -587,7 +588,6 @@
 - [meelkor/polybar-i3-windows](https://github.com/meelkor/polybar-i3-windows) - 
 - [neg-serg/negwm](https://github.com/neg-serg/negwm) - Brings a lot of unique UX features inspired by ion3/notion wm. Probably the most sophisticated example of i3ipc usage ever created
 - [mherrmann/matrixlock](https://github.com/mherrmann/matrixlock) - Replace i3's lock screen by the Matrix.
-- [hoochanlon/seikaii](https://github.com/hoochanlon/seikaii) - 💾 ChatGPT、Google产品等各类镜像与SS/V2/Clash/QuanX网络链，行业研究报告的知识储备库
 - [open-dynaMIX/raiseorlaunch](https://github.com/open-dynaMIX/raiseorlaunch) - A run-or-raise-application-launcher for i3 window manager.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [altdesktop/i3ipc-python](https://github.com/altdesktop/i3ipc-python) - 🐍 An improved Python library to control i3wm and sway.
