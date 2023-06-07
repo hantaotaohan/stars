@@ -147,6 +147,7 @@
 
 ## C++ 
 
+- [PEMessage/im-select-imm](https://github.com/PEMessage/im-select-imm) - A personal imporve. Now able to switch interal mode for IME
 - [pit-ray/win-vind](https://github.com/pit-ray/win-vind) - You can operate Windows with key bindings like Vim.
 - [contour-terminal/contour](https://github.com/contour-terminal/contour) - Modern C++ Terminal Emulator
 - [HadesD/vim-power-mode](https://github.com/HadesD/vim-power-mode) - Power mode for Vim
@@ -859,7 +860,7 @@
 - [PegasusWang/vim-config](https://github.com/PegasusWang/vim-config) - Lean mean (Neo)Vim machine, carefully crafted with :heart: Use with Neovim v0.1.5+ or Vim v7.4+
 - [skanehira/preview-markdown.vim](https://github.com/skanehira/preview-markdown.vim) - Markdown preview plugin for Vim
 - [rashil2000/dotfiles](https://github.com/rashil2000/dotfiles) - Configuration files
-- [mwgkgk/dotfiles](https://github.com/mwgkgk/dotfiles) - vim, vifm, tmux, fzf, fish, sxhkd, kmonad
+- [mwgkgk/dotfiles](https://github.com/mwgkgk/dotfiles) - vim, vifm, tmux, fzf, fish, sxhkd
 - [rlue/vim-barbaric](https://github.com/rlue/vim-barbaric) - Automatic input method switching for vim
 - [mhinz/vim-sayonara](https://github.com/mhinz/vim-sayonara) - :japanese_goblin: Sane buffer/window deletion.
 - [nordtheme/vim](https://github.com/nordtheme/vim) - An arctic, north-bluish clean and elegant Vim theme.
