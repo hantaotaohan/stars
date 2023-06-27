@@ -282,7 +282,7 @@
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [qiushi123/xiaochengxu_demos](https://github.com/qiushi123/xiaochengxu_demos) - 小程序优秀项目源码汇总，每个项目都有图有源码，零基础学微信小程序，小程序表格，小程序视频，小程序视频弹幕，小程序仿天猫大转盘抽奖等源码，小程序云开发，小程序发邮件，小程序支付，微信支付，持续更新。。。
 - [FZliweiliang/wechat-app-mall](https://github.com/FZliweiliang/wechat-app-mall) - 微信小程序商城，微信小程序demo
-- [Yonatan-D/WiFiConnector](https://github.com/Yonatan-D/WiFiConnector) - 📱一个简单的扫码连接WiFi的微信小程序
+- [Yonatan-D/WiFiConnector](https://github.com/Yonatan-D/WiFiConnector) - 📱 一个简单的扫码连接 WiFi 的微信小程序
 - [oubingbing/screenshots](https://github.com/oubingbing/screenshots) - 恶搞截图，一个可以生成微信聊天或者红包等功能的微信小程序
 - [kesixin/ReadWechatApp](https://github.com/kesixin/ReadWechatApp) - 免费小说阅读小程序
 - [sesine/wechat-weapp-movie](https://github.com/sesine/wechat-weapp-movie) - 🎬电影推荐 - 微信小程序
