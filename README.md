@@ -276,6 +276,9 @@
 
 ## JavaScript 
 
+- [zhroc/campus-service-wechat](https://github.com/zhroc/campus-service-wechat) - 基于微信云开发的智慧校园综合服务（含资讯浏览、场地预约、报修申请、审核管理等功能）微信小程序
+- [gaolipeng/read-books](https://github.com/gaolipeng/read-books) - 读书微信小程序，可以实现读书打卡、分享、排行榜等功能
+- [liuyxcc/wechat-chatgpt](https://github.com/liuyxcc/wechat-chatgpt) - Chatgpt微信小程序
 - [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译软件 | A cross-platform software for text translation.
 - [lin-xin/wxapp-mall](https://github.com/lin-xin/wxapp-mall) - 微信小程序 商城demo
 - [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
@@ -708,6 +711,7 @@
 - [tfpf/WSLNotify](https://github.com/tfpf/WSLNotify) - Native Windows notifications while using WSL. (And a bunch of environment-agnostic configuration files.)
 - [fhill2/dotfiles](https://github.com/fhill2/dotfiles) - 
 - [anurag3301/my-linux-setup](https://github.com/anurag3301/my-linux-setup) - Here I store all the Linux dotfiles and installation stuff.
+- [pirey/dotfiles](https://github.com/pirey/dotfiles) - My personal computer configuration files
 - [pollev/bash_progress_bar](https://github.com/pollev/bash_progress_bar) - APT like progress bar
 - [nikhgupta/dotfiles](https://github.com/nikhgupta/dotfiles) - My Dot Castle
 - [pipeseroni/pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver
@@ -845,7 +849,6 @@
 - [mcchrish/zenbones.nvim](https://github.com/mcchrish/zenbones.nvim) - 🪨 A collection of contrast-based Vim/Neovim colorschemes
 - [deponian/vim-onedark](https://github.com/deponian/vim-onedark) - Faster version of onedark.vim
 - [chenxuan520/vim-fast](https://github.com/chenxuan520/vim-fast) - A very fast Vim repository for C/C++,Go,Python,Rust
-- [pirey/dotfiles](https://github.com/pirey/dotfiles) - My personal computer configuration files
 - [yegappan/lsp](https://github.com/yegappan/lsp) - Language Server Protocol (LSP) plugin for Vim9
 - [brglng/vim-im-select](https://github.com/brglng/vim-im-select) - Improve Vim/Neovim experience with input methods.
 - [hotoo/pangu.vim](https://github.com/hotoo/pangu.vim) - 『盘古之白』中文排版自动规范化的 Vim 插件
