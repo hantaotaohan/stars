@@ -276,6 +276,7 @@
 
 ## JavaScript 
 
+- [maotoumao/ai-divination](https://github.com/maotoumao/ai-divination) - Chatgpt运势 代码（简化版）
 - [zhroc/campus-service-wechat](https://github.com/zhroc/campus-service-wechat) - 基于微信云开发的智慧校园综合服务（含资讯浏览、场地预约、报修申请、审核管理等功能）微信小程序
 - [gaolipeng/read-books](https://github.com/gaolipeng/read-books) - 读书微信小程序，可以实现读书打卡、分享、排行榜等功能
 - [liuyxcc/wechat-chatgpt](https://github.com/liuyxcc/wechat-chatgpt) - Chatgpt微信小程序
@@ -988,6 +989,7 @@
 
 ## Vue 
 
+- [dulaiduwang003/SuperBot-ChatGPTApp](https://github.com/dulaiduwang003/SuperBot-ChatGPTApp) - SuperBot 微信小程序(ChatGPT4.0 ChatGPT3.5 NewBing Stable-diffusion)
 - [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
 - [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
 
