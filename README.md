@@ -362,6 +362,7 @@
 - [DNLHC/glance.nvim](https://github.com/DNLHC/glance.nvim) - A pretty window for previewing, navigating and editing your LSP locations
 - [tzachar/local-highlight.nvim](https://github.com/tzachar/local-highlight.nvim) - 
 - [0x00-ketsu/markdown-preview.nvim](https://github.com/0x00-ketsu/markdown-preview.nvim) - A Neovim plugin renders markdown file in terminal buffer.
+- [fhill2/dotfiles](https://github.com/fhill2/dotfiles) - 
 - [delphinus/headlines.nvim](https://github.com/delphinus/headlines.nvim) - This plugin adds 3 kind of horizontal highlights for text filetypes, like `markdown`, `vimwiki` and `orgmode`
 - [startup-nvim/startup.nvim](https://github.com/startup-nvim/startup.nvim) - A highly configurable neovim startup screen
 - [kiyoon/telescope-insert-path.nvim](https://github.com/kiyoon/telescope-insert-path.nvim) - Insert file path on the current buffer using Telescope.nvim
@@ -710,7 +711,6 @@
 ## Shell 
 
 - [tfpf/WSLNotify](https://github.com/tfpf/WSLNotify) - Native Windows notifications while using WSL. (And a bunch of environment-agnostic configuration files.)
-- [fhill2/dotfiles](https://github.com/fhill2/dotfiles) - 
 - [anurag3301/my-linux-setup](https://github.com/anurag3301/my-linux-setup) - Here I store all the Linux dotfiles and installation stuff.
 - [pirey/dotfiles](https://github.com/pirey/dotfiles) - My personal computer configuration files
 - [pollev/bash_progress_bar](https://github.com/pollev/bash_progress_bar) - APT like progress bar
