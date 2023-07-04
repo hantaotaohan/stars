@@ -276,6 +276,9 @@
 
 ## JavaScript 
 
+- [gooking/apifm-wxapi](https://github.com/gooking/apifm-wxapi) - 微信小程序云开发工具包，借此工具包，你将无需投入服务器、无需接口编程、无需开发后台，将传统开发小程序效率提升百倍
+- [RebeccaHanjw/weapp-wechat-zhihu](https://github.com/RebeccaHanjw/weapp-wechat-zhihu) - 微信中的知乎--微信小程序 demo // Zhihu in Wechat
+- [sunniejs/sol-weapp](https://github.com/sunniejs/sol-weapp) - :clap:红包雨，大转盘，小程序营销组件，小程序商城常用组件  https://sunniejs.github.io/sol-weapp/
 - [maotoumao/ai-divination](https://github.com/maotoumao/ai-divination) - Chatgpt运势 代码（简化版）
 - [zhroc/campus-service-wechat](https://github.com/zhroc/campus-service-wechat) - 基于微信云开发的智慧校园综合服务（含资讯浏览、场地预约、报修申请、审核管理等功能）微信小程序
 - [gaolipeng/read-books](https://github.com/gaolipeng/read-books) - 读书微信小程序，可以实现读书打卡、分享、排行榜等功能
