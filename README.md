@@ -43,6 +43,7 @@
 - [VBA](#vba)
 - [Vala](#vala)
 - [Vim Script](#vim-script)
+- [Vim Snippet](#vim-snippet)
 - [Visual Basic](#visual-basic)
 - [Vue](#vue)
 
@@ -358,7 +359,6 @@
 - [ray-x/nvim](https://github.com/ray-x/nvim) - Blazing fast neovim setup with 180+ plugins.
 - [natecraddock/workspaces.nvim](https://github.com/natecraddock/workspaces.nvim) - a simple plugin to manage workspace directories in neovim
 - [dharmx/nvim](https://github.com/dharmx/nvim) - Blazingly fast SHUTTHEFUCKUP.
-- [aikow/dotfiles](https://github.com/aikow/dotfiles) - All o' me prrreferences and settings arrg
 - [Iamafnan/my-nvimrc](https://github.com/Iamafnan/my-nvimrc) - My Neovim configurations
 - [ja-ford/delaytrain.nvim](https://github.com/ja-ford/delaytrain.nvim) - Train yourself to stop repeating keys... gently
 - [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) - 🗺️ A legend for your keymaps, commands, and autocmds, with which-key.nvim integration
@@ -985,6 +985,10 @@
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [Shougo/vimproc.vim](https://github.com/Shougo/vimproc.vim) - Interactive command execution in Vim.
+
+## Vim Snippet 
+
+- [aikow/dotfiles](https://github.com/aikow/dotfiles) - All o' me prrreferences and settings arrg
 
 ## Visual Basic 
 
