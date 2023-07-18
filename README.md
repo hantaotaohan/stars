@@ -217,7 +217,7 @@
 
 ## Go 
 
-- [TypicalAM/goread](https://github.com/TypicalAM/goread) - A beautiful program to read your RSS feeds right in the terminal!
+- [TypicalAM/goread](https://github.com/TypicalAM/goread) - A beautiful program to read your RSS/Atom feeds right in the terminal!
 - [LearnGolang/365Golang](https://github.com/LearnGolang/365Golang) - 《365天深入理解Go语言》Deep understanding of Golang.
 - [git-cloner/gitcache](https://github.com/git-cloner/gitcache) - When clone from github.com, build mirror cache to improve clone speed
 - [mickael-menu/zk](https://github.com/mickael-menu/zk) - A plain text note-taking assistant
@@ -447,6 +447,8 @@
 
 ## Others 
 
+- [yzfly/wonderful-prompts](https://github.com/yzfly/wonderful-prompts) - 🔥中文 prompt 精选🔥，ChatGPT 使用指南，提升 ChatGPT 可玩性和可用性！🚀
+- [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
 - [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
