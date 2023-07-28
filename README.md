@@ -383,7 +383,7 @@
 - [lukas-reineke/headlines.nvim](https://github.com/lukas-reineke/headlines.nvim) - This plugin adds horizontal highlights for text filetypes, like markdown, orgmode, and neorg.
 - [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context
 - [zhaozg/neospace](https://github.com/zhaozg/neospace) - 
-- [Pocco81/true-zen.nvim](https://github.com/Pocco81/true-zen.nvim) - 🦝 Clean and elegant distraction-free writing for NeoVim
+- [pocco81/true-zen.nvim](https://github.com/pocco81/true-zen.nvim) - 🦝 Clean and elegant distraction-free writing for NeoVim
 - [keaising/im-select.nvim](https://github.com/keaising/im-select.nvim) - Switch Input Method automatically depends on Neovim's edit mode
 - [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim) - Neovim motions on speed!
 - [andrewferrier/wrapping.nvim](https://github.com/andrewferrier/wrapping.nvim) - Plugin to make it easier to switch between 'soft' and 'hard' line wrapping in NeoVim
