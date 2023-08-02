@@ -250,7 +250,6 @@
 - [zzossig/hugo-theme-zdoc](https://github.com/zzossig/hugo-theme-zdoc) - Make a documentation with hugo zdoc theme!
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [zhenyangze/uafred](https://github.com/zhenyangze/uafred) - alfred on ubuntu(use electron)
-- [fake-useragent/fake-useragent](https://github.com/fake-useragent/fake-useragent) - Up-to-date simple useragent faker with real world database
 - [n0tr00t/Sreg](https://github.com/n0tr00t/Sreg) - Sreg可对使用者通过输入email、phone、username的返回用户注册的所有互联网护照信息。
 
 ## Haskell 
@@ -640,6 +639,7 @@
 - [geekcomputers/Python](https://github.com/geekcomputers/Python) - My Python Examples
 - [powerline/powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
 - [alecxe/scrapy-fake-useragent](https://github.com/alecxe/scrapy-fake-useragent) - Random User-Agent middleware based on fake-useragent
+- [fake-useragent/fake-useragent](https://github.com/fake-useragent/fake-useragent) - Up-to-date simple useragent faker with real world database
 - [django-oscar/django-oscar](https://github.com/django-oscar/django-oscar) - Domain-driven e-commerce for Django
 - [atlanhq/camelot](https://github.com/atlanhq/camelot) - Camelot: PDF Table Extraction for Humans
 - [evyatarmeged/Raccoon](https://github.com/evyatarmeged/Raccoon) - A high performance offensive security tool for reconnaissance and vulnerability scanning
