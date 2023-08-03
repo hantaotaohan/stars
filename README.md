@@ -1000,7 +1000,7 @@
 
 ## Vue 
 
-- [dulaiduwang003/SuperBot-ChatGPTApp](https://github.com/dulaiduwang003/SuperBot-ChatGPTApp) - SuperBot 微信小程序(ChatGPT4.0 ChatGPT3.5 NewBing Stable-diffusion)
+- [dulaiduwang003/SuperBot-ChatGPTApp](https://github.com/dulaiduwang003/SuperBot-ChatGPTApp) - SuperBot 系列小程序以及WEB(支持GPT 绘图 流量主) 请移步 TIME-SEA-PLUS仓库
 - [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
 - [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
 
