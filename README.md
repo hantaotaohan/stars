@@ -217,7 +217,7 @@
 
 ## Go 
 
-- [TypicalAM/goread](https://github.com/TypicalAM/goread) - A beautiful program to read your RSS/Atom feeds right in the terminal!
+- [TypicalAM/goread](https://github.com/TypicalAM/goread) - Beautiful program to read your RSS/Atom feeds right in the terminal!
 - [LearnGolang/365Golang](https://github.com/LearnGolang/365Golang) - 《365天深入理解Go语言》Deep understanding of Golang.
 - [git-cloner/gitcache](https://github.com/git-cloner/gitcache) - When clone from github.com, build mirror cache to improve clone speed
 - [mickael-menu/zk](https://github.com/mickael-menu/zk) - A plain text note-taking assistant
