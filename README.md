@@ -358,7 +358,7 @@
 - [Neelfrost/nvim-config](https://github.com/Neelfrost/nvim-config) - Personal neovim configuration⚡🪟 - Fully configured for LaTeX, Python, Lua, C#, HTML, CSS, and Javascript - Neovim version: v0.8+
 - [ray-x/nvim](https://github.com/ray-x/nvim) - Blazing fast neovim setup with 180+ plugins.
 - [natecraddock/workspaces.nvim](https://github.com/natecraddock/workspaces.nvim) - a simple plugin to manage workspace directories in neovim
-- [dharmx/nvim](https://github.com/dharmx/nvim) - Blazingly fast SHUTTHEFUCKUP.
+- [dharmx-lua/nvim](https://github.com/dharmx-lua/nvim) - Blazingly fast SHUTTHEFUCKUP.
 - [Iamafnan/my-nvimrc](https://github.com/Iamafnan/my-nvimrc) - My Neovim configurations
 - [ja-ford/delaytrain.nvim](https://github.com/ja-ford/delaytrain.nvim) - Train yourself to stop repeating keys... gently
 - [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) - 🗺️ A legend for your keymaps, commands, and autocmds, with which-key.nvim integration
@@ -555,7 +555,7 @@
 - [leosolid/qutebrowser-themes](https://github.com/leosolid/qutebrowser-themes) - themes for qutebrowser
 - [aurecchia/i3-resizer](https://github.com/aurecchia/i3-resizer) - i3 directional resizer
 - [sfyc23/EverydayWechat](https://github.com/sfyc23/EverydayWechat) - 微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等）
-- [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Linux Application Launcher 🇺🇦
+- [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Feature rich application Launcher for Linux
 - [awesto/cookiecutter-django-shop](https://github.com/awesto/cookiecutter-django-shop) - Cookiecutter django-SHOP is a blueprint for an e-commerce site based on django-CMS.
 - [LimoYuan/i3ForDebianBuster](https://github.com/LimoYuan/i3ForDebianBuster) - i3, debian10, debian buster, dotfiles
 - [universal-ctags/ctags-win32](https://github.com/universal-ctags/ctags-win32) - Universal Ctags Win32 daily builds
