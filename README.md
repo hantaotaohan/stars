@@ -542,7 +542,7 @@
 - [axiros/terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
 - [wasi-master/pypi-command-line](https://github.com/wasi-master/pypi-command-line) - A powerful, colorful, beautiful command-line-interface for pypi.org
 - [darknessomi/musicbox](https://github.com/darknessomi/musicbox) - 网易云音乐命令行版本
-- [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool) - Python爬虫代理IP池(proxy pool)
+- [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool) - Python ProxyPool for web spider
 - [cjbassi/rofi-files](https://github.com/cjbassi/rofi-files) - Use rofi to search files and directories with fd and open them with xdg-open
 - [olixu/CBDict](https://github.com/olixu/CBDict) - This program monitors the clipboard of the system and translate the word from English to Chinese by YouDao api, especially designed for Students who are working under linux environment where there is 
 - [xxNull-lsk/my_dict](https://github.com/xxNull-lsk/my_dict) - 一款中英文词典
@@ -1000,7 +1000,7 @@
 
 ## Vue 
 
-- [dulaiduwang003/SuperBot-ChatGPTApp](https://github.com/dulaiduwang003/SuperBot-ChatGPTApp) - SuperBot 系列小程序
+- [dulaiduwang003/SUPERBOT-GPT](https://github.com/dulaiduwang003/SUPERBOT-GPT) - 基于JDK17开发的微信流量主小程序 支持必应对话 GPT多模型对话 SD绘图 DALL绘图 动态配置部署环境
 - [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
 - [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
 
