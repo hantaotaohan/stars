@@ -957,7 +957,7 @@
 - [voldikss/vim-floaterm](https://github.com/voldikss/vim-floaterm) - :computer: Terminal manager for (neo)vim
 - [michal-h21/vim-zettel](https://github.com/michal-h21/vim-zettel) - VimWiki addon for managing notes according to Zettelkasten method
 - [michal-h21/vimwiki-sync](https://github.com/michal-h21/vimwiki-sync) - Automaticaly synchronize vimwiki at startup and exit using git
-- [Neur1n/neuims](https://github.com/Neur1n/neuims) - An input method switcher.
+- [neur1n/neuims](https://github.com/neur1n/neuims) - An input method switcher.
 - [skywind3000/vim-terminal-help](https://github.com/skywind3000/vim-terminal-help) - Small changes make vim/nvim's internal terminal great again !!
 - [asins/vimcdoc](https://github.com/asins/vimcdoc) - Vim Chinese Documentation
 - [garbas/vim-snipmate](https://github.com/garbas/vim-snipmate) - snipMate.vim aims to be a concise vim script that implements some of TextMate's snippets features in Vim.
