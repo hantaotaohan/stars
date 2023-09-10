@@ -775,7 +775,7 @@
 - [fidian/ansi](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
 - [feherke/Bash-script](https://github.com/feherke/Bash-script) - Bash scripts
 - [JosefZIla/bash2048](https://github.com/JosefZIla/bash2048) - Bash implementation of 2048 game
-- [manilarome/rofi-spotlight](https://github.com/manilarome/rofi-spotlight) - Spotlight-like Rofi
+- [eromatiya/rofi-spotlight](https://github.com/eromatiya/rofi-spotlight) - Spotlight-like Rofi
 - [4z3/fzf-plugins](https://github.com/4z3/fzf-plugins) - 
 - [gohugoio/hugoThemes](https://github.com/gohugoio/hugoThemes) - A curated directory of Hugo themes
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
