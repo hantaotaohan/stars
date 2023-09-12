@@ -742,7 +742,7 @@
 - [salman-abedin/bolt](https://github.com/salman-abedin/bolt) - Launcher wrapper for a lightning fast Unix workflow
 - [ArnaudLevaufre/dotfiles](https://github.com/ArnaudLevaufre/dotfiles) - Configuration files I use to setup my workstations
 - [czardien/fmenu](https://github.com/czardien/fmenu) - A fzf-based implementation of a dmenu application.
-- [apathor/cz](https://github.com/apathor/cz) - Abstraction over line selection utilities - plus handy plugins!
+- [apathor/cz](https://github.com/apathor/cz) - Abstraction for interactive line selection utilities - plus handy plugins!
 - [petejodo/dotfiles](https://github.com/petejodo/dotfiles) - 
 - [thimc/vifmimg](https://github.com/thimc/vifmimg) - Image previews for Vifm (vi file manager) using Überzug
 - [gerardbm/dotfiles](https://github.com/gerardbm/dotfiles) - My *NIX dotfiles [i3wm, URxvt, tmux, zsh, rofi, cmus, irssi, vifm, mutt, feh, mpv, newsbeuter]
