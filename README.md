@@ -359,7 +359,7 @@
 - [Neelfrost/nvim-config](https://github.com/Neelfrost/nvim-config) - Personal neovim configuration⚡🪟 - Fully configured for LaTeX, Python, Lua, C#, HTML, CSS, and Javascript - Neovim version: v0.8+
 - [ray-x/nvim](https://github.com/ray-x/nvim) - Blazing fast neovim setup with 180+ plugins.
 - [natecraddock/workspaces.nvim](https://github.com/natecraddock/workspaces.nvim) - a simple plugin to manage workspace directories in neovim
-- [dharmx-lua/nvim](https://github.com/dharmx-lua/nvim) - Blazingly fast SHUTTHEFUCKUP.
+- [dharmx/nvim](https://github.com/dharmx/nvim) - Blazingly fast SHUTTHEFUCKUP.
 - [Iamafnan/my-nvimrc](https://github.com/Iamafnan/my-nvimrc) - My Neovim configurations
 - [ja-ford/delaytrain.nvim](https://github.com/ja-ford/delaytrain.nvim) - Train yourself to stop repeating keys... gently
 - [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) - 🗺️ A legend for your keymaps, commands, and autocmds, with which-key.nvim integration
@@ -1001,7 +1001,7 @@
 
 ## Vue 
 
-- [dulaiduwang003/SUPERBOT-GPT](https://github.com/dulaiduwang003/SUPERBOT-GPT) - 基于JDK17开发的微信流量主小程序 支持必应对话 GPT多模型对话 SD绘图 DALL绘图 动态配置部署环境
+- [dulaiduwang003/SUPERBOT-GPT](https://github.com/dulaiduwang003/SUPERBOT-GPT) - 基于JDK17开发的微信流量主小程序 支持必应对话 GPT多模型对话 SD绘图 DALL绘图 动态配置部署环境 含Web
 - [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
 - [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
 
