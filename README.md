@@ -679,7 +679,7 @@
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [wfxr/code-minimap](https://github.com/wfxr/code-minimap) - 🛰  A high performance code minimap render.
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
-- [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers
+- [ankitects/anki](https://github.com/ankitects/anki) - Anki's shared backend and web components, and the Qt frontend
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [Canop/clima](https://github.com/Canop/clima) - A minimal viewer for Termimad
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
