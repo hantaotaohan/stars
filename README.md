@@ -240,7 +240,7 @@
 ## HTML 
 
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
-- [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial）
+- [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
 - [LuckyHookin/edge-TTS-record](https://github.com/LuckyHookin/edge-TTS-record) - 一个可以录制 Microsoft Edge 浏览器的语音合成（TTS）语音并输出为 .wav 音频的（windows平台）工具。
 - [ollyhsu/termius-cracked](https://github.com/ollyhsu/termius-cracked) - Terminus Cracked Version
 - [sehmaschine/django-grappelli](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the Django Admin-Interface (official repository).
