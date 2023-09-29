@@ -557,7 +557,7 @@
 - [poemdistance/google-translate](https://github.com/poemdistance/google-translate) - Python 谷歌中英文翻译
 - [justahuman1/i3-grid](https://github.com/justahuman1/i3-grid) - A i3wm grid controller for accelerated floating window management.
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
-- [leosolid/qutebrowser-themes](https://github.com/leosolid/qutebrowser-themes) - themes for qutebrowser
+- [leandwo/qutebrowser-themes](https://github.com/leandwo/qutebrowser-themes) - themes for qutebrowser
 - [aurecchia/i3-resizer](https://github.com/aurecchia/i3-resizer) - i3 directional resizer
 - [sfyc23/EverydayWechat](https://github.com/sfyc23/EverydayWechat) - 微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等）
 - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Feature rich application Launcher for Linux
