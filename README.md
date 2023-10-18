@@ -134,6 +134,7 @@
 
 ## C# # 
 
+- [NickvisionApps/Cavalier](https://github.com/NickvisionApps/Cavalier) - Visualize audio with CAVA
 - [0x90d/videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - Video Duplicate Finder - Crossplatform
 - [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, support Xray core and v2fly core and others
 - [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
@@ -151,6 +152,8 @@
 
 ## C++ 
 
+- [v1nns/spectrum](https://github.com/v1nns/spectrum) - Console-based music player written in C++17 :musical_note:
+- [missdeer/hannah](https://github.com/missdeer/hannah) - 
 - [PEMessage/im-select-imm](https://github.com/PEMessage/im-select-imm) - A personal imporve. Now able to switch interal mode for IME
 - [pit-ray/win-vind](https://github.com/pit-ray/win-vind) - You can operate Windows with key bindings like Vim.
 - [contour-terminal/contour](https://github.com/contour-terminal/contour) - Modern C++ Terminal Emulator
@@ -355,6 +358,7 @@
 
 ## Lua 
 
+- [DonCanjas/mpv-visualizer](https://github.com/DonCanjas/mpv-visualizer) - mpv lua scripts
 - [ojroques/nvim-bufdel](https://github.com/ojroques/nvim-bufdel) - A Neovim plugin to improve buffer deletion
 - [nvim-zh/md-nanny](https://github.com/nvim-zh/md-nanny) - 
 - [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim) - Edit and review GitHub issues and pull requests from the comfort of your favorite editor
