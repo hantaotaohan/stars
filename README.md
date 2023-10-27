@@ -318,7 +318,7 @@
 - [ybz640919/jxd_helper](https://github.com/ybz640919/jxd_helper) - 京训钉视频助手
 - [bayleeadamoss/zazu](https://github.com/bayleeadamoss/zazu) - :rocket: A fully extensible and open source launcher for hackers, creators and dabblers.
 - [linonetwo/zazu](https://github.com/linonetwo/zazu) - :rocket: A fully extensible and open source launcher for hackers, creators and dabblers. (my PR is merged! download latest one in the website!)
-- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - 🔵 Cerebro is an open-source launcher to improve your productivity and efficiency
 - [zenghongtu/saladict-desktop](https://github.com/zenghongtu/saladict-desktop) - ✨✨桌面划词与翻译工具，聚合了 N 多词典，功能强大，支持 Windows 、 Mac 和 Linux。
 - [eNkru/freechat](https://github.com/eNkru/freechat) - 致力于打造macOS和Linux桌面下最好用的微信（wechat）客户端
