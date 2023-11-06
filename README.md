@@ -365,7 +365,7 @@
 - [lukas-reineke/virt-column.nvim](https://github.com/lukas-reineke/virt-column.nvim) - Display a character as the colorcolumn
 - [rafcamlet/nvim-luapad](https://github.com/rafcamlet/nvim-luapad) - Interactive real time neovim scratchpad for embedded lua engine - type and watch!
 - [Neelfrost/nvim-config](https://github.com/Neelfrost/nvim-config) - Personal neovim configuration⚡🪟 - Fully configured for LaTeX, Python, Lua, C#, HTML, CSS, and Javascript - Neovim version: v0.8+
-- [ray-x/nvim](https://github.com/ray-x/nvim) - Blazing fast neovim setup with 180+ plugins.
+- [ray-x/nvim](https://github.com/ray-x/nvim) - Personal neovim setup with 180+ plugins.
 - [natecraddock/workspaces.nvim](https://github.com/natecraddock/workspaces.nvim) - a simple plugin to manage workspace directories in neovim
 - [dharmx/nvim](https://github.com/dharmx/nvim) - Blazingly fast SHUTTHEFUCKUP.
 - [Iamafnan/my-nvimrc](https://github.com/Iamafnan/my-nvimrc) - My Neovim configurations
@@ -1007,7 +1007,7 @@
 
 ## Vue 
 
-- [dulaiduwang003/SUPERBOT-GPT](https://github.com/dulaiduwang003/SUPERBOT-GPT) - 基于JDK17开发的微信流量主小程序 支持必应对话 GPT多模型对话 SD绘图 DALL绘图 动态配置部署环境 含Web
+- [dulaiduwang003/SuperBot](https://github.com/dulaiduwang003/SuperBot) - 基于JDK17开发的微信流量主小程序 ,内置图片服务器无需第三方OSS,内含两个版本,小程序与网页版本数据不连贯,接入支付宝当面付款
 - [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
 - [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
 
