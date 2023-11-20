@@ -33,6 +33,7 @@
 - [Others](#others)
 - [PowerShell](#powershell)
 - [Python](#python)
+- [QML](#qml)
 - [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -526,7 +527,6 @@
 - [Algebra-FUN/WeReadScan](https://github.com/Algebra-FUN/WeReadScan) - 扫描“微信读书”已购图书并下载本地PDF的爬虫
 - [blackholll/loonflow](https://github.com/blackholll/loonflow) - 基于django的工作流引擎,工单(a workflow engine base on django python)
 - [yihong0618/Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper) - Download all your kindle books script.
-- [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。基于 PaddleOCR 。
 - [hakib/django-admin-lightweight-date-hierarchy](https://github.com/hakib/django-admin-lightweight-date-hierarchy) - Django Admin date_hierarchy with zero queries
 - [whoisashish/django-admin-searchable-dropdown](https://github.com/whoisashish/django-admin-searchable-dropdown) - A PyPi Project with a Django admin filter implementation that renders as a searchable select field dropdown.
 - [alexsilva/django-xadmin](https://github.com/alexsilva/django-xadmin) - Drop-in replacement of Django admin comes with lots of goodies, fully extensible with plugin support, pretty UI based on Twitter Bootstrap.
@@ -661,6 +661,10 @@
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [x-hw/amazing-qr](https://github.com/x-hw/amazing-qr) - 💮 amazing QRCode generator in Python (supporting animated gif) - Python amazing 二维码生成器（支持 gif 动态图片二维码）
 - [yangxuan0928/cut_image](https://github.com/yangxuan0928/cut_image) - 使用python PIL 库将一张照片切分为9张图
+
+## QML 
+
+- [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - 开源、免费、实用的离线OCR软件。截屏/粘贴/批量导入图片，支持段落排版/排除水印，扫描/生成二维码。全程无需联网，内置多国语言识别库。
 
 ## Roff 
 
