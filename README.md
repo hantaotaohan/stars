@@ -396,7 +396,7 @@
 - [keaising/im-select.nvim](https://github.com/keaising/im-select.nvim) - Switch Input Method automatically depends on Neovim's edit mode
 - [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim) - Neovim motions on speed!
 - [andrewferrier/wrapping.nvim](https://github.com/andrewferrier/wrapping.nvim) - Plugin to make it easier to switch between 'soft' and 'hard' line wrapping in NeoVim
-- [mrbeardad/lvim](https://github.com/mrbeardad/lvim) - :moon:基于LunarVim的开箱即用的现代化高性能IDE. My custom LunarVim config, use modern neovim as high performance IDE
+- [mrbeardad/Lvim](https://github.com/mrbeardad/Lvim) - :moon:基于LunarVim的开箱即用的现代化高性能IDE. My custom LunarVim config, use modern neovim as high performance IDE
 - [haaag/nvim](https://github.com/haaag/nvim) - My neovim dotfiles with Lua config.
 - [mickael-menu/zk-nvim](https://github.com/mickael-menu/zk-nvim) - Neovim extension for zk
 - [ElPiloto/telescope-vimwiki.nvim](https://github.com/ElPiloto/telescope-vimwiki.nvim) - look through your vimwiki with your telescope
