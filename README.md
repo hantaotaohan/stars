@@ -396,7 +396,7 @@
 - [haaag/nvim](https://github.com/haaag/nvim) - My neovim dotfiles with Lua config.
 - [zk-org/zk-nvim](https://github.com/zk-org/zk-nvim) - Neovim extension for zk
 - [ElPiloto/telescope-vimwiki.nvim](https://github.com/ElPiloto/telescope-vimwiki.nvim) - look through your vimwiki with your telescope
-- [LudoPinelli/comment-box.nvim](https://github.com/LudoPinelli/comment-box.nvim) - :sparkles: Clarify and beautify your comments using boxes and lines.
+- [LudoPinelli/comment-box.nvim](https://github.com/LudoPinelli/comment-box.nvim) - :sparkles: Clarify and beautify your comments and plain text files using boxes and lines.
 - [askfiy/nvim](https://github.com/askfiy/nvim) - An excellent Neovim configuration, which is as powerful as Vscode, is lightning fast ⚡
 - [edluffy/specs.nvim](https://github.com/edluffy/specs.nvim) - 👓 A fast and lightweight Neovim lua plugin to keep an eye on where your cursor has jumped.
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
