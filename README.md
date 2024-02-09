@@ -181,7 +181,7 @@
 - [app-generator/django-material-dashboard](https://github.com/app-generator/django-material-dashboard) - Django Dashboard - Material Design | AppSeed
 - [app-generator/django-datta-able](https://github.com/app-generator/django-datta-able) - Datta Able - Open-Source Django Dashboard | AppSeed
 - [liangjingkanji/DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) - 十二种主题风格 - Material Google JetBrains Vue Juejin Purple Ayu Dark
-- [kmmbvnr/django-material](https://github.com/kmmbvnr/django-material) - Material Design for Django
+- [viewflow/django-material](https://github.com/viewflow/django-material) - Material Design for Django
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [cannibalox/logseq-dark-hpx](https://github.com/cannibalox/logseq-dark-hpx) - CSS snippets and themes for www.logseq.com
 - [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
