@@ -388,7 +388,7 @@
 - [zhaozg/neospace](https://github.com/zhaozg/neospace) - 
 - [pocco81/true-zen.nvim](https://github.com/pocco81/true-zen.nvim) - 🦝 Clean and elegant distraction-free writing for NeoVim
 - [keaising/im-select.nvim](https://github.com/keaising/im-select.nvim) - Switch Input Method automatically depends on Neovim's edit mode
-- [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim) - Neovim motions on speed!
+- [hadronized/hop.nvim](https://github.com/hadronized/hop.nvim) - Neovim motions on speed!
 - [andrewferrier/wrapping.nvim](https://github.com/andrewferrier/wrapping.nvim) - Plugin to make it easier to switch between 'soft' and 'hard' line wrapping in NeoVim
 - [mrbeardad/nvim](https://github.com/mrbeardad/nvim) - :moon: A nvim config for both neovim and vscode.
 - [haaag/nvim](https://github.com/haaag/nvim) - My neovim dotfiles with Lua config.
