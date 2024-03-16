@@ -296,7 +296,7 @@
 - [oubingbing/screenshots](https://github.com/oubingbing/screenshots) - 恶搞截图，一个可以生成微信聊天或者红包等功能的微信小程序
 - [kesixin/ReadWechatApp](https://github.com/kesixin/ReadWechatApp) - 免费小说阅读小程序
 - [sesine/wechat-weapp-movie](https://github.com/sesine/wechat-weapp-movie) - 🎬电影推荐 - 微信小程序
-- [hedongshu/miniapp-coupons](https://github.com/hedongshu/miniapp-coupons) - 原生小程序云开发，别人领外卖券，你拿佣金，轻松赚个零花钱
+- [hotuns/miniapp-coupons](https://github.com/hotuns/miniapp-coupons) - 原生小程序云开发，别人领外卖券，你拿佣金，轻松赚个零花钱
 - [HunterXuan/E-Coupon](https://github.com/HunterXuan/E-Coupon) - 基于淘客助手API和淘宝官方API的领优惠券小程序
 - [shkreios/django-admin-multiselect](https://github.com/shkreios/django-admin-multiselect) - 
 - [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
