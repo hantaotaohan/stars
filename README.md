@@ -791,7 +791,7 @@
 - [Zeioth/rofi-shortcuts](https://github.com/Zeioth/rofi-shortcuts) - The ultimate shortcuts cheatsheet
 - [creio/dots](https://github.com/creio/dots) - config
 - [rememberYou/dotfiles](https://github.com/rememberYou/dotfiles) - 🏡 Personal dotfiles configuration
-- [valerie-makes/notion-linux](https://github.com/valerie-makes/notion-linux) - Native Notion packages for Linux
+- [valin4tor/notion-linux](https://github.com/valin4tor/notion-linux) - Native Notion packages for Linux
 - [geeks-r-us/anbox-playstore-installer](https://github.com/geeks-r-us/anbox-playstore-installer) - Install script that automates installation of googles playstore in anbox
 - [nwg-piotr/rof](https://github.com/nwg-piotr/rof) - Launcher script to avoid running multiple instance of the same window
 - [ayosec/polybar-debian](https://github.com/ayosec/polybar-debian) - Debian packages for Polybar
