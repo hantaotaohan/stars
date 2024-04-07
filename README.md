@@ -832,7 +832,7 @@
 - [Mereithhh/vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统
 - [vipzhicheng/logseq-plugin-vim-shortcuts](https://github.com/vipzhicheng/logseq-plugin-vim-shortcuts) - Add part of VIM key bindings experience to Logseq
 - [aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.
-- [dephraiim/termd](https://github.com/dephraiim/termd) - Render markdown in the terminal
+- [ephraimduncan/termd](https://github.com/ephraimduncan/termd) - Render markdown in the terminal
 - [ineo6/hosts](https://github.com/ineo6/hosts) - GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。
 - [folke/polydock](https://github.com/folke/polydock) - ✨ A shiny and hackable application dock
 - [vipzhicheng/logseq-plugin-mark-map](https://github.com/vipzhicheng/logseq-plugin-mark-map) - This is a plugin for https://github.com/logseq/logseq to provide mindmap support based on https://github.com/gera2ld/markmap.
