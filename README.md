@@ -314,7 +314,7 @@
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - 🔵 Cerebro is an open-source launcher to improve your productivity and efficiency
 - [zenghongtu/saladict-desktop](https://github.com/zenghongtu/saladict-desktop) - ✨✨桌面划词与翻译工具，聚合了 N 多词典，功能强大，支持 Windows 、 Mac 和 Linux。
 - [eNkru/freechat](https://github.com/eNkru/freechat) - 致力于打造macOS和Linux桌面下最好用的微信（wechat）客户端
-- [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of your apps built on top of W3C WebDriver protocol
+- [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
 - [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
 - [gillstrom/screensaver](https://github.com/gillstrom/screensaver) - Start the screensaver.
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - Read e-books in style
@@ -836,7 +836,7 @@
 - [ephraimduncan/termd](https://github.com/ephraimduncan/termd) - Render markdown in the terminal
 - [ineo6/hosts](https://github.com/ineo6/hosts) - GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。
 - [folke/polydock](https://github.com/folke/polydock) - ✨ A shiny and hackable application dock
-- [vipzhicheng/logseq-plugin-mark-map](https://github.com/vipzhicheng/logseq-plugin-mark-map) - This is a plugin for https://github.com/logseq/logseq to provide mindmap support based on https://github.com/gera2ld/markmap.
+- [vipzhicheng/logseq-plugin-mark-map](https://github.com/vipzhicheng/logseq-plugin-mark-map) - This is a plugin for https://github.com/logseq/logseq to provide mindmap support based on https://github.com/markmap/markmap.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [jacoborus/estilo](https://github.com/jacoborus/estilo) - Create color schemes for Vim, Airline and Lightline
