@@ -427,7 +427,6 @@
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [ecosse3/nvim](https://github.com/ecosse3/nvim) - A non-minimal Neovim config built to work most efficiently with Frontend Development
 - [glepnir/nvim](https://github.com/glepnir/nvim) - neovim configuration written in lua
-- [knmac/.dotfiles](https://github.com/knmac/.dotfiles) - 
 - [rashil2000/dotfiles](https://github.com/rashil2000/dotfiles) - Configuration files
 - [foo-dogsquared/dotfiles](https://github.com/foo-dogsquared/dotfiles) - My dotfiles for my Linux-based system setup.
 - [nvim-telescope/telescope-media-files.nvim](https://github.com/nvim-telescope/telescope-media-files.nvim) - Telescope extension to preview media files using Ueberzug.
@@ -748,6 +747,7 @@
 - [sdushantha/farge](https://github.com/sdushantha/farge) - Click on a pixel on your screen and show its color value
 - [salman-abedin/bolt](https://github.com/salman-abedin/bolt) - Launcher wrapper for a lightning fast Unix workflow
 - [ArnaudLevaufre/dotfiles](https://github.com/ArnaudLevaufre/dotfiles) - Configuration files I use to setup my workstations
+- [knmac/.dotfiles](https://github.com/knmac/.dotfiles) - 
 - [czardien/fmenu](https://github.com/czardien/fmenu) - A fzf-based implementation of a dmenu application.
 - [apathor/cz](https://github.com/apathor/cz) - Abstraction for interactive line selection utilities - plus handy plugins!
 - [petejodo/dotfiles](https://github.com/petejodo/dotfiles) - 
