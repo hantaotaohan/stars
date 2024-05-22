@@ -186,6 +186,7 @@
 - [cannibalox/logseq-dark-hpx](https://github.com/cannibalox/logseq-dark-hpx) - CSS snippets and themes for www.logseq.com
 - [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
 - [WnP/vimwiki_markdown](https://github.com/WnP/vimwiki_markdown) - vimwiki markdown file to html with syntax highlighting.
+- [creio/dots](https://github.com/creio/dots) - config
 - [chrisju/vimwikiblog](https://github.com/chrisju/vimwikiblog) - make vimwiki a blog
 - [deryrahman/jupyter-notebook-one-dark-theme](https://github.com/deryrahman/jupyter-notebook-one-dark-theme) - OneDark theme for Jupyter Notebook
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -787,7 +788,6 @@
 - [gohugoio/hugoThemes](https://github.com/gohugoio/hugoThemes) - A curated directory of Hugo themes
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
 - [Zeioth/rofi-shortcuts](https://github.com/Zeioth/rofi-shortcuts) - The ultimate shortcuts cheatsheet
-- [creio/dots](https://github.com/creio/dots) - config
 - [rememberYou/dotfiles](https://github.com/rememberYou/dotfiles) - 🏡 Personal dotfiles configuration
 - [valin4tor/notion-linux](https://github.com/valin4tor/notion-linux) - Native Notion packages for Linux
 - [geeks-r-us/anbox-playstore-installer](https://github.com/geeks-r-us/anbox-playstore-installer) - Install script that automates installation of googles playstore in anbox
