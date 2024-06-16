@@ -865,7 +865,7 @@
 ## Vim Script 
 
 - [lervag/wiki.vim](https://github.com/lervag/wiki.vim) - A wiki plugin for Vim
-- [mcchrish/zenbones.nvim](https://github.com/mcchrish/zenbones.nvim) - 🪨 A collection of contrast-based Vim/Neovim colorschemes
+- [zenbones-theme/zenbones.nvim](https://github.com/zenbones-theme/zenbones.nvim) - 🪨 A collection of contrast-based Vim/Neovim colorschemes
 - [deponian/vim-onedark](https://github.com/deponian/vim-onedark) - Faster version of onedark.vim
 - [chenxuan520/vim-fast](https://github.com/chenxuan520/vim-fast) - A very fast Vim repository for C/C++,Go,Python,Rust
 - [yegappan/lsp](https://github.com/yegappan/lsp) - Language Server Protocol (LSP) plugin for Vim9
