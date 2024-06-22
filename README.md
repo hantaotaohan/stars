@@ -136,6 +136,7 @@
 - [NickvisionApps/Cavalier](https://github.com/NickvisionApps/Cavalier) - Visualize audio with CAVA
 - [0x90d/videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - Video Duplicate Finder - Crossplatform
 - [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, support Xray core and v2fly core and others
+- [tfpf/WSLNotify](https://github.com/tfpf/WSLNotify) - Native Windows notifications while using WSL.
 - [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
 - [darktohka/FlashPatch](https://github.com/darktohka/FlashPatch) - FlashPatch! Play Adobe Flash Player games in the browser after January 12th, 2021.
 - [PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine) - A bash inspired readline implementation for PowerShell
@@ -723,7 +724,6 @@
 
 ## Shell 
 
-- [tfpf/WSLNotify](https://github.com/tfpf/WSLNotify) - Native Windows notifications while using WSL. (And a bunch of environment-agnostic configuration files.)
 - [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
 - [fhill2/dotfiles](https://github.com/fhill2/dotfiles) - 
 - [anurag3301/my-linux-setup](https://github.com/anurag3301/my-linux-setup) - Here I store all the Linux dotfiles and installation stuff.
