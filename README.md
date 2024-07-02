@@ -503,6 +503,7 @@
 
 ## Python 
 
+- [dodid/markdown2img](https://github.com/dodid/markdown2img) - Convert markdown to images
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [TianPangJi/drf_admin](https://github.com/TianPangJi/drf_admin) - 项目基于Django、Django REST framework（DRF）、Channels、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC；目前已实现基本功能，满足日常学习使用，工由于工作较忙更新较慢，请见谅......https://tianpangji.github.io/
 - [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
@@ -868,7 +869,7 @@
 - [deponian/vim-onedark](https://github.com/deponian/vim-onedark) - Faster version of onedark.vim
 - [chenxuan520/vim-fast](https://github.com/chenxuan520/vim-fast) - A very fast Vim repository for C/C++,Go,Python,Rust
 - [yegappan/lsp](https://github.com/yegappan/lsp) - Language Server Protocol (LSP) plugin for Vim9
-- [brglng/vim-im-select](https://github.com/brglng/vim-im-select) - Improve Vim/Neovim experience with input methods.
+- [brglng/vim-im-select-1](https://github.com/brglng/vim-im-select-1) - Improve Vim/Neovim experience with input methods.
 - [hotoo/pangu.vim](https://github.com/hotoo/pangu.vim) - 『盘古之白』中文排版自动规范化的 Vim 插件
 - [morhetz/gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim
 - [svermeulen/vim-subversive](https://github.com/svermeulen/vim-subversive) - Vim plugin providing operator motions to quickly replace text
