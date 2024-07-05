@@ -24,6 +24,7 @@
 - [Haskell](#haskell)
 - [Inno Setup](#inno-setup)
 - [JSON](#json)
+- [Janet](#janet)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
@@ -267,6 +268,10 @@
 
 - [FastGitORG/uptime](https://github.com/FastGitORG/uptime) - 📈 Uptime monitor and status page for FastGit, powered by @upptime
 
+## Janet 
+
+- [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context
+
 ## Java 
 
 - [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
@@ -381,7 +386,6 @@
 - [gen740/config.nvim](https://github.com/gen740/config.nvim) - 
 - [mnowotnik/noteflow.nvim](https://github.com/mnowotnik/noteflow.nvim) - Neovim plugin that streamlines taking notes
 - [lukas-reineke/headlines.nvim](https://github.com/lukas-reineke/headlines.nvim) - This plugin adds horizontal highlights for text filetypes, like markdown, orgmode, and neorg.
-- [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context
 - [zhaozg/neospace](https://github.com/zhaozg/neospace) - 
 - [pocco81/true-zen.nvim](https://github.com/pocco81/true-zen.nvim) - 🦝 Clean and elegant distraction-free writing for NeoVim
 - [keaising/im-select.nvim](https://github.com/keaising/im-select.nvim) - Switch Input Method automatically depends on Neovim's edit mode
