@@ -372,7 +372,7 @@
 - [tzachar/local-highlight.nvim](https://github.com/tzachar/local-highlight.nvim) - 
 - [0x00-ketsu/markdown-preview.nvim](https://github.com/0x00-ketsu/markdown-preview.nvim) - A Neovim plugin renders markdown file in terminal buffer.
 - [delphinus/headlines.nvim](https://github.com/delphinus/headlines.nvim) - This plugin adds 3 kind of horizontal highlights for text filetypes, like `markdown`, `vimwiki` and `orgmode`
-- [startup-nvim/startup.nvim](https://github.com/startup-nvim/startup.nvim) - A highly configurable neovim startup screen
+- [max397574/startup.nvim](https://github.com/max397574/startup.nvim) - A highly configurable neovim startup screen
 - [kiyoon/telescope-insert-path.nvim](https://github.com/kiyoon/telescope-insert-path.nvim) - Insert file path on the current buffer using Telescope.nvim
 - [rebelot/dotfiles](https://github.com/rebelot/dotfiles) - my configuration files
 - [famiu/bufdelete.nvim](https://github.com/famiu/bufdelete.nvim) - Delete Neovim buffers without losing window layout
