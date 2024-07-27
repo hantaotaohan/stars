@@ -291,7 +291,6 @@
 - [maotoumao/ai-divination](https://github.com/maotoumao/ai-divination) - Chatgpt运势 代码（简化版）
 - [zhroc/campus-service-wechat](https://github.com/zhroc/campus-service-wechat) - 基于微信云开发的智慧校园综合服务（含资讯浏览、场地预约、报修申请、审核管理等功能）微信小程序
 - [gaolipeng/read-books](https://github.com/gaolipeng/read-books) - 读书微信小程序，可以实现读书打卡、分享、排行榜等功能
-- [kerolt/wechat-chatgpt](https://github.com/kerolt/wechat-chatgpt) - Chatgpt微信小程序
 - [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
 - [lin-xin/wxapp-mall](https://github.com/lin-xin/wxapp-mall) - 微信小程序 商城demo
 - [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
@@ -824,6 +823,7 @@
 
 ## TypeScript 
 
+- [Yuiffy/BiliGPT](https://github.com/Yuiffy/BiliGPT) - BiliGPT 哔哩哔哩 · 视频内容一键总结
 - [crawlab-team/artipub](https://github.com/crawlab-team/artipub) - Article publishing platform that automatically distributes your articles to various media channels
 - [toppair/peek.nvim](https://github.com/toppair/peek.nvim) - Markdown preview plugin for Neovim
 - [svsool/memo](https://github.com/svsool/memo) - Markdown knowledge base with bidirectional [[link]]s built on top of VSCode
