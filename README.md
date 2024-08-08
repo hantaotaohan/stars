@@ -46,6 +46,7 @@
 - [Vim Script](#vim-script)
 - [Visual Basic](#visual-basic)
 - [Vue](#vue)
+- [Zig](#zig)
 
 ## Assembly 
 
@@ -111,7 +112,6 @@
 - [wmww/gtk-layer-shell](https://github.com/wmww/gtk-layer-shell) - A library to create panels and other desktop components for Wayland using the Layer Shell protocol
 - [eafer/rdrview](https://github.com/eafer/rdrview) - Firefox Reader View as a command line tool
 - [tats/w3m](https://github.com/tats/w3m) - Debian's w3m: WWW browsable pager
-- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 - [prikhi/lightdm-mini-greeter](https://github.com/prikhi/lightdm-mini-greeter) - A Minimal, Configurable, Single-User GTK3 LightDM Greeter
 - [mstg/zx](https://github.com/mstg/zx) - i3 scratchpad manager
 - [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11
@@ -1011,6 +1011,10 @@
 - [dulaiduwang003/TS-GPT](https://github.com/dulaiduwang003/TS-GPT) - Dual-ended GPT application developed based on SpringCloudAlibaba, including voice dialogue, drawing, image recognition, and text dialogue
 - [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
 - [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
+
+## Zig 
+
+- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 
 
 ## License
