@@ -114,7 +114,7 @@
 - [tats/w3m](https://github.com/tats/w3m) - Debian's w3m: WWW browsable pager
 - [prikhi/lightdm-mini-greeter](https://github.com/prikhi/lightdm-mini-greeter) - A Minimal, Configurable, Single-User GTK3 LightDM Greeter
 - [mstg/zx](https://github.com/mstg/zx) - i3 scratchpad manager
-- [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11
+- [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11 with animation support
 - [alexanderk23/gluqlo](https://github.com/alexanderk23/gluqlo) - Gluqlo: Fliqlo for Linux
 - [addy-dclxvi/almighty-dotfiles](https://github.com/addy-dclxvi/almighty-dotfiles) - A dump repository of my dotfiles since the first time I learned ricing. So everything is really messy here.
 - [mwh/dragon](https://github.com/mwh/dragon) - Drag and drop source/target for X
