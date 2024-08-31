@@ -789,7 +789,7 @@
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
 - [Zeioth/rofi-shortcuts](https://github.com/Zeioth/rofi-shortcuts) - The ultimate shortcuts cheatsheet
 - [rememberYou/dotfiles](https://github.com/rememberYou/dotfiles) - 🏡 Personal dotfiles configuration
-- [valin4tor/notion-linux](https://github.com/valin4tor/notion-linux) - Native Notion packages for Linux
+- [vtenfys/notion-linux](https://github.com/vtenfys/notion-linux) - Native Notion packages for Linux
 - [geeks-r-us/anbox-playstore-installer](https://github.com/geeks-r-us/anbox-playstore-installer) - Install script that automates installation of googles playstore in anbox
 - [nwg-piotr/rof](https://github.com/nwg-piotr/rof) - Launcher script to avoid running multiple instance of the same window
 - [ayosec/polybar-debian](https://github.com/ayosec/polybar-debian) - Debian packages for Polybar
