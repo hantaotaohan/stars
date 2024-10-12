@@ -515,7 +515,7 @@
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - [try V7!] Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
 - [HFrost0/bilix](https://github.com/HFrost0/bilix) - ⚡️Lightning-fast async download tool for bilibili and more
 - [jonz94/Sarasa-Gothic-Nerd-Fonts](https://github.com/jonz94/Sarasa-Gothic-Nerd-Fonts) - Nerd fonts patched Sarasa Gothic font.
-- [tldr-pages/tldr-python-client](https://github.com/tldr-pages/tldr-python-client) - Python command-line client for tldr pages 📚
+- [tldr-pages/tldr-python-client](https://github.com/tldr-pages/tldr-python-client) - :snake: Python command-line client for tldr pages 📚
 - [smahesh29/Django-WebApp](https://github.com/smahesh29/Django-WebApp) - This is a web-app created using Python, Django. By using this user can login, upload files and also can view and download files uploaded by other users.
 - [adamchainz/django-browser-reload](https://github.com/adamchainz/django-browser-reload) - Automatically reload your browser in development.
 - [Algebra-FUN/WeReadScan](https://github.com/Algebra-FUN/WeReadScan) - 扫描“微信读书”已购图书并下载本地PDF的爬虫
