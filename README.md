@@ -186,6 +186,7 @@
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [cannibalox/logseq-dark-hpx](https://github.com/cannibalox/logseq-dark-hpx) - CSS snippets and themes for www.logseq.com
 - [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
+- [ButaiKirin/MicrosoftHostsPicker](https://github.com/ButaiKirin/MicrosoftHostsPicker) - A lightweight Python script to help you select the fastest IP addresses for Microsoft services.
 - [WnP/vimwiki_markdown](https://github.com/WnP/vimwiki_markdown) - vimwiki markdown file to html with syntax highlighting.
 - [creio/dots](https://github.com/creio/dots) - config
 - [chrisju/vimwikiblog](https://github.com/chrisju/vimwikiblog) - make vimwiki a blog
@@ -564,7 +565,6 @@
 - [awesto/cookiecutter-django-shop](https://github.com/awesto/cookiecutter-django-shop) - Cookiecutter django-SHOP is a blueprint for an e-commerce site based on django-CMS.
 - [LimoYuan/i3ForDebianBuster](https://github.com/LimoYuan/i3ForDebianBuster) - i3, debian10, debian buster, dotfiles
 - [universal-ctags/ctags-win32](https://github.com/universal-ctags/ctags-win32) - Universal Ctags Win32 daily builds
-- [ButaiKirin/MicrosoftHostsPicker](https://github.com/ButaiKirin/MicrosoftHostsPicker) - A simple hosts picker for Microsoft Services
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
 - [2Dou/watermarker](https://github.com/2Dou/watermarker) - 使用python脚本为图片添加文字水印
 - [ivansurov/django-admin-display-fields-settings](https://github.com/ivansurov/django-admin-display-fields-settings) - Django application. The application adds in the admin form to control the views column.
