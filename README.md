@@ -915,7 +915,7 @@
 - [marcopaganini/termschool-vim-theme](https://github.com/marcopaganini/termschool-vim-theme) - A vim theme based on the "codeschool" theme, with lots of tweaks and optimized for 256 color terminals.
 - [laggardkernel/vim-one](https://github.com/laggardkernel/vim-one) - Adaptation of one-light and one-dark colorschemes for Vim
 - [inkarkat/vim-EnhancedJumps](https://github.com/inkarkat/vim-EnhancedJumps) - Enhanced jump and change list navigation commands.
-- [dstein64/vim-startuptime](https://github.com/dstein64/vim-startuptime) - A plugin for profiling Vim and Neovim startup time.
+- [dstein64/vim-startuptime](https://github.com/dstein64/vim-startuptime) - A plugin for viewing Vim and Neovim startup event timing information.
 - [djoshea/vim-autoread](https://github.com/djoshea/vim-autoread) - Have Vim automatically reload a file that has changed externally
 - [chrisbra/vim-autoread](https://github.com/chrisbra/vim-autoread) - Use tail -f on a buffer and append new content
 - [bagrat/vim-buffet](https://github.com/bagrat/vim-buffet) - IDE-like Vim tabline
