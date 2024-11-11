@@ -433,7 +433,6 @@
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [ecosse3/nvim](https://github.com/ecosse3/nvim) - A non-minimal Neovim config built to work most efficiently with Frontend Development
 - [glepnir/nvim](https://github.com/glepnir/nvim) - neovim configuration written in lua
-- [rashil2000/dotfiles](https://github.com/rashil2000/dotfiles) - Configuration files
 - [foo-dogsquared/dotfiles](https://github.com/foo-dogsquared/dotfiles) - My dotfiles for my Linux-based system setup.
 - [nvim-telescope/telescope-media-files.nvim](https://github.com/nvim-telescope/telescope-media-files.nvim) - Telescope extension to preview media files using Ueberzug.
 - [luakit/luakit](https://github.com/luakit/luakit) - Fast, small, webkit based browser framework extensible by Lua.
@@ -751,6 +750,7 @@
 - [apathor/cz](https://github.com/apathor/cz) - Abstraction for interactive line selection utilities - plus handy plugins!
 - [petejodo/dotfiles](https://github.com/petejodo/dotfiles) - 
 - [thimc/vifmimg](https://github.com/thimc/vifmimg) - Image previews for Vifm (vi file manager) using Überzug
+- [rashil2000/dotfiles](https://github.com/rashil2000/dotfiles) - Configuration files
 - [gerardbm/dotfiles](https://github.com/gerardbm/dotfiles) - My *NIX dotfiles [i3wm, URxvt, tmux, zsh, rofi, cmus, irssi, vifm, mutt, feh, mpv, newsbeuter]
 - [Chrysostomus/bspwm-scripts](https://github.com/Chrysostomus/bspwm-scripts) - 
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
