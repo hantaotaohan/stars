@@ -135,7 +135,7 @@
 
 - [NickvisionApps/Cavalier](https://github.com/NickvisionApps/Cavalier) - Visualize audio with CAVA
 - [0x90d/videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - Video Duplicate Finder - Crossplatform
-- [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows and Linux, support Xray core and v2fly core and others
+- [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows and Linux, support Xray core and others
 - [tfpf/WSLNotify](https://github.com/tfpf/WSLNotify) - Native Windows notifications while using WSL.
 - [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
 - [darktohka/FlashPatch](https://github.com/darktohka/FlashPatch) - FlashPatch! Play Adobe Flash Player games in the browser after January 12th, 2021.
@@ -250,6 +250,7 @@
 - [farridav/django-jazzmin](https://github.com/farridav/django-jazzmin) - Jazzy theme for Django
 - [xfirefly/Airplay-SDK](https://github.com/xfirefly/Airplay-SDK) - The Best Airplay SDK supports Airplay Mirroring and AirPlay Casting to a receiver device.
 - [saurabhdaware/text-to-handwriting](https://github.com/saurabhdaware/text-to-handwriting) - So your teacher asked you to upload written assignments? Hate writing assigments? This tool will help you convert your text to handwriting xD
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [zzossig/hugo-theme-zdoc](https://github.com/zzossig/hugo-theme-zdoc) - Make a documentation with hugo zdoc theme!
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [zhenyangze/uafred](https://github.com/zhenyangze/uafred) - alfred on ubuntu(use electron)
@@ -475,7 +476,6 @@
 - [changeforan/xnhe](https://github.com/changeforan/xnhe) - 
 - [apppay/pay](https://github.com/apppay/pay) - 微信/支付宝/h5/收款监控/个人收款,无需签约支付宝/微信支付,支付宝支付/微信支付的个人账户，提供即时到账收款API接口
 - [whitelok/watermark-remover](https://github.com/whitelok/watermark-remover) - Remove watermark automatically(Just can use for fixed position watermark till now). 自动水印消除算法的实现（目前只支持固定水印位置）。
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [mcchrish/vim-no-color-collections](https://github.com/mcchrish/vim-no-color-collections) - Collection of Vim themes with barely any colors
 - [hantaotaohan/stars](https://github.com/hantaotaohan/stars) - 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
