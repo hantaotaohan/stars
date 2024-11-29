@@ -179,7 +179,6 @@
 ## CSS 
 
 - [Bad3r/Logseq-Nord-Theme](https://github.com/Bad3r/Logseq-Nord-Theme) - Logseq in an arctic, north-bluish color palette 🧊
-- [app-generator/django-datta-able](https://github.com/app-generator/django-datta-able) - Datta Able - Open-Source Django Dashboard | App-Generator.dev
 - [liangjingkanji/DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) - 十二种主题风格 - Material Google JetBrains Vue Juejin Purple Ayu Dark
 - [viewflow/django-material](https://github.com/viewflow/django-material) - Material Design for Django
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
@@ -513,6 +512,7 @@
 - [app-generator/django-material-dashboard](https://github.com/app-generator/django-material-dashboard) - Django Dashboard - Open-Source Starter with Material Bootstrap 5 Design | App-Generator.dev
 - [ceuk/mutt_dotfiles](https://github.com/ceuk/mutt_dotfiles) - Dotfiles and some scripts for NeoMutt
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - [Try V7!] Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
+- [app-generator/django-datta-able](https://github.com/app-generator/django-datta-able) - Datta Able - Open-Source Django Dashboard | App-Generator.dev
 - [HFrost0/bilix](https://github.com/HFrost0/bilix) - ⚡️Lightning-fast async download tool for bilibili and more
 - [jonz94/Sarasa-Gothic-Nerd-Fonts](https://github.com/jonz94/Sarasa-Gothic-Nerd-Fonts) - Nerd fonts patched Sarasa Gothic font.
 - [tldr-pages/tldr-python-client](https://github.com/tldr-pages/tldr-python-client) - :snake: Python command-line client for tldr pages 📚
@@ -846,7 +846,7 @@
 - [oct16/TimeCat](https://github.com/oct16/TimeCat) - A Magical Web Recorder & Player 🖥
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [Automattic/simplenote-electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux
-- [CopyTranslator/CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - Foreign language reading and translation assistant based on copy and translate.
+- [CopyTranslator/CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - 🔠Foreign language reading and translation assistant based on copy and translate.
 - [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
