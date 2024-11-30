@@ -350,7 +350,7 @@
 - [yeayee/joyful-pandas](https://github.com/yeayee/joyful-pandas) - Pandas中文教程
 - [DonaldDai/Bokeh-CN](https://github.com/DonaldDai/Bokeh-CN) - Bokeh中文文档（翻译暂停）
 - [weidylan/Office_Automation_by_Using_Python](https://github.com/weidylan/Office_Automation_by_Using_Python) - Office Automation by Using Pythonf (For Excel, Word, PPT and PDF .....)
-- [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) - wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
+- [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) - wtfpython的中文翻译/持续🚧.../ 能力有限，欢迎帮我改进翻译
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
 
 ## Lua 
