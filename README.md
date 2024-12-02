@@ -80,6 +80,7 @@
 
 ## C 
 
+- [PEMessage/im-select-imm](https://github.com/PEMessage/im-select-imm) - A personal imporve. Now able to switch interal mode for IME
 - [rdfewxf/xcape](https://github.com/rdfewxf/xcape) - Linux utility to configure modifier keys to act as other keys when pressed and released on their own.
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
 - [mmhobi7/xwinwrap](https://github.com/mmhobi7/xwinwrap) - X11 Window in desktop enviroment background
@@ -153,7 +154,6 @@
 
 - [v1nns/spectrum](https://github.com/v1nns/spectrum) - Console-based music player written in C++17 :musical_note:
 - [missdeer/hannah](https://github.com/missdeer/hannah) - 
-- [PEMessage/im-select-imm](https://github.com/PEMessage/im-select-imm) - A personal imporve. Now able to switch interal mode for IME
 - [pit-ray/win-vind](https://github.com/pit-ray/win-vind) - You can operate Windows with key bindings like Vim.
 - [contour-terminal/contour](https://github.com/contour-terminal/contour) - Modern C++ Terminal Emulator
 - [HadesD/vim-power-mode](https://github.com/HadesD/vim-power-mode) - Power mode for Vim
