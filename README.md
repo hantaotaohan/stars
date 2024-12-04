@@ -136,7 +136,7 @@
 
 - [NickvisionApps/Cavalier](https://github.com/NickvisionApps/Cavalier) - Visualize audio with CAVA
 - [0x90d/videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - Video Duplicate Finder - Crossplatform
-- [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows and Linux, support Xray core and others
+- [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows and Linux, support Xray core and sing-box-core and others
 - [tfpf/WSLNotify](https://github.com/tfpf/WSLNotify) - Native Windows notifications while using WSL.
 - [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
 - [darktohka/FlashPatch](https://github.com/darktohka/FlashPatch) - FlashPatch! Play Adobe Flash Player games in the browser after January 12th, 2021.
