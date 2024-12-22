@@ -283,6 +283,8 @@
 
 ## JavaScript 
 
+- [lin-xin/calculator](https://github.com/lin-xin/calculator) - 基于 Electron + javascript 实现的桌面计算器应用
+- [seaswalker/js_calculator](https://github.com/seaswalker/js_calculator) - JavaScript模仿Windows10计算器
 - [jazzband/django-tinymce](https://github.com/jazzband/django-tinymce) - TinyMCE integration for Django
 - [pulipulichen/TinyMCE-Online-Editor](https://github.com/pulipulichen/TinyMCE-Online-Editor) - 使用TinyMCE來實作的線上編輯器
 - [15007555283/tinymceTemplate](https://github.com/15007555283/tinymceTemplate) - tinymce自定义插件模板
