@@ -373,7 +373,7 @@
 - [Iamafnan/my-nvimrc](https://github.com/Iamafnan/my-nvimrc) - My Neovim configurations
 - [ja-ford/delaytrain.nvim](https://github.com/ja-ford/delaytrain.nvim) - Train yourself to stop repeating keys... gently
 - [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) - 🗺️ A legend for your keymaps, commands, and autocmds, integrates with which-key.nvim, lazy.nvim, and more.
-- [DNLHC/glance.nvim](https://github.com/DNLHC/glance.nvim) - A pretty window for previewing, navigating and editing your LSP locations
+- [DNLHC/glance.nvim](https://github.com/DNLHC/glance.nvim) - Peek preview window for LSP locations in Neovim
 - [tzachar/local-highlight.nvim](https://github.com/tzachar/local-highlight.nvim) - 
 - [0x00-ketsu/markdown-preview.nvim](https://github.com/0x00-ketsu/markdown-preview.nvim) - A Neovim plugin renders markdown file in terminal buffer.
 - [delphinus/headlines.nvim](https://github.com/delphinus/headlines.nvim) - This plugin adds 3 kind of horizontal highlights for text filetypes, like `markdown`, `vimwiki` and `orgmode`
@@ -429,7 +429,7 @@
 - [artart222/CodeArt](https://github.com/artart222/CodeArt) - Use NeoVim as general purpose IDE
 - [LunarVim/Launch.nvim](https://github.com/LunarVim/Launch.nvim) - 🚀 Launch.nvim is modular starter for Neovim.
 - [itsuki0927/SkCode](https://github.com/itsuki0927/SkCode) - SkCode = neovim + lua + vscode
-- [SebTalbot/NvComfyGuration](https://github.com/SebTalbot/NvComfyGuration) - Lua configurations for Neovim
+- [SebTalbot/nvim_config](https://github.com/SebTalbot/nvim_config) - Lua configurations for Neovim
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - 📚 A Neovim config designed from scratch to be understandable
 - [vietanhvo/dotfiles](https://github.com/vietanhvo/dotfiles) - My neovim, zsh, tmux setup
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
