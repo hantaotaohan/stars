@@ -433,7 +433,7 @@
 - [SebTalbot/nvim_config](https://github.com/SebTalbot/nvim_config) - Lua configurations for Neovim
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - 📚 A Neovim config designed from scratch to be understandable
 - [vietanhvo/dotfiles](https://github.com/vietanhvo/dotfiles) - My neovim, zsh, tmux setup
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [ecosse3/nvim](https://github.com/ecosse3/nvim) - A non-minimal Neovim config built to work most efficiently with Frontend Development
 - [glepnir/nvim](https://github.com/glepnir/nvim) - neovim configuration written in lua
 - [foo-dogsquared/dotfiles](https://github.com/foo-dogsquared/dotfiles) - My dotfiles for my Linux-based system setup.
